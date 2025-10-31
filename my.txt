@@ -1,5 +1,5 @@
 注意事项,#genre#
-20251030031311仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
+20251031031250仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
 港台,#genre#
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 鳳凰衛視·中文,http://r.jdshipin.com/cCCzW
@@ -3684,16 +3684,157 @@ CGTN,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227391/index.m3u8
 坐月子那点儿事-熊乃瑾付辛博,https://vdse.bdstatic.com//be5cb6ace9182fad443a16148c3a9cdb.mp4
 oh买尬-宋小宝柳岩,https://vd3.bdstatic.com/mda-pjacxatgd4fu4svh/sc/cae_h264/1697040275219723394/mda-pjacxatgd4fu4svh.mp4
 TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/1709780957602048364/mda-qc64dz3a7dai9wmn.mp4
-猫TV影视,#genre#
-抖舞陪看,http://81.70.10.196:35455/douyu/11531165
-白嫖软件,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c02519bc71ce4f037001992e93a479_258.mp4
-免费观看,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8be3073073131010370019926f1b6bf_258.mp4
-大街网源,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8be4e1207f61d01037001992765d8f6_258.mp4
-互相搬助,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8be57a9bbcc944f03700199278a8589_258.mp4
-能看就行,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8be6e30070a32010370019927e26463_258.mp4
-分享更新,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8bfe4d0bd101e4f037001992d999551_258.mp4
-爱扒随便,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c03260bd23944f037001992ec72dba_258.mp4
-不必纠结,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8be58b8bd78eb4f03700199278e02a1_258.mp4
+中超粤评,#genre#
+10-31中超第29轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+18:00上海海港🆚浙江俱乐,https://suo.yt/R6oJbv0
+国🔊4k黄健翔,https://migu.188766.xyz/play?migutoken=676f796e6f61dbbda9126086d4a14376&id=sxP9Vb17h%2BUgYifB2jV9ne%2BsfxoN7Jz5GYqRZaa%2Ff7oj8uBpmzzQ3pDtRlppnBvWZ2x86Gys%2B%2F9MxCkNcsBIVCFXDP7Hiw997hQhc9zyoJmTi7BKHB44wGDhIfcxlDu4ePnEGxWmKc1PiOQBKON2YCmBw7fp5FKyMzC%2FqFI%2F0atMiAp3pL0598OFG1KL2qS5eUSzPU03kSLeV2y9fSHgSA%3D%3D&name=P89nxR%2FPZDlrD91djuKKKu5u%2BsC25KJVtM2x0%2BvMCT3vbPN7Pi%2FUkpnk6v01I1eJ%2F92DD6Xn3qca6SftS1qv8koKzdte03ybVQB%2FXWI8l8yPE90S8rliNbLhxK2Sua4CFW107uPfoJ9ofRCEtwayPg%3D%3D
+原🔊赛场原声,https://migu.188766.xyz/play?migutoken=d6568471f907941aae61c9127e9abb49&id=2ui5rJa%2FRrE0aHg0nIeYriXCJS9XG9mnN6uHC54pm5IfQF8rmH4q93TRMk1lnBuKUvkpafJF7x6AOfIqltQt7jgRJhWEjIasIpldv3AR2bRAzTEArC8l03DpcHUhFsJAx517Y%2BaqNLQu2vdiwVd%2F31L%2BAwpdH9zU3IuO3gvm807TLkx%2FV0CsLCqIHGpcu3ABaYW1bafFWNZc1pXUFtws2A%3D%3D&name=d9JCeJMMsAwgwr5xphB%2FPL%2BnqsO9L7Tn6AUMUYDoIYmzE27G1%2BxlIYek8vy7zH%2FZAtsps2HIPYuLgVNoPQL22d7GgxjEYyS0tSdy8APidhQhWYCPazK6gImXmRa%2B8gve
+19:35成都蓉城🆚河南俱乐,https://suo.yt/R6oJbv0
+国🔊4k苏东评,https://migu.188766.xyz/play?migutoken=f761255c2f8a854b0d8ac96243a890c7&id=TqQoyMpxvUB9ZZZs9cbprg6SwwPeRm0k%2F%2BLiwW7rYb%2Bpc110Md17GCN27Yz7aKiUxnQMWetysPnpJVEcsvoOikYzvxjz7qG7PT8GSNdlv0WzPo1V7cgNiysR0SD5zfsMjMtAYgLh4sVtogDPcJYdQ%2F3N7qYi9nLIrQtK0Eis4h7CKX%2BtbLmWGydk8TrdYYAQnL1PcD%2F4kjRJ9C6aFYbFaw%3D%3D&name=ZHnrXk9jxyn4xRK%2B1opkJPtLYmhjKKLmG3qvSGJ9uno7rlXb36jL7RiUWAORck5XlMfuvgwDuRwCvcM%2FinxtqjGlb9RtoXOVHSiGu07GB5s5zxlYgZR%2FF72WtFW8GHwP
+原🔊原声赛场,https://migu.188766.xyz/play?migutoken=9d7103660afae97ba325f1a8e9ef27ce&id=HxATc1eg1tZ28y27I01hii%2Fb%2FPkTqKcYOqdK%2BGEOaxHKyqHZbJ5aG129XCBJhgQ0KdqyUwyG5%2F4lUoGdvkfVc0gSe2bENFq6LgyUyOzPp9us1Z%2FTcfted7qhFxbxGUy12V%2FT2BcLMQFyVbr91E3J4FQDcgnXCeTZzU4LFf6lKRS62eLI7sMrVjiZV2wvnsdtdGg8vDCQ6%2FhF9Zy47eorLA%3D%3D&name=0sL9mTPwF%2BD%2BOHtct2s3%2BkfoDG%2B2JdvyVS0g42opFCY%2FULz7N%2BUbkobJRKPHb6MIxjr1uhDcFu1kGh%2BUSpocaBNivYAvY8pGjJgK0t6xHAQ1Vq%2BTQut7H06Ir9z1Vq86
+20:00上海申花🆚深圳鹏城,https://suo.yt/R6oJbv0
+国🔊刘越评述,https://migu.188766.xyz/play?migutoken=f138a2f66d8332c2d688930dc157634a&id=OoPaSOrq0cCbrIqz57ASM0cDP3AWVar%2FdyYW7FGe0prbBhKHpcFSZRx%2FGk3JMrN94FIosHwZXacO%2FSrwAaU2A4SIj8vpFE2LKrUPOkfi150GfR5%2BA1QrCz3rKzvoniMG5YMvOu5LsRZVRvjF%2Bbqp9nTXQfzfZGA4YbBtMV3H7r%2FJ4HhW6jAYc3pa8IDxNiHQcOgnYQYsbVi%2BshfkOSGcmw%3D%3D&name=GEUHpYTTcdN0JfupiZ7fvv1jj2OWWXdktjqZsd342NoRhv%2Fyl4sO%2BtYe5ENEkuMwDyBh1XM0iPQRdPmkFQhgBQH6D8M72tQYrixWt9FltPwpEiziMb48t5KZ9jEEsScX53zjn%2F0D2uQqNpzqVXI8xQ%3D%3D
+原🔊赛事原声,https://migu.188766.xyz/play?migutoken=ca176a60ebc260366ce0e7d9e43a5f87&id=8SzKvYe1Ke5CDOpH5oNDTDC8pqXXSTVxaSETkQ1bDs38V8fV2QJaO9EkgytKrDlS1s36K5hudLOwlLIE%2B3F2OnKCUmlahN3c%2FX3dUHk03oRonfCHpACuphjqCFMGI0KuJ%2FrFeIP%2F%2F5L4Rxe5zNlQJ2bQDv8DY5HYyfAs6zlif7y4np9s4YN57s5Q0Ko8Fu7HwafeVntDHdHILCcUbQOdjQ%3D%3D&name=xlwTLhixZxhblxLDjyYByyg7HgDIYRTjOXtNpotXae6YgJDDkm6Tpa8RyyZHNtMTGsFuUJ7yhWuyXQbDJGO3V3WaDREAfj7ySEXDvzKm6AxQ9r1cn1sp0EDF%2FVZL2eTk
+11-01中超第29轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+15:30长春亚泰🆚北京国安,https://suo.yt/R6oJbv0
+国🔊咪咕评述01,https://suo.yt/R6oJbv0
+原🔊赛场原声01,https://suo.yt/R6oJbv0
+15:30山东泰山🆚天津门虎,https://suo.yt/R6oJbv0
+国🔊咪咕评述02,https://suo.yt/R6oJbv0
+原🔊赛场原声02,https://suo.yt/R6oJbv0
+19:35梅州客家🆚大连英博,https://suo.yt/R6oJbv0
+国🔊咪咕评述03,https://suo.yt/R6oJbv0
+原🔊赛场原声03,https://suo.yt/R6oJbv0
+11-02中超第29轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+15:30青岛海牛🆚武汉三镇,https://suo.yt/R6oJbv0
+国🔊咪咕评述04,https://suo.yt/R6oJbv0
+原🔊赛场原声04,https://suo.yt/R6oJbv0
+19:35云南玉昆🆚青岛西岸,https://suo.yt/R6oJbv0
+国🔊咪咕评述05,https://suo.yt/R6oJbv0
+原🔊赛场原声05,https://suo.yt/R6oJbv0
+湘超赛评,#genre#
+10-31湖南省足球联赛⚽📡,http://81.70.10.196:35455/douyu/11531165
+19:38常德🆚怀化,https://suo.yt/R6oJbv0
+国🔊咪咕评述,https://migu.188766.xyz/play?migutoken=9ebd954bd50c8e8616ac0828ebe68f73&id=9jBlah9HyArkdVaTgRRxjsjIjosjbeDZvsjfSDHqXgzPc5QMpAjWuWSnsVJjb5mQHstj7Gqb0utae1CKnz9e3iBh0KYzOTjXXP66RKrB%2BCWhdib5Gcdi0vsGpTR%2FeRq4qfv%2FCq9wN2ZRiWSf9QMA7U%2B1Zay9uufi3VEIa5IRP%2F4YdLRatB8ns%2BThX0LVKSF6OMG0qu3HYO6G9oscQp9VAw%3D%3D&name=7ZrxlQFDVi1tKffz9ScWN2R9MzVdCrTqBey5uhpEmtlxDNl4OfdWlS%2FpT1QY4lHheUcEoBMLYz%2FlKSwGqJaXxldumj0F1jDR5xLSi3d%2Bl%2BvVNADxA1vigfgCc4TFt%2FvL
+19:38永州🆚益阳,https://suo.yt/R6oJbv0
+国🔊咪咕述评,https://migu.188766.xyz/play?migutoken=82f7371a8735dfa6bc8eeb85a9542fd4&id=GQX6zZijUpOGbwbAXtqnTeYpaQ9JG5aUW8U6AnwQIgcjeFV0WiNenQkiQPRi5CyXhx1Qh%2FAh%2BgyRC0z99To%2F2hutkNgHGJHaiR4q%2B40lAIVTWw7YtnEw9se9YHvSmxWFNVXgtcnyc4DPk2%2BydYh8P%2F1oHPHJgg5KXG9cumVXkh9ql3cXKm%2FujsPRUXYIAYCZWgghK81Xs9CFvgISYo6ieg%3D%3D&name=aDu07GjoB4vR4PKRsHhx0%2BN50JfNLmi8lIcMaZGKA%2FOgwdSJLMux83%2FmlWkHYYzsQ57VGbCIvaEgk2zKtj3%2BqA0fS7ZeMAVSjFWTev22qNkDrRvJ3LAazCTNLdg7TuuJ
+西甲赛评,#genre#
+11-01西甲第11轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+04:00加泰🆚赫罗纳,https://suo.yt/R6oJbv0
+21:00维拉里尔🆚华历简奴,https://suo.yt/R6oJbv0
+23:15马体会🆚塞维利亚,https://suo.yt/R6oJbv0
+11-02西甲第11轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+01:30皇家苏斯达🆚毕尔包,https://suo.yt/R6oJbv0
+04:00皇马🆚华伦西亚,https://suo.yt/R6oJbv0
+21:00利云特🆚塞尔塔,https://suo.yt/R6oJbv0
+国🔊咪咕评述06,https://suo.yt/R6oJbv0
+原🔊赛场原声06,https://suo.yt/R6oJbv0
+23:15阿拉维斯🆚爱斯宾奴,https://suo.yt/R6oJbv0
+国🔊咪咕评述07,https://suo.yt/R6oJbv0
+原🔊赛场原声07,https://suo.yt/R6oJbv0
+11-03西甲第11轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+01:30巴塞🆚埃尔切,https://suo.yt/R6oJbv0
+国🔊咪咕评述08,https://suo.yt/R6oJbv0
+原🔊赛场原声08,https://suo.yt/R6oJbv0
+04:00贝迪斯🆚马略卡,https://suo.yt/R6oJbv0
+国🔊咪咕评述09,https://suo.yt/R6oJbv0
+原🔊赛场原声09,https://suo.yt/R6oJbv0
+11-04西甲第11轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+04:00奥维耶多🆚奥沙辛拿,https://suo.yt/R6oJbv0
+国🔊咪咕评述10,https://suo.yt/R6oJbv0
+原🔊赛场原声10,https://suo.yt/R6oJbv0
+德甲赛评,#genre#
+11-01德甲第9轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+03:30奥格斯堡🆚多蒙特,https://suo.yt/R6oJbv0
+22:30海登海姆🆚法兰克福,https://suo.yt/R6oJbv0
+22:30缅恩斯🆚云达不莱梅,https://suo.yt/R6oJbv0
+22:30RB莱比锡🆚史特加,https://suo.yt/R6oJbv0
+22:30圣保利🆚慕逊加柏,https://suo.yt/R6oJbv0
+22:30哈化柏林🆚费雷堡,https://suo.yt/R6oJbv0
+11-02德甲第9轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+01:30拜仁🆚利华古逊,https://suo.yt/R6oJbv0
+22:30科隆🆚汉堡,https://suo.yt/R6oJbv0
+11-03德甲第9轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+00:30禾夫斯堡🆚贺芬咸,https://suo.yt/R6oJbv0
+NBA赛评,#genre#
+11-01NBA常规赛🏀📡,http://81.70.10.196:35455/douyu/11531165
+07:00老鹰🆚步行者,https://suo.yt/R6oJbv0
+07:0076人🆚凯尔特人,https://suo.yt/R6oJbv0
+07:30猛龙🆚骑士,https://suo.yt/R6oJbv0
+08:00公牛🆚尼克斯,https://suo.yt/R6oJbv0
+09:30湖人🆚灰熊,https://suo.yt/R6oJbv0
+10:00掘金🆚开拓者,https://suo.yt/R6oJbv0
+10:00爵士🆚太阳,https://suo.yt/R6oJbv0
+10:30鹈鹕🆚快船,https://suo.yt/R6oJbv0
+苏超赛评,#genre#
+11-01江苏联决赛⚽📡,http://81.70.10.196:35455/douyu/11531165
+19:35南通队🆚泰州队,https://suo.yt/R6oJbv0
+国🔊江苏卫视,https://suo.yt/R6oJbv0
+国🔊江苏新闻,https://suo.yt/R6oJbv0
+意甲赛评,#genre#
+11-01意甲第10轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+22:00乌甸尼斯🆚阿特兰大,https://suo.yt/R6oJbv0
+11-02意甲第10轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+01:00拿玻里🆚科莫,https://suo.yt/R6oJbv0
+03:45克雷莫纳🆚祖云达斯,https://suo.yt/R6oJbv0
+19:30维罗纳🆚国际米兰,https://suo.yt/R6oJbv0
+22:00费伦天拿🆚莱切,https://suo.yt/R6oJbv0
+22:00拖连奴🆚比萨,https://suo.yt/R6oJbv0
+11-03意甲第10轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+01:00帕尔马🆚博洛尼亚,https://suo.yt/R6oJbv0
+3:45AC米兰🆚罗马,https://suo.yt/R6oJbv0
+11-04意甲第10轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+01:30莎索罗🆚热拿亚,https://suo.yt/R6oJbv0
+03:45拉素🆚卡利亚里,https://suo.yt/R6oJbv0
+英超粤评,#genre#
+11-01英超第10轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+23:00曼联🆚诺定汉,https://suo.yt/R6oJbv0
+粤🔊旁述
+粤🔊赛事旁述01,https://suo.yt/R6oJbv0
+国🔊赛事评述01,https://suo.yt/R6oJbv0
+国🔊评述
+23:00般尼🆚阿仙奴,https://suo.yt/R6oJbv0
+粤🔊赛事旁述02,https://suo.yt/R6oJbv0
+国🔊赛事评述02,https://suo.yt/R6oJbv0
+23:00富咸🆚狼队,https://suo.yt/R6oJbv0
+粤🔊赛事旁述03,https://suo.yt/R6oJbv0
+国🔊赛事评述03,https://suo.yt/R6oJbv0
+23:00水晶宫🆚屈福特,https://suo.yt/R6oJbv0
+粤🔊赛事旁述04,https://suo.yt/R6oJbv0
+国🔊赛事评述04,https://suo.yt/R6oJbv0
+23:00白礼顿🆚列斯联,https://suo.yt/R6oJbv0
+粤🔊赛事旁述05,https://suo.yt/R6oJbv0
+国🔊赛事评述05,https://suo.yt/R6oJbv0
+11-02英超第10轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+01:30热刺🆚车路士,https://suo.yt/R6oJbv0
+粤🔊赛事旁述06,https://suo.yt/R6oJbv0
+国🔊赛事评述06,https://suo.yt/R6oJbv0
+04:00利物浦🆚维拉,https://suo.yt/R6oJbv0
+粤🔊赛事旁述07,https://suo.yt/R6oJbv0
+国🔊赛事评述07,https://suo.yt/R6oJbv0
+22:00韦斯咸🆚纽卡素,https://suo.yt/R6oJbv0
+粤🔊赛事旁述08,https://suo.yt/R6oJbv0
+国🔊赛事评述08,https://suo.yt/R6oJbv0
+11-03英超第10轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+00:30曼城🆚般尼茅夫,https://suo.yt/R6oJbv0
+粤🔊赛事旁述09,https://suo.yt/R6oJbv0
+国🔊赛事评述09,https://suo.yt/R6oJbv0
+11-04英超第10轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+04:00新特兰🆚爱华顿,https://suo.yt/R6oJbv0
+粤🔊赛事旁述10,https://suo.yt/R6oJbv0
+国🔊赛事评述10,https://suo.yt/R6oJbv0
+法甲赛评,#genre#
+11-02法甲第11轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+00:00巴黎圣日门🆚尼斯,https://suo.yt/R6oJbv0
+02:00摩纳哥🆚巴黎FC,https://suo.yt/R6oJbv0
+04:05欧塞尔🆚马赛,https://suo.yt/R6oJbv0
+22:00雷恩🆚斯特拉斯堡,https://suo.yt/R6oJbv0
+11-03法甲第11轮⚽📡,http://81.70.10.196:35455/douyu/11531165
+00:15朗斯🆚洛里昂,https://suo.yt/R6oJbv0
+00:15里尔🆚昂热,https://suo.yt/R6oJbv0
+00:15南特🆚梅斯,https://suo.yt/R6oJbv0
+00:15图卢兹🆚勒阿弗尔,https://suo.yt/R6oJbv0
+03:45布雷斯特🆚里昂,https://suo.yt/R6oJbv0
 赛事咪咕,#genre#
 抖姐舞陪你看,http://81.70.10.196:35455/douyu/11531165
 赛事睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
@@ -3938,6 +4079,13 @@ CCTV-17咪咕,http://t.061899.xyz/tl/tl.php?id=cctv17
 粤语戏曲频道,http://tl.061833.xyz/tl/null-15
 粤语长片频道,http://tl.061833.xyz/tl/null-10
 粤语音乐抖播,video://https://live.douyin.com/933732405880
+Now爆谷国推,http://pull.sh.livecheck.alivecdn.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidanow02.flv
+Now星影国推,http://pull.sh.livecheck.alivecdn.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidanow01.flv
+东森电影国推,https://publish.ws.huajiao.com/live/11-AfvKFjUHEGCu3y7VUHyBbmWMf5y0KdbYRc7OU7JBQEjicdrt4GYZIkcZ8C5ch3QB6iaD.flv
+无线功夫国推,http://pull.sh.livecheck.alivecdn.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidatvb01.flv
+无线生活粤推,http://pull.sh.livecheck.alivecdn.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidatvb02.flv
+龙祥时代粤推,https://publish.ws.huajiao.com/live/14-h6ROwJli7A49CSXeixuhBKSadW2p0xvCH9PXKrFLmeqgdImgOmKjLjx7N2kCQR5ftLrq.flv
+龙祥电影粤推,http://pull.sh.livecheck.alivecdn.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidanlzzl.flv
 ⬇️延时13秒⬇️,https://suo.yt/R6oJbv0
 Plus综合实时,http://vallest.uk/livehttpplay?channel_id=30023
 凤凰中文实时,http://vallest.uk/livehttpplay?channel_id=30014
@@ -4207,8 +4355,8 @@ momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
 天地剑心11集,http://cjx.999315.xyz/yzzy/20251028/4180_96b250a9/index.m3u8
 天地剑心12集,http://cjx.999315.xyz/yzzy/20251029/21690_649e7bd4/index.m3u8
 天地剑心13集,http://cjx.999315.xyz/yzzy/20251029/21691_006b9646/index.m3u8
-天地剑心14集
-天地剑心15集
+天地剑心14集,http://cjx.999315.xyz/yzzy/20251030/4387_6b4e2b93/index.m3u8
+天地剑心15集,http://cjx.999315.xyz/yzzy/20251030/4388_473803f0/index.m3u8
 天地剑心16集
 天地剑心17集
 天地剑心18集
@@ -4245,8 +4393,8 @@ momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
 水龙吟第12集,http://cjx.999315.xyz/yzzy/20251028/7008_decc2e06/index.m3u8
 水龙吟第13集,http://cjx.999315.xyz/yzzy/20251029/7124_64986d86/index.m3u8
 水龙吟第14集,http://cjx.999315.xyz/yzzy/20251029/7125_80f7325f/index.m3u8
-水龙吟第15集
-水龙吟第16集
+水龙吟第15集,http://cjx.999315.xyz/yzzy/20251030/7181_99c83c90/index.m3u8
+水龙吟第16集,
 水龙吟第17集
 水龙吟第18集
 水龙吟第19集
@@ -4292,8 +4440,8 @@ momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
 暗河传第18集,https://cdn.yzzy28-play.com/20251028/21647_0ef8fec8/index.m3u8
 暗河传第19集,https://cdn.yzzy28-play.com/20251028/21648_4238fc46/index.m3u8
 暗河传第20集,http://cjx.999315.xyz/yzzy/20251029/21682_a819d065/index.m3u8
-暗河传第21集
-暗河传第22集
+暗河传第21集,http://cjx.999315.xyz/yzzy/20251030/21729_21b64b53/index.m3u8
+暗河传第22集,http://cjx.999315.xyz/yzzy/20251030/21730_0c8fc7ad/index.m3u8
 暗河传第23集
 暗河传第24集
 暗河传第25集
@@ -4581,6 +4729,150 @@ Astr'欢喜频国,https://cdn9.163189.xyz/smt1.1.php?id=Huahee
 TITv综合地波,http://123.51.136.80:8303/0.ts
 HakkaTv地波,http://123.51.136.80:8307/0.ts
 PTS'xs综地波,http://123.51.136.80:8312/0.ts
+闽南频肆,#genre#
+中天新闻肆Tv,http://180.176.212.253:5051/4gtv-4gtv009/index.m3u8?proxy=true
+寰宇新闻肆Tv,http://180.176.212.253:5051/litv-longturn14/index.m3u8?proxy=true
+东森新闻肆Tv,http://180.176.212.253:5051/4gtv-4gtv152/index.m3u8?proxy=true
+tvbs新闻肆Tv,http://180.176.212.253:5051/4gtv-4gtv072/index.m3u8?proxy=true
+三立新闻肆Tv,http://180.176.212.253:5051/4gtv-live089/index.m3u8?proxy=true
+三立新闻肆Tv,http://180.176.212.253:5051/iNEWS/index.m3u8?proxy=true
+非凡新闻肆Tv,http://180.176.212.253:5051/4gtv-4gtv010/index.m3u8?proxy=true
+闽镜新闻肆Tv,http://180.176.212.253:5051/4gtv-4gtv075/index.m3u8?proxy=true
+民视新闻肆Tv,http://180.176.212.253:5051/litv-ftv13/index.m3u8?proxy=true
+中视新闻肆Tv,http://180.176.212.253:5051/4gtv-4gtv074/index.m3u8?proxy=true
+华视新闻肆Tv,http://180.176.212.253:5051/4gtv-4gtv052/index.m3u8?proxy=true
+台视新闻肆Tv,http://180.176.212.253:5051/4gtv-4gtv051/index.m3u8?proxy=true
+民视闽南肆Tv,http://180.176.212.253:5051/4gtv-4gtv002/index.m3u8?proxy=true
+民视闽南肆Tv,http://180.176.212.253:5051/4gtv-4gtv155/index.m3u8?proxy=true
+中视闽南肆Tv,http://180.176.212.253:5051/4gtv-4gtv040/index.m3u8?proxy=true
+华视闽南肆Tv,http://180.176.212.253:5051/4gtv-4gtv041/index.m3u8?proxy=true
+台视闽南肆Tv,http://180.176.212.253:5051/4gtv-4gtv066/index.m3u8?proxy=true
+寰宇闽南肆Tv,http://180.176.212.253:5051/4gtv-4gtv156/index.m3u8?proxy=true
+tvbs闽南肆Tv,http://180.176.212.253:5051/4gtv-4gtv073/index.m3u8?proxy=true
+民视台湾肆Tv,http://180.176.212.253:5051/4gtv-4gtv001/index.m3u8?proxy=true
+民视第一肆Tv,http://180.176.212.253:5051/4gtv-4gtv003/index.m3u8?proxy=true
+民视旅游肆Tv,http://180.176.212.253:5051/litv-ftv07/index.m3u8?proxy=true
+民视影剧肆Tv,http://180.176.212.253:5051/litv-ftv09/index.m3u8?proxy=true
+民视综艺肆Tv,http://180.176.212.253:5051/4gtv-4gtv004/index.m3u8?proxy=true
+中视菁采肆Tv,http://180.176.212.253:5051/4gtv-4gtv064/index.m3u8?proxy=true
+中视经典肆Tv,http://180.176.212.253:5051/4gtv-4gtv080/index.m3u8?proxy=true
+台视财经肆Tv,http://180.176.212.253:5051/4gtv-4gtv056/index.m3u8?proxy=true
+公视戏剧肆Tv,http://180.176.212.253:5051/4gtv-4gtv042/index.m3u8?proxy=true
+闽南戏剧肆Tv,http://180.176.212.253:5051/litv-longturn22/index.m3u8?proxy=true
+国际财经肆Tv,http://180.176.212.253:5051/4gtv-4gtv104/index.m3u8?proxy=true
+全球财经肆Tv,http://180.176.212.253:5051/4gtv-live060/index.m3u8?proxy=true
+东森财经肆Tv,http://180.176.212.253:5051/4gtv-4gtv153/index.m3u8?proxy=true
+寰宇财经肆Tv,http://180.176.212.253:5051/4gtv-4gtv158/index.m3u8?proxy=true
+cnbc财经肆Tv,http://180.176.212.253:5051/4gtv-live130/index.m3u8?proxy=true
+tvbs精采肆Tv,http://180.176.212.253:5051/4gtv-4gtv067/index.m3u8?proxy=true
+tvbs欢乐肆Tv,http://180.176.212.253:5051/4gtv-4gtv068/index.m3u8?proxy=true
+tvbs综艺肆Tv,http://180.176.212.253:5051/4gtv-live087/index.m3u8?proxy=true
+tvbs台剧肆Tv,http://180.176.212.253:5051/4gtv-live088/index.m3u8?proxy=true
+八大精彩肆Tv,http://180.176.212.253:5051/4gtv-4gtv034/index.m3u8?proxy=true
+八大综艺肆Tv,http://180.176.212.253:5051/4gtv-4gtv039/index.m3u8?proxy=true
+三立综合肆Tv,http://180.176.212.253:5051/4gtv-live207/index.m3u8?proxy=true
+爱达娱乐肆Tv,http://180.176.212.253:5051/4gtv-4gtv070/index.m3u8?proxy=true
+靖洋戏剧肆Tv,http://180.176.212.253:5051/4gtv-4gtv045/index.m3u8?proxy=true
+靖洋卡通肆Tv,http://180.176.212.253:5051/4gtv-4gtv057/index.m3u8?proxy=true
+靖天卡通肆Tv,http://180.176.212.253:5051/4gtv-4gtv044/index.m3u8?proxy=true
+靖天综合肆Tv,http://180.176.212.253:5051/4gtv-4gtv046/index.m3u8?proxy=true
+靖天日本肆Tv,http://180.176.212.253:5051/4gtv-4gtv047/index.m3u8?proxy=true
+靖天欢乐肆Tv,http://180.176.212.253:5051/4gtv-4gtv054/index.m3u8?proxy=true
+靖天映画肆Tv,http://180.176.212.253:5051/4gtv-4gtv055/index.m3u8?proxy=true
+靖天戏剧肆Tv,http://180.176.212.253:5051/4gtv-4gtv058/index.m3u8?proxy=true
+靖天电影肆Tv,http://180.176.212.253:5051/4gtv-4gtv061/index.m3u8?proxy=true
+靖天育乐肆Tv,http://180.176.212.253:5051/4gtv-4gtv062/index.m3u8?proxy=true
+靖天国际肆Tv,http://180.176.212.253:5051/4gtv-4gtv063/index.m3u8?proxy=true
+靖天资讯肆Tv,http://180.176.212.253:5051/4gtv-4gtv065/index.m3u8?proxy=true
+龙华卡通肆Tv,http://180.176.212.253:5051/litv-longturn01/index.m3u8?proxy=true
+龙华日韩肆Tv,http://180.176.212.253:5051/litv-longturn11/index.m3u8?proxy=true
+龙华偶像肆Tv,http://180.176.212.253:5051/litv-longturn12/index.m3u8?proxy=true
+龙华电影肆Tv,http://180.176.212.253:5051/litv-longturn03/index.m3u8?proxy=true
+龙华洋片肆Tv,http://180.176.212.253:5051/litv-longturn02/index.m3u8?proxy=true
+龙华戏剧肆Tv,http://180.176.212.253:5051/litv-longturn18/index.m3u8?proxy=true
+龙华经典肆Tv,http://180.176.212.253:5051/litv-longturn21/index.m3u8?proxy=true
+国会频壹肆Tv,http://180.176.212.253:5051/4gtv-4gtv084/index.m3u8?proxy=true
+国会频贰肆Tv,http://180.176.212.253:5051/4gtv-4gtv085/index.m3u8?proxy=true
+好消息壹肆Tv,http://180.176.212.253:5051/litv-ftv16/index.m3u8?proxy=true
+好消息贰肆Tv,http://180.176.212.253:5051/litv-ftv17/index.m3u8?proxy=true
+大爱壹高肆Tv,http://180.176.212.253:5051/4gtv-live007/index.m3u8?proxy=true
+大爱贰高肆Tv,http://180.176.212.253:5051/4gtv-live106/index.m3u8?proxy=true
+人间卫视肆Tv,http://180.176.212.253:5051/4gtv-live008/index.m3u8?proxy=true
+原住民族肆Tv,http://180.176.212.253:5051/4gtv-live014/index.m3u8?proxy=true
+智林体育肆Tv,http://180.176.212.253:5051/4gtv-4gtv101/index.m3u8?proxy=true
+博斯魅力肆Tv,http://180.176.212.253:5051/litv-longturn04/index.m3u8?proxy=true
+博斯网球肆Tv,http://180.176.212.253:5051/litv-longturn09/index.m3u8?proxy=true
+博高球壹肆Tv,http://180.176.212.253:5051/litv-longturn05/index.m3u8?proxy=true
+博高球贰肆Tv,http://180.176.212.253:5051/litv-longturn06/index.m3u8?proxy=true
+博运动壹肆Tv,http://180.176.212.253:5051/litv-longturn07/index.m3u8?proxy=true
+博运动贰肆Tv,http://180.176.212.253:5051/litv-longturn08/index.m3u8?proxy=true
+博无限壹肆Tv,http://180.176.212.253:5051/litv-longturn10/index.m3u8?proxy=true
+博无限贰肆Tv,http://180.176.212.253:5051/litv-longturn13/index.m3u8?proxy=true
+阿里郎台肆Tv,http://180.176.212.253:5051/4gtv-4gtv079/index.m3u8?proxy=true
+滚动人生肆Tv,http://180.176.212.253:5051/4gtv-live012/index.m3u8?proxy=true
+达文西台肆Tv,http://180.176.212.253:5051/4gtv-4gtv018/index.m3u8?proxy=true
+猪哥亮厅肆Tv,http://180.176.212.253:5051/4gtv-4gtv006/index.m3u8?proxy=true
+亚洲旅游肆Tv,http://180.176.212.253:5051/4gtv-4gtv076/index.m3u8?proxy=true
+ELta旅游肆Tv,http://180.176.212.253:5051/4gtv-live120/index.m3u8?proxy=true
+美国之音肆Tv,http://180.176.212.253:5051/litv-ftv03/index.m3u8?proxy=true
+半岛新闻肆Tv,http://180.176.212.253:5051/litv-ftv10/index.m3u8?proxy=true
+非凡商业肆Tv,http://180.176.212.253:5051/4gtv-4gtv048/index.m3u8?proxy=true
+第壹商业肆Tv,http://180.176.212.253:5051/4gtv-4gtv109/index.m3u8?proxy=true
+影迷纪实肆Tv,http://180.176.212.253:5051/litv-ftv15/index.m3u8?proxy=true
+经典电影肆Tv,http://180.176.212.253:5051/4gtv-live021/index.m3u8?proxy=true
+经典卡通肆Tv,http://180.176.212.253:5051/4gtv-live022/index.m3u8?proxy=true
+精选动漫肆Tv,http://180.176.212.253:5051/4gtv-live024/index.m3u8?proxy=true
+戏剧壹台肆Tv,http://180.176.212.253:5051/4gtv-live010/index.m3u8?proxy=true
+古典音乐肆Tv,http://180.176.212.253:5051/4gtv-4gtv059/index.m3u8?proxy=true
+客家电视肆Tv,http://180.176.212.253:5051/4gtv-4gtv043/index.m3u8?proxy=true
+华仁纪实肆Tv,http://180.176.212.253:5051/4gtv-4gtv013/index.m3u8?proxy=true
+时尚运动肆Tv,http://180.176.212.253:5051/4gtv-4gtv014/index.m3u8?proxy=true
+空间居家肆Tv,http://180.176.212.253:5051/4gtv-live206/index.m3u8?proxy=true
+生活英语肆Tv,http://180.176.212.253:5051/litv-longturn20/index.m3u8?proxy=true
+互动英语肆Tv,http://180.176.212.253:5051/4gtv-live030/index.m3u8?proxy=true
+采昌影剧肆Tv,http://180.176.212.253:5051/4gtv-4gtv049/index.m3u8?proxy=true
+数位电影肆Tv,http://180.176.212.253:5051/4gtv-4gtv011/index.m3u8?proxy=true
+欧洲电影肆Tv,http://180.176.212.253:5051/4gtv-live157/index.m3u8?proxy=true
+Amc电影肆Tv,http://180.176.212.253:5051/4gtv-4gtv017/index.m3u8?proxy=true
+CINEMA-肆Tv,http://180.176.212.253:5051/4gtv-live069/index.m3u8?proxy=true
+TRA'体育肆Tv,http://180.176.212.253:5051/4gtv-4gtv077/index.m3u8?proxy=true
+车迷体育肆Tv,http://180.176.212.253:5051/4gtv-live201/index.m3u8?proxy=true
+SMARt台肆Tv,http://180.176.212.253:5051/litv-longturn19/index.m3u8?proxy=true
+罪案侦查肆Tv,http://180.176.212.253:5051/4gtv-live027/index.m3u8?proxy=true
+霹雳布袋肆Tv,http://180.176.212.253:5051/4gtv-live145/index.m3u8?proxy=true
+金光布袋肆Tv,http://180.176.212.253:5051/4gtv-live144/index.m3u8?proxy=true
+nick动漫肆Tv,http://180.176.212.253:5051/4gtv-live032/index.m3u8?proxy=true
+nick少儿肆Tv,http://180.176.212.253:5051/4gtv-live105/index.m3u8?proxy=true
+MO-亲子肆Tv,http://180.176.212.253:5051/4gtv-live107/index.m3u8?proxy=true
+DreamW肆Tv,http://180.176.212.253:5051/4gtv-live017/index.m3u8?proxy=true
+LUXE-TV肆Tv,http://180.176.212.253:5051/4gtv-live121/index.m3u8?proxy=true
+rock娱乐肆Tv,http://180.176.212.253:5051/4gtv-live080/index.m3u8?proxy=true
+rock电影肆Tv,http://180.176.212.253:5051/4gtv-live138/index.m3u8?proxy=true
+HItS电影肆Tv,http://180.176.212.253:5051/4gtv-live620/index.m3u8?proxy=true
+magellan肆Tv,http://180.176.212.253:5051/4gtv-live123/index.m3u8?proxy=true
+INULTRa肆Tv,http://180.176.212.253:5051/4gtv-live096/index.m3u8?proxy=true
+LifeTime肆Tv,http://180.176.212.253:5051/4gtv-live029/index.m3u8?proxy=true
+电影原声肆Tv,http://180.176.212.253:5051/4gtv-live031/index.m3u8?proxy=true
+MTVLive肆Tv,http://180.176.212.253:5051/4gtv-live025/index.m3u8?proxy=true
+PETClUB肆Tv,http://180.176.212.253:5051/4gtv-live110/index.m3u8?proxy=true
+FUN娱乐肆Tv,http://180.176.212.253:5051/4gtv-live011/index.m3u8?proxy=true
+韩国娱乐肆Tv,http://180.176.212.253:5051/4gtv-4gtv016/index.m3u8?proxy=true
+GLOBAL肆Tv,http://180.176.212.253:5051/4gtv-live112/index.m3u8?proxy=true
+TV5mon肆Tv,http://180.176.212.253:5051/4gtv-live122/index.m3u8?proxy=true
+TRACEU肆Tv,http://180.176.212.253:5051/4gtv-4gtv082/index.m3u8?proxy=true
+BLoomb肆Tv,http://180.176.212.253:5051/4gtv-live059/index.m3u8?proxy=true
+FRANCE肆Tv,http://180.176.212.253:5051/4gtv-live146/index.m3u8?proxy=true
+MEZZOl肆Tv,http://180.176.212.253:5051/4gtv-4gtv083/index.m3u8?proxy=true
+GINXTV肆Tv,http://180.176.212.253:5051/4gtv-4gtv053/index.m3u8?proxy=true
+DW-之声肆Tv,http://180.176.212.253:5051/4gtv-live071/index.m3u8?proxy=true
+历史频道肆Tv,http://180.176.212.253:5051/4gtv-live026/index.m3u8?proxy=true
+国家地理肆Tv,http://180.176.212.253:5051/4gtv-live208/index.m3u8?proxy=true
+东森购壹肆Tv,http://180.176.212.253:5051/4gtv-live047/index.m3u8?proxy=true
+东森购壹肆Tv,http://180.176.212.253:5051/4gtv-4gtv102/index.m3u8?proxy=true
+东森购贰肆Tv,http://180.176.212.253:5051/4gtv-live046/index.m3u8?proxy=true
+东森购贰肆Tv,http://180.176.212.253:5051/4gtv-4gtv103/index.m3u8?proxy=true
+东森购叁肆Tv,http://180.176.212.253:5051/4gtv-live048/index.m3u8?proxy=true
+东森购五肆Tv,http://180.176.212.253:5051/4gtv-live049/index.m3u8?proxy=true
 央卫频特,#genre#
 CCTV-01频特,https://smt.858.qzz.io/Smart.php?id=cctv1
 CCTV-02频特,https://smt.858.qzz.io/Smart.php?id=cctv2
@@ -7425,6 +7717,16 @@ BSフジ BS Fuji,https://smt.858.qzz.io/Smart.php?id=bsfuji_japan
 CNA Japan,https://smt.858.qzz.io/Smart.php?id=cna_japan
 BS-TBS,https://smt.858.qzz.io/Smart.php?id=bstbs_japan
 NHK Oaska,https://smt.858.qzz.io/Smart.php?id=nhkosaka_japan
+猫TV影视,#genre#
+抖舞陪看,http://81.70.10.196:35455/douyu/11531165
+白嫖软件,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c02519bc71ce4f037001992e93a479_258.mp4
+免费观看,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8be3073073131010370019926f1b6bf_258.mp4
+大街网源,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8be4e1207f61d01037001992765d8f6_258.mp4
+互相搬助,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8be57a9bbcc944f03700199278a8589_258.mp4
+能看就行,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8be6e30070a32010370019927e26463_258.mp4
+分享更新,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8bfe4d0bd101e4f037001992d999551_258.mp4
+爱扒随便,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c03260bd23944f037001992ec72dba_258.mp4
+不必纠结,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8be58b8bd78eb4f03700199278e02a1_258.mp4
 央视频道,#genre#
 CCTV1,http://112.27.235.94:8000/hls/1/index.m3u8
 CCTV2,http://112.27.235.94:8000/hls/2/index.m3u8#http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2#http://183.215.134.239:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
