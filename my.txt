@@ -1,5 +1,5 @@
 注意事项,#genre#
-20251104031215仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
+20251105031348仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
 港台,#genre#
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 鳳凰衛視·中文,http://r.jdshipin.com/cCCzW
@@ -3685,94 +3685,131 @@ CGTN,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227391/index.m3u8
 oh买尬-宋小宝柳岩,https://vd3.bdstatic.com/mda-pjacxatgd4fu4svh/sc/cae_h264/1697040275219723394/mda-pjacxatgd4fu4svh.mp4
 TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/1709780957602048364/mda-qc64dz3a7dai9wmn.mp4
 NBA赛评,#genre#
-11-04NBA常规赛🏀📡,http://81.70.10.196:35455/douyu/11531165
-11:00湖人🆚开拓者,https://suo.yt/R6oJbv0
-粤🔊华头旁述,https://pullhw1.zhaoyangyang.cn/live/8844420_lud.flv?auth_info=ZHjUi3nedmt2CQHy5sECZNM46uUKsDKuBPk972nyWyDJ9AUCIsGaJkWYunABjfTo.53366f326d746864354c714475584b48
-粤🔊莫俊祺述,https://mgev.188766.xyz/play?migutoken=ea3c2fa1fa16d95a947c2086f1c3d1d3&id=jZAw8HoFJcyyoclNsLzBgTiF290DE6ctOmqLIvgSfO%2FrRqaJ68N%2BIpWeKL%2Bd71r3lruBSSXUQYl4VPkEhJsmV0Nj%2F017UHRIg33izCVqv1zw74Li3wmC%2F7wja5K53sO%2BN%2B07POnH5bjBzyLCrcGUydT6rQQW%2BXrLMe3T6LnBLUnYQntJUVBfA%2FQFn7NrJzAkbMLPHbqOmqIgMX3cKJsbEH1fq766h8NQFPERMXTxrcY%3D&name=p7HMsWE3Mqw44CWcqwC6rDhVgUhGKbK%2FRkywns4tIUye%2FGcB5fP44FH0hWbVfPJbZZwDTFw3uBONdRQeYlZX7IZSOyLB4EmkwEiugPoeOPY%3D
-粤🔊牛哥旁述,https://pullhw1.zhaoyangyang.cn/live/8844384.flv?auth_info=%2BZWCPalFjCrGCWCP8tBeWOA%2B5Qfkri8u%2Bb%2F6FiHdyVM%3D.3631774e664b78485064375a42654f44
-国🔊4k庄宁宇,https://mgev.188766.xyz/play?migutoken=9552a57518aec22f88900d93d924e491&id=6M%2FFK8JNEVtiiXcqa3YByU1uW7prwIfBYyzJ2OEoZYLbhwQn00%2Bc24s4HpS0RGJvB%2F8IVCbaPUZyNMP%2BvNYxu%2BQe1s%2BKXqndcXmT1z2gah2CMbJWqVP0%2BKIu6GcXyVkhVkpZzuSwZuiIVW7X7frKv9DcumvfRkvoChxvQnK1V48zhevjKJibXx806RxFM3sKrfPNXhb01u%2FA9SFvkzdNQO8SbisjA1fNIpuET5wqDeE%3D&name=PHhcJy7ZxAt7jGo8LUxMzjrg5fME7fii0u7CIg7YpV6PPzxrJbTc36WJvew2oLdFWaYoxw5JqpbbhMmurI4v%2Fu55%2BNyy5OxdKqJrZuv00viFRVpRNrdjuqUy7bGofQAt
-国🔊4k徐正溪,https://mgev.188766.xyz/play?migutoken=c29ab0c9d9bf22aaa5963bb41faf2c5f&id=TJ69cM2yikGqk4bqPY0VMqlDtP0HSBKLcEt9F7Osm9YcsLQ4Vp3Zxv0uEQuC5hE%2Fo1e88fJAO5GgVutrhA0xk6gI3nUpGpnSsoDhFP0%2Bci6uWbeDLA80QFHrPhy9r40sm2xG0FHIxmFAQnDp5UlosfBChKMFbB2F9N58LkDliqqdyo25KI%2BfjmJc2TDVbab469%2F26VzkTjHV5QfutpkBAuBuOw%2FSChoqe%2FnMhaQiQK4%3D&name=excijtQEpMZybAhxubQnyxYbj3DVngiZ3p9TZNs8P2SqjewoFBZjo4Gkxq0GFpAVN1LIq3RYp%2B%2FrIe%2FinsUep2dMd7BL5u8vmS0fEogtlLE%3D
-国🔊郑泽鹏评,https://mgev.188766.xyz/play?migutoken=1e57c9c17ceb87afa728a6fdd32dc775&id=ke7O8ZEm1Q%2FyQiaF7mQOr9Qy1M0Wjmg9dNxLZ8XhULDpBclyNG3Mfovzc2TrJffOUMmO899SMgQJq1JO4Zq8n%2FqL7WNMnfiYdY72NalGT5OPKVqd8jsATluxytnaUQBsX5i49mD%2BICnc2pFkliVg45DMppGZdiDoOT5ewR57a4qP%2BrbaM5XgCEtvTh1Nu6ZjqTdBwHQ2La8XhJAnMNUe7NGD0clBIm58JaftnQBTr5g%3D&name=uiGyRAQN7bNJEDZlk7Ko3t3xqYe6RwYCPIru19X3h0P%2B%2B1IHHS3XGb3SmxT9vOB8AfLdvBkSt%2BeKYNJV5I%2B0Sxy0VhQJvM3RvIzhFWuzNXs%3D
-国🔊邢晨评述,https://mgev.188766.xyz/play?migutoken=933aebed97eee82a97dd736c50907d41&id=rDpELq%2FgETaVRj2xPLNu6spjocO7bZ07xijl9KHWOGhDYkIfPBvrmc%2FjpVPGvPmMmVzmgI22CmS1bAaXZ13GCL4BnZl2NJRL0Fe7%2FQxtn9JgSMGD4yDk18cUNZR678qHXynktLGZcvgUDo0HlF4n0skQjSFyPFj7UPvxVHxJBi1sXXLUQjvkqobMBesBXDBUz8ASFQaa6WwtFECbIzazE3R1oY%2BX%2BmplexOh8e3iXE4%3D&name=nao%2B3CmVSWe8aC4g8ImQOsS0Qohkr1%2BZpyNRmMJMEGrkXoiVir0pJ%2BGz9zryPLn5g14%2FIwqytDz3tZ3dg9KvpMBSNbvvx1Z7L7s1sQo4er0%3D
-国🔊洪荒评述,https://mgev.188766.xyz/play?migutoken=a83ca89387d7f8ca02ab25fca16da137&id=A%2BxNnQjHLsxw2ItPj5ep0XAailni4LhRtOuXENgvxEGd8gcepXXhEys%2B3%2FEBmitd5jAJK6XTxS73G6m1axEh9WF%2BiLOjxTtUlnre9s%2BbZcXLAEyJWniuFzBO2B6sqNKMI6%2FEXsfpQl4AKv59A9Wo6vD%2FZo4OPuLRxEByPgf37faSccSxJhUHUKrt%2BOp12WelQyzW7hjmN36E3ok%2FD4aT%2BvvP9UM7z%2FKVmGdmYVhL7M8%3D&name=YbG2CCuujTmC8%2BVucjpwVQWPxLF8CAKF2xUGcyRlD3NymLdhSsEhk7EogaKHbg8LkgxWDAdb0HHpWQ%2BEblejDLW32qTdeG4vGjsBx%2BrrEgM%3D
-09:00火箭🆚独行侠,https://suo.yt/R6oJbv0
-粤🔊大D-旁述,https://pullhw1.zhaoyangyang.cn/live/8844410.flv?auth_info=ezavxs4vosfRnlXSRwdOM58imwEE%2B1fE8I6WJSGqoNI%3D.686c66455a744e784749576c37303556
-粤🔊常满旁述,https://pullhw1.zhaoyangyang.cn/live/8844406.flv?auth_info=xRLdMxaL52iVYcaUhHCfStfG3bMJo7rFNj1VdLfUmKY%3D.73714930716b3556684c427169304844
-国🔊4k周鹏评,https://mgev.188766.xyz/play?migutoken=95317ce41e9212af37b45b1c084695b6&id=AswIIc%2BG8BqFI4tbLjtkUCR4MdLENWj4Bo5bh3Qw7aeMd7TjthhBNtCy%2FPbN9kh9IQIbiJelBDBYx%2Fd1FevCew63yQNFoHdcjDBWxDFkgiB411Itkvx8Ge6Meti56qshRyvW79e6wcKdaAqL7Se2FHbwiCvJJVW23vr6t6KJNTA%2FesMTOMynjgz96fylnBLGBHAxfXy6Kgwop61nQa0IKxlngaX0AtypH9B96xesmhs%3D&name=MiQ8%2FgDsFs6%2BGrT9ZtvZ7peV%2BDwudroUQJjTNocJ%2FS6azzEDHLFZjw024vO0qeuajeBE00xSgZ4Fg023SOcQU5IVvy0MfHYA2Zt5Ks0Zg%2F6fKRBEEBYcnfWjvNROjWg9
-原🔊英文原声,https://mgev.188766.xyz/play?migutoken=e0b197f1996533dbaffa07f3bbd1ebd4&id=QNc2%2BGNQEcTqmA723nNejVRou2mNcUtkZEKEvaP1nB2D6yAYxNTsqQL2nmtnxUn%2BnB83lWEe9HXe4ijFQTnO492kcDkG9sBPy%2FgiZNhlmZomBDTjtHQ%2FR4W6%2FpMBpsjoAgXVJm6Li8O%2BFKfd7u5pfP6aB3NTmQJc3eFdOni8ej0W3fbfG5P2K%2B%2BrQciGpAlI4XJpbzHq6gEj4f9p1TN1STyDHoRr15%2FiF%2F%2FATXQ14KQ%3D&name=8ydRWBinfqUJ9ZF45a41DenPMhWityU5ueEkcwod2gYd2yAowsZCVCVVXQe6CF8%2Bq6B52LTGp229TlZ7zwkAZ5uDpMXAgHki7lMo9F73bTI%3D
-09:00灰熊🆚活塞,https://suo.yt/R6oJbv0
-国🔊殷文玉评,https://mgev.188766.xyz/play?migutoken=46b1b48fc4d357b6638f953df9384e67&id=%2BZVh2LFwF%2Fr5WXjX1Z6ZqPRVc8C2LSw0HPQcasqoZVtpBFyEV3zEFTzzJ%2FqXzTk9a0On4z4qfHtd3l3dDngj3BHbE%2BQ3mEd3XPCaX%2BMyJJiAym21%2BQmItVT16SV0YWjp4QIDZXQTYwIgyDQwjy0mwHkrfwpEsNEdn3kGa%2FIkeLO5l5hYzfjDT0HxnwR3W0pVVaflFoZKnzkildQoRWaoxqfwdAG9sv1OxFgSP0cZmo4%3D&name=b7q0JYAl2tTEoiGRRStDGqsLyrEdEzCBMOblqD6fPO%2BLqhPHApJCWllE%2FYK6MkJA042YXuMf3pKdsm5vYyKezFP47YYtZ8Q1xNbNPBKtuwM%3D
-原🔊原声英文,https://mgev.188766.xyz/play?migutoken=89bf1eabd05a042db9da3c48b24a9a30&id=yEQBkVhdOv4GUeW%2FVKfqc87lYPT0GKArbDnGLTmMJHqdjdxxwurcDsRMUEUs7rSORZqa1KOY2t%2B8y3SVzDJ8WN9vccV4MjXYrjX6I2TS%2FMGS2GSFVLGPjz3a4n8EdoGcAZIHXgZd%2FmyKL%2F%2BqnrNkIDre%2BSVe%2F52VJIlKhLJAh1d7tWpeyt9ollQrukoagcmVcdQHjfho5LCjJzrEQDgpec0LHczJgwU7I6yZeKOujhg%3D&name=xOVv0vykmqcRn7glthC2%2BCA7vm93aGI3vRO4Swg3wkJOfcUh%2B%2FUNV6EcRP1BiNf0hh6x1PjpGYUlsI2QlXgtyVym07wpU%2BpZ1zsXwQ%2FjjSk%3D
-10:00掘金🆚国王,https://suo.yt/R6oJbv0
-国🔊王晓晨评,https://mgev.188766.xyz/play?migutoken=b9c7d77b45428e1015b5807192d380f2&id=4SIDXZfwdIlD2F1GXrOqicA0m75ToPSZdBqMOV%2FErQtxhHHt4zJ7vKxc0rUMUikOfVJv%2FB8c%2F1TzDK6kQ5qiwobHUkBJOOlynJmuTvCokjb7TbBjUiWo359d8KIRDErRkuAGdLSM%2BXr%2FbMzmpdPhJiL163I1jKyP826bn4DiQE7R%2F7%2FY57ZmlAAFIyiX9B40J4%2BAXwFVT04YeYxeWyg7ortqrLXIxXdaUUa5tb6dDkw%3D&name=Wxt4SoJUj3%2F5h47Lf9%2B0Ha%2FFAyZjePsowNCZNWHNeNYQsSvvzrCS3kXlMrS6L8e5OCps%2Bfgpkzuh02b2d0E51lcxePhddqLsrrBG0Nw00AE%3D
-原🔊咪咕原声,https://mgev.188766.xyz/play?migutoken=e06dbe06e5bf952ceaf8fc7f2a1f58b7&id=mZMR%2FE5u1TfcupaTCcuiXESs4%2F0TbEFAHIEyIBUXRsoHMl8peahVI%2B7Lw4gmL3qxPYrVocVOKHqoMxNUG9sStN%2BMYV0%2F14b%2Bpopf664UqO8fgN3zDGgQYDxMdOWN7Fg35mvRjJofsO3SIsAbAIaKyA4%2BeOIVlqcgE3QwTZ%2Fsj6XTZQ6aaurXrMt64sO%2BzJ7FTAZhArOYUuXA4lWFpJ3D2p7ePQ%2Bi2hmldk25kXcJWKM%3D&name=4tFNejzDmNoDhmm7pd9TRdvDJ6kJzNCYnrl%2FBtTsdoSKZOh0pKFc33JjPPvbcUlWTfH89pQbwm%2BCPQIe8G%2F8ehb1MBXV0IsUhnwxnVKlP3A%3D
-11:30快船🆚热火,https://suo.yt/R6oJbv0
-国🔊连睿评述,https://mgev.188766.xyz/play?migutoken=3fb4f95050f3496369f2ab4f73aa6e65&id=sjSjxZ%2BBOx0QU1%2B6X8Ec1YsysEZZPRrwgsi3hZiSeK38KkLdNRO5P%2FjPqFytk0FCedJSPpFxawXItqdcNrbDg6zu2oXhtjg9U%2B3DvbUiTXSXhux7Eg113HgNLMbDH3AzXcbHmgxRb6AQWsBna8B%2F%2BWzCWK0DbVROgwfvHXjMOlnX2KPIURv6AAE8qtrmmmxO6H8F%2BssuVWiyYY0HZObT4ELkjTIV%2BK68WDHBXG0J%2FMU%3D&name=MDdH0fw%2BV3suZmHtYbLk5pIEXCDvhPh5XP2WIfsqyL%2F4%2BKNdBtb8Nanz%2Be2zWfnJAocxo3yiNlIHlKF71%2BA3am17p2uRnf7BCq16JXpv0H8%3D
-原🔊原声咪咕,https://mgev.188766.xyz/play?migutoken=e86206509abbdd23732825aed018fec4&id=bTg%2BJN3dPUxMl5rdQpd59HZfmfPyN9QthKz75En5Kx4MN9NR4Ep4ASJh5BWkdj1Sg7u0TMlV52D09oe0D3wVxTUl5SanAM2WO9kUooqLZO5GcJq1ONK682rg43bfq9Lmi8fx3sVNYgN675en2eP%2B2QCVScbQqKYu8T9X5mo10bN7HuOZ6%2FJeKL2BqDQxUrUNVcSWfAgbwDxIEi6LsCBQtUcIw8nfIT5wV5EPacv4BHM%3D&name=ZojKND28cvRZF2E%2BGzcn5%2BtfKoOz%2BVrxlJ62g7hTNr2n%2BDmlG6zpYBFaabJPjCKWOzF5uOC1CSGZSOewQI%2Fmis01iqpXM%2Fsdu5zkTasBiFw%3D
+11-05NBA常规赛🏀📡,http://81.70.10.196:35455/douyu/11531165
+09:00公牛🆚76人,https://suo.yt/R6oJbv0
+粤🔊华头旁述,https://pullhw1.zhaoyangyang.cn/live/8844716_lud.flv?auth_info=4ep%2BJe82OGAxXr1OTxuccYhaW%2FEoTuf5DHMEYD8W7wIuCOi9ZIQ0Yxbmh3MvideN.6868714a484b47656148766157686a4b
+粤🔊常满旁述,https://pullhw1.zhaoyangyang.cn/live/8844714.flv?auth_info=M1B0%2BieuQQVu7cTPAq4lIllEUNcyceCKVXIsPnigl%2FY%3D.47565266624f7a436f52514c70564630
+粤🔊牛哥旁述,https://pullhw1.zhaoyangyang.cn/live/8844710.flv?auth_info=eNn7pg4g4PTNjGrTh83fdJlx1PvCsziQHz%2FAi3itFrA%3D.6b58614b6472313032714c386b453043
+粤🔊架势旁述,https://pullhw1.zhaoyangyang.cn/live/8844718.flv?auth_info=OpTzeSZ2BbkVybzGu3fwlFx5HMmkyqgtOzdLR%2FolHEw%3D.59475241354267616d37415238756e39
+国🔊姜帆评述,https://mgev.188766.xyz/play?migutoken=a6d21e00dacc4953a4630d37b51f11cf&id=vLCX0W7vCqmknaHsBTsLEy152XgFGRgfjHxrXN3st4cVhQPFfAJy%2FP%2Fbb08fxdcUs8jHQ2q85YE4D2rP2a562ufF7q%2FbZSEH1mCsRlTrT36Bwq1ByOcdbnYZ6ipnpOl3uSkFMQ6LMryVETzHDJLo0Xz30Vg0UavAJQ3%2F0Tv2qA4wOHItbAv%2FNYt5dVLHn847kt2XGVklxFgRhdzdAaF8t7Jo5AI5Y02M%2BkMgRXCwMCw%3D&name=etlLAzFKiIsFnq6EwOsHDsagvGrY1Rdsu6Z%2FXFAY7etwnVBR62GdmatBdMhLs8yTnKvklcpOtpZNxE7FduS%2FG0kZybGQbHD6ZEFbO4UFkl0%3D
+原🔊原声赛事,https://mgev.188766.xyz/play?migutoken=69ecdc2c20595a56fd62442cc5615b3d&id=Bweki15btMUUZBFHAs1yl%2F%2FCtUoTYBI7d319QxyRB0CillMnCVgEGgarF1A8iC5oE7W7G6duBgkrPnzWcBNlFc6%2Fg%2FaojVq%2FqnjYaOOgYtfd%2Bnux6e6MOTZR86gLXKEEq1gh5svN%2BdIO2DiyOSKc8bfAwArqgRzaY3RDdiQmLkISI6JJAvM172naR7ghKzr35kgVhyRUZWN0W65sYdvTg6ET%2F1%2FQuYNcdfQKGTuNebM%3D&name=wm7Ht94mnMV6fvqMnYvDjut51P7g5aj49oL44NML9Op1vUkoVsr2O%2B2%2FjqFClf1td9Torw15H2UYl7p0a6Zz5%2B1QwyLvjqqi2V5PfkyTSQU%3D
+09:00鹈鹕🆚黄蜂,https://suo.yt/R6oJbv0
+粤🔊阿乐旁述,https://pullhw1.zhaoyangyang.cn/live/8844720.flv?auth_info=9zUHfKSatT8nyDP0c45yE2OuN3Zz41jiU2UfgP2Js%2BU%3D.34586e3149686658793358426e415262
+国🔊贾磊评述,https://mgev.188766.xyz/play?migutoken=22634f8e56c540e2c953af0b0b549a57&id=TTFnf5gc81UbA4Q2JE9D4rQSFkuTPwHJi%2BKIIp9DCAxjKB3hpNu0LigdJJWN8rKS2hdc9wYxU30tZ7x9Gl%2Fp0wfy62eeBllJ14Kqu%2BriLuETJc6zyC7ZJP6tphwLhF8%2FdXnNFWjrxqA8n4PU4%2FgmGSOzG3guo9%2FaHec6s601oSGvmXYk8XqSkfQzHVD3DMe9JiVZEdN88Mk8UP05AWsFH%2F2O3C%2FHuhdgzI1nbZy1apk%3D&name=vfkA3Bg5ItuWhuoAMWqV2ONv74SJ1hY5ay2kn2gBRPjAruhTWe2ENEyzcDhvZ71uxFAxulIYFs%2B4a1f%2FA2JnGfNf8xt2k1YnsQejM93PsB0%3D
+原🔊原声赛场,https://mgev.188766.xyz/play?migutoken=19d45b582429d87d598dfc2cdbf2652a&id=9QmIaYMvHXFfMqYfWpaECWsGPvRaXRoJ7ayg8jF6qBNaN3L8NMQRNeZ1pGoN2wJ442mSEhkt%2B1xXMjugfRxwBGtQUvFAfjddfM55owfUlZ7JIIFqrz5%2FhgyEGEgojN0NYiLecmPwX2luHUpsW9tb6K81lz3QG01dzyKvjWPaZgUHE7qilZH4RZ9ZHSUXmxeu3gasDQSEBfh8dmoVYXKsjGZjMbp9ouvvr3Ap8rzldBg%3D&name=zFjH7HnTPKObscH%2FpGm%2FxgjKx%2FKMU%2BIWUV2b6NTEr3PFDrE%2F8SV6PGnYoBhsMxeLdX%2FI%2BKRyvXt8rImHONIFj0ahdpalEDzf5doKVoTx%2BPI%3D
+09:00老鹰🆚魔术,https://suo.yt/R6oJbv0
+国🔊李天宇评,https://mgev.188766.xyz/play?migutoken=993783fb1afba75d1e9c584fa48e49d7&id=uiM4sDrZe27AW7ZZCvo0sptftsCp9z4tSpKP03bNe15kKRAe8DJyk%2Fekk6SUdwcjUS8ypCu9EpnyTtqrjUPaASywJq%2FDgkSxPDkYG21hpYlfmU7bzVL3RD0rOBwrdQVLztA5Xv%2B9vQ%2BVYJhi0uyCH4sHS4YF%2FUd8JcF12PKMaJs2CR11jxQ6WAAs0vMz8BbEOxI4b99Wg0PzXs0RV6U2gnwgz8YNQ1OdKVuGFX05nHg%3D&name=i1Ru9Nxnf9LxEWnOUTx5F6cAH3gzRi9a7pAeCZEyM%2BZjFBuFutxH40%2BPyeD0wsaGAQ3EWjMYMaes0rEzSWLmrsyiFEKKZqDiuhDn5RnV6QA%3D
+原🔊赛事原声,https://mgev.188766.xyz/play?migutoken=3b823947209f17e138aa20e92c7dd7f5&id=9E0JTlm42xhczAAHdtm03AliK%2FtP%2Bdq0Ix%2Bncnwy870taeRhFv2lO%2BJuBffU63jK2S0L570EyLXIIkE07Z6Rq1oZyQ1O3Ub0zm89iWTp7AosESSLEsbew%2BvlB%2B6hu%2FO7leDvNb3RhmnCAwb42D2wsWzazKfpeAd3pdWQcijxWlDbkzEkaxFZPq1Al%2Bw8PA23p00qVZxC%2FPfhJPXseY9eZ8tkLMDxucIY6PNbZb3C19E%3D&name=jv%2F4IOtsvT6i1qoc4TNgetUeJQFzmfkHhT0yRFkJ0zUViQUwPpirKqnh8bCIThycmdVwnyO7nG2q3E%2B60XVAXDnz2AUwFQOo00JlcMAG1b4%3D
+08:30猛龙🆚雄鹿,https://suo.yt/R6oJbv0
+国🔊刘芳宇评,https://mgev.188766.xyz/play?migutoken=0592fae838d79f611430c1a6ad8c0468&id=EJEXYC8OLu8PqhaRGMa8u9iwHiLCdZQMtk3rZ17%2BmxX3LlHuWg8FbD5am8TuxpOd7PiK7wYluSSBKbOgRQdw74rA%2BrFgPJ4stEmXZ817KRxZugVwV%2BEAQg49ES1eekPiy%2BTjEBGFdXSmbAXTKCf5S4%2FxfZuv6UsvL2R%2BoIA5dQIpGXKimrKjGj8tyQ67kp8eYwBgkY9HVGySGI%2Bsd6V2P8Q0yAwpOqlfmuyFw9y2%2FzM%3D&name=4sbZeLdeOqJABpG8%2FM0FHFwHmMAuer3E%2FM4mjH0oYdRfnorq4BJiDLtaNYDjwWKONKGValOYN4DJaRJLjycHryTsB3Q7c5rPt6oxPfJGr5Y%3D
+原🔊赛场原声,https://mgev.188766.xyz/play?migutoken=1b9656e75168693d4a085764156ca5b0&id=itR4t1oB2fshPmt%2BK5Hz8Nn4Kv0x6o4ndHFHEqhzSnHjDO6je%2Bub1wJsoP72dzmf9WW1Xxz1p0JnuUa5DRiwiSIia51v0GTkMUbGRoboWmREhCxvEEoGzUzJtW839qRokdEHH56VNhjt7Wz3aSZ2rMpZKVUrLDXGaj14%2BsSqMAENvh94iWNr4N997lh6AtjJ8%2BbDSOTrMd9Vkqq5cDMuTz1GuTtIpSbkNP0a3gKs3JI%3D&name=xcbA0heC2qvKawsyVq%2BouCh232KQvE9YeUF1kKuoJskSsAqNORAf4RSa0jmsJxm3t20IqA7nrJMPD5kVV2Nej%2BSRsucVNEa%2FNa1uPHsMN4c%3D
+11:00勇士🆚太阳,https://suo.yt/R6oJbv0
+国🔊裴优评述,https://mgev.188766.xyz/play?migutoken=e70bbd5bfeb49aea739ac74807ed6283&id=KddKK4olxWugXJ3AyswDLNetBMVzMvtT%2Bmsn0tPiVEbtq9iZSTWuuD4Zg77GmmNdc0bxKyoeiy%2BivBt5TdhfJ4fBZRxS7aeQ0DlfSnRlIS4vMStu3LWVm0B3SWh%2B3Oh13o%2FQLSfFvL7BjaddXa%2BYRoW5pLnbI7rVPJ3%2B9nudebw0F2CINlOkEUTqJty61%2FjelUk4aCHmE%2FyWrbEka0Xm%2FlQnqbFB20b9U4SNskod4Pk%3D&name=G5UFEyJDHPG77fIWAsxmcJ%2BHN6PMqTV778dGqyPWi4auajwqxb28c%2Fg%2FLbHRa7%2BJ1G237XOxgoNgk5oF%2BG3aqUz5RKManNjPASxvEYIU0Ao%3D
+国🔊拜月宁评,https://mgev.188766.xyz/play?migutoken=ab7bdd40a86162632320983d8d042577&id=tBAGP%2BbboBcqw2UH2Ahn3nF%2BIP5ZbsJmVNjXsocJQa9tdlkJl0j43sIo0%2BLLHw6wSTYypMeWsn9bK0c1V%2FZvBqb6bfM0kQXsGRagGXfOI0Krt3McLPph61fVtLmgd8mUwSaGn8QZ1OyehaAclC%2FhkCyc1OMAqMagzaItyf4R25GZx01IsFeaAeeN11mhWbi3NHrkROKfj2rlX9SX0Vos5KCyG3d5gQwyKn1BGu4mK5E%3D&name=vLYiy%2FEiXzsrZDjyI7W%2FDOmgCqzZlrrCRYAtzz3N8og7vQyx%2FK8b6QDwK4ROH%2FYH7j3PY5o9AxO7zANPhC%2B853oqw16rOI2LbcB9vM0kJSc%3D
+12:00快船🆚雷霆,https://suo.yt/R6oJbv0
+国🔊徐咏评述,https://mgev.188766.xyz/play?migutoken=2551d73dc2592b1e0df4211a1b65719f&id=oI%2FJ4lOuDyjWPhMGoOGDR0K%2BX5zee6JrQjkIco0BotfNyefktVpk9aQBXhZ6z9KY%2BALonbNkvYOSut4yAXKS%2B43gGXLgiamJR8W1fkQMXUURg17GFbpYKyQiv8YPwUChUBROqVsZjSciTcIBQOaglwJXYoiOd8AFaKbDtOW%2BT7S7MfCD04PqzvD36XyttvIB1vrryPKAbc7CwcWWg50p8EBuYnk9MavNKHbg0pfhy3M%3D&name=7pBC1LxsH%2FedwIoBFTDOhZoerwu9DTMwDWwCaSVgow4qPDXELicfg08JSmjPag9gs3zYbMcX0cB%2F9kQkSmo1rx3wbyC9q6t7euPW2avrM%2FhbDAJsNy3jRsZ5PNLkqmA%2F
+国🔊大史评述,https://mgev.188766.xyz/play?migutoken=991e22a3b64868ad589a1c6ac985f05e&id=WAL1VALJ3F%2FyWkE9RNGbP8O8OraSYWXzQuBPCfplOUYl%2B9w3%2F4iTQXMlp5Wa1XOlw5mW3501z2VV7CgFO4pIIBQbRY3IEx6zM6Z3LlWhPV6KsY4RqwRKvAaBns9%2F7lJJHQVKTJj5Gb%2FqOf1JlgmDHLEjSvMJrK4qkvNroMC1eb6k6EcNsH4oWOwFjEK2NWE42Mm3shzlL0LcXkCvISfnjtqLnYIqEWN67i5hkIHEHDc%3D&name=ktK6Q9S%2BWRuOk2JbxIs8XqUSJLTYVaA0ea4wcXvvAjziPSvRB2xJnDqIKTMBC2eYi0USjbz2PpmUKPO0D0J7l7UGGsbzxnrHSrcEeFT4Vno%3D
+11-06NBA常规赛🏀📡,http://81.70.10.196:35455/douyu/11531165
+08:00篮网🆚步行者,https://suo.yt/R6oJbv0
+国🔊咪咕评述01,https://suo.yt/R6oJbv0
+原🔊赛场原声01,https://suo.yt/R6oJbv0
+08:00骑士🆚76人,https://suo.yt/R6oJbv0
+国🔊咪咕评述02,https://suo.yt/R6oJbv0
+原🔊赛场原声02,https://suo.yt/R6oJbv0
+08:00活塞🆚爵士,https://suo.yt/R6oJbv0
+国🔊咪咕评述03,https://suo.yt/R6oJbv0
+原🔊赛场原声03,https://suo.yt/R6oJbv0
+08:30奇才🆚凯尔特人,https://suo.yt/R6oJbv0
+国🔊咪咕评述04,https://suo.yt/R6oJbv0
+原🔊赛场原声04,https://suo.yt/R6oJbv0
+08:30木狼🆚尼克斯,https://suo.yt/R6oJbv0
+国🔊咪咕评述05,https://suo.yt/R6oJbv0
+原🔊赛场原声05,https://suo.yt/R6oJbv0
+09:00灰熊🆚火箭,https://suo.yt/R6oJbv0
+国🔊咪咕评述06,https://suo.yt/R6oJbv0
+原🔊赛场原声06,https://suo.yt/R6oJbv0
+09:30鹈鹕🆚独行侠,https://suo.yt/R6oJbv0
+国🔊咪咕评述07,https://suo.yt/R6oJbv0
+原🔊赛场原声07,https://suo.yt/R6oJbv0
+10:00掘金🆚热火,https://suo.yt/R6oJbv0
+国🔊咪咕评述08,https://suo.yt/R6oJbv0
+原🔊赛场原声08,https://suo.yt/R6oJbv0
+11:00雷霆🆚开拓者,https://suo.yt/R6oJbv0
+国🔊咪咕评述09,https://suo.yt/R6oJbv0
+原🔊赛场原声09,https://suo.yt/R6oJbv0
+11:00国王🆚勇士,https://suo.yt/R6oJbv0
+国🔊咪咕评述10,https://suo.yt/R6oJbv0
+原🔊赛场原声10,https://suo.yt/R6oJbv0
+11:00湖人🆚马刺,https://suo.yt/R6oJbv0
+国🔊咪咕评述11,https://suo.yt/R6oJbv0
+原🔊赛场原声11,https://suo.yt/R6oJbv0
 全运赛场,#genre#
 ➡️沙滩排球🏐⬅️,http://81.70.10.196:35455/douyu/11531165
-⬇️第5比赛日⬇️,https://suo.yt/R6oJbv0
+⬇️第6比赛日⬇️,https://suo.yt/R6oJbv0
 09:00多场🆚预赛,https://suo.yt/R6oJbv0
-原🔊赛场原声,https://mgev.188766.xyz/play?migutoken=dffbb156c5175d6cf887c2a727911b92&id=9eQ7hcHkLpteUGCEi196VEgLWK9l3DuxG%2FJsTwbrVwTgqdgj3IwmLag5ShKB6n0jn%2BiiPiQWMEsOqWNUVp8anCP5eTsk8WYqj6A%2B0vfCmKHEgZkRObuTdb%2Fq4P%2FzHEb0PYDlrKgplBthAwY87DK607Mm4OkH0YF7KjYIdp1fWWXdjetNL25U16Nta5xeRxSOM%2FKgRlXjA8kbN38GEu%2Bbn%2Bck8lbX8goX6%2F5zCt91EZo%3D&name=8pgnoNptp%2BkNSdRvLlKiQIKHbxTdWy0y2JGKZFwF8%2F91BQ5%2FAAymCK8jEojja%2B9FThpOK9EK8tBczdQkBLiX37NtToowkn3ZrCUq0gLndscq0FpW%2FvjOhKtwee0wOg%2Br
+原🔊赛场原声,https://mgev.188766.xyz/play?migutoken=141a7009b1305cb0edb4dc391d71a05a&id=18xFkYcdzFJgYTERIdNERXAlcDTGKUvXWbBD4aW5maPlxbnI%2FdbM2r6Pdz6D8YNdCBuHiJWoBaAAf4ig1geoH48A0n4V7yDJIyXfq3wljbRnkjWqkKkBqQM4Vu7MGdWtHoRkf3lE3n8x1tx5f453OWxqNPO5XAGgWLcIO7Y338n5aGvc2ok%2B36ad3avrXxpmm%2BKvUTmyEw2CRTILpVM0FP6FBWx6HFCsHIeABegkX1w%3D&name=poKOGAaZMlMlS6encTVF6T02wMB7sUnFra%2FQ3qC4OCfMUsSeOisztBunkw9TR2OzmJ9qJBJBkWByxFIK8NTb5UFdxLK4tOFRrPEpylga1Q8V%2FC86qfOoXOHnUg6f%2B5a2
 ➡️跳水🏊‍♀️⬅️,http://81.70.10.196:35455/douyu/11531165
-⬇️女子个人全能决赛⬇️,https://suo.yt/R6oJbv0
-10:00第3比赛日🆚早场,https://suo.yt/R6oJbv0
-国🔊钟宇峰评,https://mgev.188766.xyz/play?migutoken=1b9bc23d00197f3867309a2a2bc0baec&id=QP8IPcFOGawV5OCk5uPam3iGKVrF2E8l3i6c14ZQjkJMPyY7wTRTRDhAUyqCBbee5rST%2FC93SYo3vl5nnTfo62nMCa9lG5VqfXI5pXPuAmTDHZo%2BU1k%2FhVU9Wl%2F%2FUMtc7luu0aNQ11Og2bQta6nmUApMHwtA4LrSZXIpRr9V7%2BXyFfshhjcTZX6KCoy9b8IJHodp4uKUX1Hco5mUpQgRwVsr8DdOqB5Frd1XcpilIAw%3D&name=POypu9p1cE8R0o%2FUmeBbRxWqe2JporKJNzQCKyork5nXMP3mX59uIFW4JLVR7SioY0%2FXcXNtNmRcuzQeewT8Ib5%2FDZRQCPBIUz7lB11ToIMslwce%2FWAwinhCvBrJYLQ3aA4cEwak9RgyDZT4jhVO9g%3D%3D
-⬇️男子1米板决赛⬇️,https://suo.yt/R6oJbv0
-18:00第3比赛日🆚晚场,https://suo.yt/R6oJbv0
-国🔊钟宇峰述,https://mgev.188766.xyz/play?migutoken=8d95de6aaf73cd2e09bd5558854c38fb&id=vCHYEzHVQq6UBUUgwnMkiUbPeE2T5N1LDCz86FWGhxm1BtBo1wNzSoULPs9kPN9zco24LDgGvlAMp8iKgde5cMGg4epYwmtgEnaVgAs5rtcM2ConPVOQKK51TNYs4ukpPbXyM0f0Ro%2FPr4VoiML2PpKN%2FtuxECv32VJO6usWyuuGgiT8zJ9kLqLsDOi0v8Mrvl9XoNYceqmo6tCrsTwQ%2B2c2Gma0MRDXmgoq6n1aYbY%3D&name=mZwYKhjgKxCjIaYOs%2BBxBMQBFsr6NzAjd7V%2FxWC%2FOyb9yufZwcDa7FIjxvRqHlkVekP8jdR9EO5KR6FAw%2Bffjomt5b%2BQbCKQ%2B0ATMfvpC6P81P9A9NauwYaHtJJkqgzS
-➡️篮球🏀⬅️,http://81.70.10.196:35455/douyu/11531165
-⬇️男子成年组小组赛⬇️
-13:30澳门🆚天津,https://suo.yt/R6oJbv0
-原🔊原声赛场,https://mgev.188766.xyz/play?migutoken=f006830756259d0fa74097fb84a492a7&id=YLD5auaPEzHycg9GzzNd37ZmQCiHuWml2RaW8KK5HBcDmymFibGrVKd%2Bjiim087OqMUKT9BeeTO%2FdmdaVpz3tr4ttclffsdfhMyfILQprVLV9%2FtH1BAV%2BUsJ7R39hpwcfxaTuTec66kFeYK4CyyJ7Z8LXAzr%2Bqak%2FS4VzfvYZe%2BiGCtfc8%2Fev8R5murIAscLDU6quEAANU2avFvMdWyZc4dVgAEiLzkH4UPGmU1c%2F3w%3D&name=zqLTmvJR2kS26zBwrscqN4tV9ZMiUNzJhFDf1fdsfam0b9uTcufWReZr9DtyYBX9ZtwJlqAG%2BH9To8E8Pho21BpM913AvQ%2FP6WzOH2N2gX5HzROjH%2Fcoh79%2FD0lwmw7uzI1Pk69UfkpsCA4netHzjWOplXEBwZbkzFpM0sIgYvhuvcVA460zsKmy82vdW6OC
-13:30吉林🆚辽宁,https://suo.yt/R6oJbv0
-国🔊姜帆评述,https://mgev.188766.xyz/play?migutoken=869368136cff2ab7b3a4034f76aeccb4&id=5R%2Fpb8KZtByjnN1e2CN8IALSubEZMNhdvCIvAescEx7y33ES1WUHlk7s2tnldqNKtEnz8%2FUlKEs%2B47GLbcj3VFSnO0FdIM5RvDxo8N1zxiwaYI9wukr27HB594hQApIpEC9XPTu3O6lbKNaTmgtQTbW5vdQIHZAMc2PM4Er9kjDdPKWbynfzHgkbhQTp8XgWK5O43pwoFYtC8R3zQLRBB9eUAP1Axyf9Kgvpil7N7L0%3D&name=dmlMy9mNqf2hDjbF7RHUkqHrXCaEayjxQuA7Cj3pCWFcCUvGtJAQJUM0WF7Pqb%2By0IC0qJsB3x4BUBsAD%2BzqtGL5XCZ7%2FkHdGRYjoTfpvY%2FYBqOsnColmiXY7Bds%2BRWJxHvCsFIofDsd8QIDQhsIdp7InoYqQEf%2FQwxyoTMGAZ3KbyGGzFAXUzyByidMIgK3
-16:00河南🆚上海,https://suo.yt/R6oJbv0
-国🔊李天宇评,https://mgev.188766.xyz/play?migutoken=8f8c05e2780561c4e5557cfc85190178&id=23ZoSQr6bwqbUydMojYKpmopHkVnyavycm5iyDSFPo8B4QMNQbI4cCvtBocwEou4oAlnC0nDyAHqQVkz7khTtKzCX0uuzCNnD2Ca0vk2OC53FXQWE2j%2BMe95wV%2FZm35uTMFQWNEKp2XCIJl9ZxlgEzk4lANS335fc06AKLCpujYPvZFe%2F9ttKHJN%2Frd7gMQiv7m%2BTLdhOACtneLAlcZeOVLjEsRnnY87xJcsHM9bDO0%3D&name=dwfAHZBT7dZ55WNivnNUxn5tTDHanXcAX6rtsFGpNDvu87Xm%2B1zNVpIkCvpCyczF7vl6QK7DdSUydwcRxxhx9moxf8cW8q7r34wwcpJbQTnZ6LEYfxbZ5IBSYmkrg0ONxsQyoBbt7CIRCHN%2BYIE%2F3n4FXNHIhZG6nLbAp1K23dpSJ3HaM%2BPzo6SUWh%2BTeR8b
-16:00湖北🆚四川,https://suo.yt/R6oJbv0
-国🔊石楷文评,https://mgev.188766.xyz/play?migutoken=2aeb3bffb4ffad1b4d2377cf4dc2cd28&id=a3bUvIkmDSJd1LMLBDWro1OurU%2Bum9HChcTEceOzVki%2B9jqkhD7a2LWsmZLSzXvb365VwdJIB%2BQcHhJUOguV4EKJf4K%2BdQlFZvJKnjRtqlZwdTwm260K3FjxuaONIj5QE7cveXxkZicwsgjqn%2FalitazpmsvxvDyT%2BqEoiZy1HwRkdO1HhGxCU92yTVXBNu92mgjRdYAx4FF5NKX%2F1jSmtZn0FTyi%2BHGu7S%2BqSSbG%2BI%3D&name=ZWTdWdX5SWJwdqyGMljKgV7kscrXiL9L3fNoSHnKbOJ6u59Q9d6KA7y4z3a3zfqQBj%2FmSIn57NCqp10uNfvvgxKqFwgMbY1mz84mdTRkYKCDO6KaNf4mkGbKL5ZD2388%2FrE9TQwKq8KOwduGdBcNLUjxjAg7KpAzi%2FhqysnpScWjaQ8iQzccNllvG8l58TXp
-19:30广东🆚山东,https://suo.yt/R6oJbv0
-国🔊苏群评述,https://mgev.188766.xyz/play?migutoken=fa20df64e6eb620351683b90a0171932&id=98ovoEXLpgsapSExyG%2BEjG5GWpk3c2rA9p5sbA28qgFswEjhHfy5jX1887dyOovU11QqFLHjmzBFl7SPw6wjWTUC6ByVBW%2F9F8Vnqe%2F1oCgu2yPnZJ61B5txhwXdzCoWouGvPaE1rKVCWZ4CJarIeh7lg5G1yazL0KxPCmYkZf7wApGwtlr5GsTpBd%2FDczBHeRJX4Ygp5ROhxFFL7lrh0xF1J7cRtq5b3XL45s53F6s%3D&name=TBNLV%2BIWLHbxp9yAevXbaxnNpTJryg2%2BShJ4QeA3O0fsyGNwXIYjCwBZRC22zPXhTr2Az5cixT6K4R2MKyMPVR%2B6b%2FaUWOhYmW7Ga82xI0o3HYuzjWAFH%2BrrBK6U6qlSqamXxL4%2BebhlrlonJcGvMNRmzMvAix1DEVS%2F2FUPo%2BoP0RzaQcLB4qfwcwKpuQs0
-19:30江苏🆚浙江,https://suo.yt/R6oJbv0
-国🔊刘圳展述,https://mgev.188766.xyz/play?migutoken=2af26b5b52cff909719d7b24c75b25ed&id=PmdKH0napmZZFLU%2Bj3GI0yr5SV8L0yfQV6Zp87C2LqEDDGi6sCBySYrMozwF2G0W0RDPZY3HKcpxk1LzkkQ2YystVrsWSkUWNallufbVAoUXC2D%2FKET9c0OQl9Fboxjw5YMZfEpE0hBvqgewI%2Bz%2BQSIDbP5U8YyS7ClJC3GjmgXAxCnvrWPXmHKGJffa%2BZ1onZGgHYW7Oco%2Fkg7kSX3JWt67aWhk1YowQw2Dakd9CO0%3D&name=jxdhN8hvRflTMTM9rA3ItbShtjj5qoFuAy40R%2FXVJ6Y%2FHVGINtxJkVk6sJopw1ZV7JSHoBrljRzJ82iBlOxMPLABXksqeQrPRCN4%2F9rnriAFVF4%2FNm%2FEF%2BmpjsjDoe2z3NLc1BiiFLlPWzd2eAZvsyu%2FmiV5NZYDU49Byr7phtlfqxoVMsRc%2F%2FMAKDi91iBG
+⬇️男子个人全能决赛⬇️,https://suo.yt/R6oJbv0
+10:00练俊杰🆚登场,https://suo.yt/R6oJbv0
+国🔊钟宇峰评,https://mgev.188766.xyz/play?migutoken=92e21773e54683c3a4b291dd9ba86af2&id=eP5%2BD0V2%2BIDFMdbpW7iSePt7uosSq04ng80IAq64zBzknRpic80Jm1KPgJupRBgEOXkPc8iqxTP7c7qXTxT3kkurQDFkT31oWr9fWP6%2B61GWrkoCxDQGmBnwzQ8B%2B4P9KjQYM5MV8pBJouefef8ORmWACL0B9AHqgvQsjCAHNYqqT2UgP4qBSR1iz7Rt6NZG%2BJWp2aDIpS9Ri%2B%2F3Ek%2FSamjXqEhmf%2BROtTpqnKRrmDc%3D&name=y5iD9z36kgkYLUyf65ti7Bo6El8f6WZZP4sDkKfXPkEfE%2F8gSrC6P7Om3UkQn6%2B2PoWtuDasSSJeegsFA%2FVjkY4EBDvtISCYH5rU9SLqKDiCUXZ2oWDQpmQSrthXx4YiKZYt7tM1mlaC1N7Mjj4Suqx7fAmFyoIkq%2BNuA2TFvi5mnYj6a89e%2BUH6EpKJNIAZ
+⬇️女子1米板决赛⬇️,https://suo.yt/R6oJbv0
+18:00李亚杰🆚出战,https://suo.yt/R6oJbv0
+国🔊钟宇峰述,https://mgev.188766.xyz/play?migutoken=6e359a91ad1f4d1fe145fd6b85c1cf09&id=6Dn6yD%2BH%2FU2c1MyWN95rtQmJsPirfG%2FDF9Llbs2Bk4zIb4zXBIu6%2BNQV9ALi80AgiXdszoVt5C%2FCde71%2FhS7wmrhfSJl1Kddid%2BldEhspnRHQHeLpg8Y0PmhtdB57Ogt6Mrm%2FTmNl38L1U5RnBghtOeI8OjJe08En2oa6xpabu2NYj0nh9u5rluQfOcCG3i2e6m9gOGIB5b4RFOrw1bnJSglkfZB7Z4nqXxk2NWDPQM%3D&name=x7C2F6ny0YbxWTakm7Nzwi92yGb3LAgfcAeIy4p6KI35m0dAVwCfWEmtpQDwH%2BaFEi3uAoCYcyA8OFAuSKDX4vUOYne7Xs1LfflFD5WGl1zwHC0kSjIGTLQL6IExQOtrEwCkVVz5ifjoC3EWg2CTxw%3D%3D
 ➡️排球🏐⬅️,http://81.70.10.196:35455/douyu/11531165
-⬇️男子U20小组赛A组⬇️,https://suo.yt/R6oJbv0
-13:30四川🆚上海,https://suo.yt/R6oJbv0
-原🔊赛事原声,https://mgev.188766.xyz/play?migutoken=ff39a1531c1347e98397f2a2b894a39b&id=Hql3tV4barh8QGA%2FYeVl1%2FBqAEvBb24%2BxxlIyXQJVm25%2B%2B%2FwWerBNv0Zh2V%2Fp3VrvmZDzxB61p%2BDB2QzykSGd%2BWgr%2B5TX7%2B3JPb8O1jZ%2FDxGQGR9A7e4joWdzrqzbiEeq4%2FhkOtfGCu%2Bwv1X%2Fbf837eB%2B51tj2Pd2dJejrhImhAOUJV2wTCKJCFhngmXmy7%2FRKvOt%2FkXJop97EnuytL1z13mmY%2F913316txx98uSWmQ%3D&name=1ICUgnYOWVByo0KXH4b%2FQTD3WcZ61F0WQ24qyDFtZi%2Fo0L1HCtIXdwLZl%2Bzh%2BdngB9QxHgk%2B7VW25uMX3zhqU30rooLGAwYm4MNxH62XCEQsrfcuBa3FSVsC70NsORZfJbWLHmgkNMO6T0ICHd1aHtwHMPW7lfw7%2FghaCM6swsQv9t3HTBMSJCb05Zkt6Nvo
-16:30湖北🆚广东,https://suo.yt/R6oJbv0
-原🔊原声赛事,https://mgev.188766.xyz/play?migutoken=88dea158646a3928ecbb2644edf8449e&id=WPfiX1BdCcZogNBuOWY%2FpmESr1G1XLHtEnmMsabpiWQ9ZDzBnKg4bS3fFywERoMaYR4W2Nzwti91Sw%2Bl930SQEnOhdv8CvrpQA%2FaWLrM9EyVxG247YmuoYmzr%2BzYKkQ%2Fir%2BHMxSuxOuXck%2FtQqKL2OhzQWb%2FuV19QF1W%2FKv76ALM%2FlqOrRR7QpYzWKwAhCAo4JDdDBrlG5cyTMkiNcyY59VsZ9SHeH23swWdtzfSEfI%3D&name=q6txPBCfr2LKGvYduzT6OmyINxmrB8nBYq8qCecBS6KePdFyNDMZSX%2FLAiYcSctD7iwJ9rLCinjXyNWiV2uc%2FCNHDXfjnhTJEnKvgKTTosWiJtaQGmxijWd3Hg2M1WxNRVYLzQrLvU%2BHJQQ02S2rRFXtXov4%2FQv9%2BoGqa5%2Fqc35byBSHLp4Vv4F%2B5ahtSHPV
-19:30湖南🆚浙江,https://suo.yt/R6oJbv0
-原🔊现场原声,https://mgev.188766.xyz/play?migutoken=dbde54c40b2ce4d39cc4d921861fa010&id=ili8%2Bv4t4UrYRC7rZILvamvEu7AOZPe3ydDFdoNzxarLkGfWGvZ6s6PooebL%2B43%2BdroiBxw5ozIKetYYwGbjOSvwEHTqtK%2FzAMBh8M0BA9k0EnqjwJ2hhPEPLeGXG8hKMxRhIc9m3hQD%2FKSfL3imDgjrPpbXaa47zRF%2Bftw6Dwxm%2FVCnIJPb0n5E0OKC9fYYfenkoApmCqusVexPR4UUm38lUPgC7jH2pdHoxhqNsgk%3D&name=%2F%2FHRAmXDm13Gz0vRDYT4gbdO%2B37ypl%2FzXHX9S9gBZvSCYHcuHZjxJjot%2BleSLX6iO30KcHiDy9wO3y2mCO3UD6JSR9vE5y%2F0n1wUTlR%2Ft35ZlMP5mQTcgH5f8YKV4aDkl18Rc1VVBuIY7vxt6NbJPeE08STYXLSbKcVtMKuiLew52sBeBXe5c5Rr5gwM22w5
-⬇️男子U20小组赛B组⬇️,https://suo.yt/R6oJbv0
-13:30北京🆚山东,https://suo.yt/R6oJbv0
-原🔊原声现场,https://mgev.188766.xyz/play?migutoken=80fd391204974deb07fe00e1949d8700&id=OrAgfgYzC2SXKX8jG0qeNDDBwng6O7un5ZCb%2B%2F54RLAVhQt7BhFeiNjUXAbjzoJDfIpj6ujTbNUMTqcDq4299VDj0DliBWbLs7yePf5xp945CxcKL3CCJfqvoVrPjl2tjgYG2MZGLjZxzTcko9keZz5YhZmU3qC%2FJ9BiVve04qIvpLJjssIR0qbrwYlBoKaDrUwrWoAMD%2Fc0TZDkpN%2Fw%2BoZ1MMUbhggsRTAvu2m7WWg%3D&name=%2B5ORB8k%2FTjxv8JawppZLOYfuSMw3fMoQ5zwGJevuIv7VQL1FVr9nVLuJJv3B3454XURF7DZhL0o9E3bXQpUEz96dOiKKDuBtHanxBPklLFbSxZkpzZm6xJp2oLr8gSuC%2F%2BHawPDKEyd%2FjDJRiZMkwBy3pFyMbRzoA6W7I%2F76ZxDwbkDWGvQaxI9X7VC9vHFT
-16:30河北🆚澳门,https://suo.yt/R6oJbv0
-原🔊比赛原声,https://mgev.188766.xyz/play?migutoken=be985002afc30e05c905b1e07e316364&id=Q%2BLXM9w4mPId3EdKfaASk0w0iFVcuoSQyDL5%2BLHGG36kG2fX0yvXLfmfZVgYvqPI4cFkRqBqNISHmUeUycSPhU4ZeVQA11KcJ%2FzjO5p4B3c%2FdeDLZEY2ZO1wPOq%2BgtaybUL5hs9N8PuKxaWUSjfGsmwYVLVj3fua2VC5xn5pfKi5sirrUYJU%2BbpPQeIyWPA0BW9WoPniZzDImM3PJN9IwWsbPmWEPjqiKNYE2J6Wp%2BQ%3D&name=DwVLfLk2nwjJYQpJse%2Ft6tCgSSNksq0nI%2Fwgrpo%2FfaBQhIqFpWV%2FzdsY83ooLRrcmIm4xsT7f%2BlvR3HRIZjS6sOzYhfJf60F2xH%2BtR5NLTCB3ienJVYAIqg3jrPKwjdih3B8sqof8hDlMK4dZRZ5ODFuUyThcfAvjUPL7wUaXhL4O4NmoZnwLnCoGl1gbRe8
-19:30河南🆚天津,https://suo.yt/R6oJbv0
-原🔊原声比赛,https://mgev.188766.xyz/play?migutoken=18501c5adc981bf4f014cb38c241aab1&id=ztW28g0ME7JtrGrYNb%2FuMIpByMYLEmKcYn2xC%2B1pGr4qCGU%2BMDuYcnyT1Z%2BcXIacerkiT0PoWX3qPT5HW8OMUXw1ECGQRIW86b4j7gNC9C3rzhzgD6KrSNcewAJaKIaOq8O%2FAbBLBF1HTH9L9AlYUjvTbtzP5aKSzndhI%2BQIhm9Vc6UY2SL2xk66mj%2BExJK5rsR%2BYnEzr77ekpPNkfMuKIXejJpcXyHcm5pFIVepJOY%3D&name=WSdJQqX6wKhMKBcO6y%2B8yJisuBoqCvI8p%2Bg%2BkGDv9KQMo7ZCqt3pCmf%2BNQoIBC0HJ%2F%2F3amx1ubHTHvPXSlUaQvBi%2BITVlarfewzOoA%2FngLuRhSs7AK18pBHGYHRNTjDlpYjBMATUc4aIKyoJhdLNMiFVau%2BSw9LfhHeq1GXW3L4MU4EvjVU%2FXjCNPAKXNIqA
-➡️手球🤾⬅️,http://81.70.10.196:35455/douyu/11531165
-⬇️第4比赛日⬇️,https://suo.yt/R6oJbv0
-14:00多场🆚预赛,https://suo.yt/R6oJbv0
-国🔊赛场原声,https://mgev.188766.xyz/play?migutoken=b469f7ddba960fc6b1ca9e30806e427d&id=T5AuC6hsui2DMcrqHSLwDprHi6NIUUcamgodJ647hM888FDiqFoPxpjNQYI8jxO0b652Xw%2FsvfL5CNCIViCGXCD0zJV6qG0GnuGZEcgPZrblmFljO6w8mdRcYqo9zB9ZhqoPz48KtBkHuI7VjloCiZMEPh7BGKyknSAcvtysS4FIX%2BqKkeXqCMwEzUI0Pv8b%2F8jOqOdHfLIu8gIL%2Bgk1Rz3elkm6reDsMBFyn7btnTY%3D&name=L%2BrOV6rqv8rTH%2BgJgX%2FGzLdo3Wk35g83FxioK1iHdLUoQx1ahezKtBebGm6hovY4PnYbejz8sF3WaBb8FfEJsN4Nf8PP5%2FmNC%2BfDCjXpCqcoh6HIVZ9VvMEGLkwUlDpKsW6ki%2FlaSJCXhFxB0nkkgQ%3D%3D
-➡️足球⚽⬅️,http://81.70.10.196:35455/douyu/11531165
-⬇️女子小组赛A组⬇️,https://suo.yt/R6oJbv0
-16:00广东🆚内蒙古,https://suo.yt/R6oJbv0
-国🔊吴桐评述,https://mgev.188766.xyz/play?migutoken=7dda991df306fb837757a42b82f0c77b&id=cVXbi%2FOixuG0fzSFkrnovvkVv0yUVmxfoUFVTK4iynhuiPI5KBWX0S9GCHHHKSuf1ldEZ3gFOtJDP1MOUnW53X24Zc%2BJaitii5Nv4DE4RswRovGtX38bKfH6CvDxOoavoIeU7SEZKt81nXDz7Z3jQ9aW7oEBvqe0SkreNDA9CLcgusa7Bj9XC6AHkjaS1%2Bfvc0xXH1SBg6RxuRxb919aps%2BONH9sAKshUsQDceB%2BfnM%3D&name=K6V2fTAdyVub4%2FKrpOpDJACcVAuyFd0AughF2A4m2H0KhqRU%2BwhldGW%2Bm%2Bg0WhiIwKevv9GzqVAMFi9hITuknpHf9%2Fyo6N9jrP0%2BE%2BgPtrFvBI9JEDNVXxBt0v0Q%2BVHPluLQOVk8xBA8D%2FrqCuAKDuOlx6P5MqJttHOuDkZfGmw%3D
-⬇️女子小组赛B组⬇️,https://suo.yt/R6oJbv0
-19:45山东🆚重庆,https://suo.yt/R6oJbv0
-国🔊胡小凡评,https://mgev.188766.xyz/play?migutoken=35edfda22184d832fde7ca1bf74cf20f&id=IA2quBBnF0nkP9dW4UH9vyGljh7L0UI6UeRYcUDkuKYyX2INIrYl9GMTYdAEsELGODXKunEvHsy4J2eeUI6B9CbrDBWc8umjuohH8h1mzzbRn%2BV1RSg5ccBPC2EzeLcyQx61q3cUYPBPDqNq6qhklC2iJtgf1QM5TvrL%2FXPO%2BnEsILLISjolOvAr4Lr4bDgEq%2BeEhtkS3%2BjwX%2BR0zNoP%2FwA38t%2Fxcgm4Ai2AYQ%2FQ%2BCA%3D&name=RdPo%2BNEU3Pg4cVnazRgrqPtWHM3TNi1t%2FjZsQOfPKIpw3y8SFIS7J7ddqBuHSCl5wr%2F1OSj7%2BAlZrMBXNt79i7OoSr%2BH9nizS5ZFTWXx01OtvLLAtMnT35ACO21zoZ3qdQY08Mg7B1AGSmuAddJmfyjk%2FgJ553gWmwpTjwfRmRc%3D
+⬇️男子U18小组赛A组⬇️,https://suo.yt/R6oJbv0
+13:30四川🆚福建,https://suo.yt/R6oJbv0
+原🔊原声赛场,https://mgev.188766.xyz/play?migutoken=4909f20303369665364bf412584a6137&id=j5tvG9q9XcplnOfbFZCn0n%2Bu8jNnhd%2FCYvTOy%2B5fMUgSSZHVOqHKPbQIe%2B3%2Fw724Xbt%2F66r8QCdrxElFT97xacjFvr56%2B9wKzvM9lcMQnF2yi7PtUG8PPB444W0oh18lw%2Fe%2FwkWpBjzazWp812M3DjI7lt3HLjqgkxT%2BMi76Uxa5UacMYR7KSekTNwMI4I9IHRpOmqvZv2AL%2B8tEP%2F1wX16ZgG0cwjotYE9%2FqAuGvA0%3D&name=0kkEaAL%2FGeH3cNQz8Uw75vhqzA4mFPffQRrWzjBi8ct1WKgVhlJRaRWZVNFbz9OoP175H5gxOJntvXDoL6fYhD9ByRK%2FNrOTBj9Rb7g8A742MNyqyVSQX%2F12%2F70VSY4tTvK%2BOs6UCVnU4FWuAa3Q%2FYMpLiIDrsif1IDzaF%2F8iY3HiC6nPdz1NKLnTPTlf1Jg
+16:30江苏🆚广东,https://suo.yt/R6oJbv0
+原🔊赛事原声,https://mgev.188766.xyz/play?migutoken=aafe15a3f58bb193b116fa920adc8a05&id=gzPJzCH6NFhj%2FN12CBE3BZ6Umlw3D%2BOJYm%2B%2BJeIxw2yIzxXwZ0KG%2Bdq%2FAiHHspWFDEIirm5bT1K%2BbNm6pwLs54drebE9HKy5b9yZDnyNnL9ZbUF%2FFs9YyY3fobhfbUZWKBq5ggB6slImHEP3UZ3SY5jHmiwx0ekWI8b3JymKo85jeklAg0n9hpEUdpjnezxgZ12FDwHy0q630W%2Buf6IVfbVgEcZ7BaqRMcguIfAZe3I%3D&name=IHCPFbGBsu%2FXS%2B1EPL%2FA5D6GzWB8dzkmYXdtOtelDEXIhu3dKQh3K9X24s0rnCKLua5KTa6a2A6zkJIJb3daxS%2F99wVgMjIbajo3sIvrx9ZJuuLfCl7kgjScoK%2BcN9KOQyGT6OIgCa2mhpPOZuZPk6KiVtDOoTb8jCrXf7YdS2ysM5%2FR%2Bu2hsVzWALoquIxy
+19:30河南🆚上海,https://suo.yt/R6oJbv0
+原🔊原声赛事,https://mgev.188766.xyz/play?migutoken=83628ae86ea8e87fa69030338339a8e5&id=sdbsGHM95O4MrXj7qmv%2BC6SSzkHY4Ja8WP482YL68fmPxe05frXdz3nk3glfG00NwHYWG2hTj2tQept%2BmuMdT1r41BNZ7ZKNLyBZhQPRO2V%2BEoKTtztp3Y4hgr0CKzL1mNIREas7Nx3hZGom98yVl9zZcclV%2BPraO9JqSB2dEQEQ7bUf%2Bm5SNHgOSORhViqDpDxHfqodsMaOXfFH9b%2FM%2FVuCrvu9mqJOrM4ByPf8U0w%3D&name=IckKF9XoPJkVyniAEyYlOIkyZxNAKHKM1FiBd%2BQwxYTMmxgR%2FGe%2FMtuQN7KN8kP82BVLV76JX2FrP4YoJqbVw7lNhLSjrgHUdyy31wVFb7nM%2BGRQ3m8GwkJ3pS%2BOSPFJAShF9%2BgXH7XVTsfk9AJB3Of%2FnCuc9hrRo%2FKRGihGFC454bZPgbnoh%2F9fRfpBfdF%2B
+⬇️男子U18小组赛B组⬇️,https://suo.yt/R6oJbv0
+13:30澳门🆚黑龙江,https://suo.yt/R6oJbv0
+原🔊现场原声,https://mgev.188766.xyz/play?migutoken=34cbd928d1e531ebe88830fe21648830&id=P5P4jIx0PVBtTikhkoxb%2FkUu2Kez2bYtGY3FaS4SuQ1hjHHIO8ge7RnK%2F4zT1H%2BRQrI2vwodyY6DbVYN2L0DTq%2FJFmPiV1twp1MckgAdS5rx6HzAzTF2Y1PQMbxZ%2Frm%2FmMDoHh3RQOIFeN8JY6hvpP72tvO3qQoZWyB%2Bk%2BKmdrzQTV9lP9xaIAwcvkQG4uD5uV9%2F1PvOoUxNtDX5OhVL5h2TEotrUOsxkFMz7JVxsEU%3D&name=HMk8kKTkupNVUwC7LYWxZeszGmices7FswgmhFtls7keNGskQxT4iUlq9qkypmE1pq6IVKrfqbLvB0XV4uOw7kM%2BLXJzeqCf7wnFXkToSQOs%2FysHtzvIE1f3O3mAA%2BWb8SXo8Yk2Fzz157x%2BwlH8abvTpA8Nv0gh1Hb7WrEpz9%2BF4rqW4MYXMiaVP30O25gA
+16:30山西🆚山东,https://suo.yt/R6oJbv0
+原🔊原声现场,https://mgev.188766.xyz/play?migutoken=2528b2fd54694cfa5cff16cf1775cf35&id=wlSLUrdAAUnGQfIm0%2Bzs9BmR2uWZtYyHRJOJY%2FNLqNAN38kuLl1CcgGORld5NUo0%2FCkzAniSBJgsXsUo0E6PqOTetDR9Fb3rVlDthgFYb%2F6IrEZ9a83516cS0v5bX5%2FYIsQgU8tUj9kUjTaQWBf0FMY7cR%2BG%2BXi24OQDWJzxCyOm%2BoEnvi%2B5qcjvjAHXDsdhZwvVZtXaHifJwLbmXsccZVH%2Bzvsr4tQ%2Bv3E0F1kkpPc%3D&name=rkxCYuVWj85YyzxPq4NLtTjFZAm5El3wNgigSdLIHF18RI2M64L280T1X9WkPBLq1zD2%2BByciwP%2B6KooG7pSso21VNnPO9zn9NVD40mq0qLxzSfvT2OC3FbJr96xkBfVRMWP0B%2BJU4pcPl9jZT20JnTz8b1TVOp75fXIESfE6x4yEkB0tk8x2Lj1fE1RySmS
+19:30浙江🆚辽宁,https://suo.yt/R6oJbv0
+原🔊现赛原声,https://mgev.188766.xyz/play?migutoken=f7898e1e7de21547f652b878836b4bc5&id=m1WpyIn8SmxmNoQlV%2BcJw0sxv0va%2B%2Bk6UaDbxLa1BktMWoLT%2F44IkJpepaJFwh6iXIrLmjlOTZ6krNSryjnhiEyXKAXV00SrEO8F5lIRVb9pOX%2BzZ4k%2FIbL%2FQk0WpXaYidypQVBXwzRK3r5JbGa5iHWYEktvcsPHP6MVVg7vXd49HUvEPnOK91g9aZB6W2Q5UTPjrsJUhj2ZIXCqqCg5Mf9lDg1KCnfL8r%2FCGDxRwqE%3D&name=kHo6RMslWzWRqgyDN6wSKHBscYE5dt7YBmSeX0Aap56SI3jp9ZLNs526Tq2h44RpCvQ6DWLnk3Ywu8paFJBJ%2FUcIPKF4M1Nu1m7pkPgdRMHQe5kgc0yPJLxzuHq1UV%2FlO%2FiOT03grVxQ8y6XDyaCpuiygRwkyGBJBTnqXLYc7fKkaxChnh7QWfeO%2FvY8W%2Bsd
 ➡️曲棍球🏑⬅️,http://81.70.10.196:35455/douyu/11531165
-⬇️第8比赛日⬇️,https://suo.yt/R6oJbv0
-18:00多场🆚预赛,https://suo.yt/R6oJbv0
-国🔊原声赛场,https://mgev.188766.xyz/play?migutoken=0df5b3d35923bbde08fa8dc26dca8a89&id=wmPYstUrFEv88tTDoTF5EEvqWBpYQbD4jtlNRl1ZoPHD%2FqM1ReEIXK2peEllk1iifv9idTOXKx%2FvnM1oqjzrkcMFnWVTOaNqPejrP1Fx3AlxfKjjQHW4MyJztjyiAEwMWSSU1TdV4DeFhQTdxb9NtwKuvmB43RXpBe2qHYnW52UjkIolOGh3vHbUN%2FHJk1V2wkvC4Deq4YA%2FPn0pr3OahG%2F%2FulDriFI7tiuxkiGyO14%3D&name=iBb7NI11lqFwTaC4sRv8JhtGuj0Mh3MUQE5HWyo0fCGIAXPNDkeKsXBNpj4Qsrn4BEz1IGE%2F30SctWYbkN3MZ5KOf76D3v0Kpa2xRUwVwkzFY%2BvMscM9%2Bf1cL9mkb%2BkSU1jthEvUSANTdrc7ZHrNUxZx6HN1v8Kr2fy5aXiun0Q%3D
+⬇️第9比赛日⬇️,https://suo.yt/R6oJbv0
+13:30女子🆚预赛,https://suo.yt/R6oJbv0
+原🔊原声现赛,https://mgev.188766.xyz/play?migutoken=0d2b1fdc096b79d9d0271b43216bcfab&id=p8MsP%2F6FloD6Pt29oZCIAwTi1rPCcffWTOX0zTSTkDstsHqBHO7vjN6Sp08jiPGYJnAHxWkyPgzO2o0uwZw6HuT1eFYRYHJ4YrbIytnXI8%2Fu0tBdcFYkL4N4W5QyUXjSyF1QTNlCw5A%2FJ4PlHsSWRj2v7i3orJhCsQCfDEOs472voq2RSijUQtyD%2BwuEDORBZ%2BMS4MgZaQ9fai1LX45tZsY%2Figo4KtiwOpsgJBXhQEM%3D&name=CAsjrgZvHWAnMcPbS%2B1LYV2nSEx%2BU%2Fbs6xbPmf6avoQCFK3b60Sd2mi31j%2BuIJw%2FFCHAyPQGxTCjkBIyJilgtJWk3Efuv3BO9of1GCphkWRpIA8%2Fzv80K9icJ4b4m0gJ
+➡️手球🤾⬅️,http://81.70.10.196:35455/douyu/11531165
+⬇️第5比赛日⬇️,https://suo.yt/R6oJbv0
+14:00多场🆚预赛,https://suo.yt/R6oJbv0
+原🔊比赛原声,https://mgev.188766.xyz/play?migutoken=5acd1592e6f3148cac7bcf6d640f9895&id=O4qbx5rjRiWz7zKqT57Kk9zwtGe6Z7FuruieTvYxa8CcwQJ%2BnxRv6pCnkwW7HDmxB0EGAsxt9aDBBJJGZhqSDp%2BaNMBjFsl4UK24MAxjnek4GUxxS2XhZz1ug1n7%2F2v7OcMXxZlpNq2rMjVo%2FmBZfZHvKvinMtTRMe3oAyi%2F6NEmyQujzsgLRFhlldP6dksXbh6HtJiT%2FiMjHE5ciIP%2F%2FLhWrrtZtnZgkvow0Masxi8%3D&name=NZpyyoBZ7LN8TUJDgQr8cUfy2KMY7Ta9ix2m%2Bp7nxx0QxhqX6AkvA9WFR1ya3kAs78hYQyYtL%2BiVLKDHY%2FK4miYxw44XW%2BforDZPKq0W5WIZHH5E94dRcsx%2FXdKW2IaMnFMjK5p%2BT8tBUxwcE53MQw%3D%3D
+➡️足球⚽⬅️,http://81.70.10.196:35455/douyu/11531165
+⬇️U20男子小组赛A组⬇️,https://suo.yt/R6oJbv0
+16:00广东🆚广西,https://suo.yt/R6oJbv0
+国🔊鹿中原评,https://mgev.188766.xyz/play?migutoken=ba4786091489401efbb2193e43bd6bd4&id=rrQ5OByAXpaamiAQ6jRYvGEjXqnuQ0A7PxM8ZE%2FcmEXOULelLKobl%2FKlxx5hbqMGd4jJy4JOOfKUAs0oGh73hQlVN0Yy8VS0kwyqc0oAiGc%2FkCWmJgSTe2rMk7YbRZGuh%2FkYJpDE7N0n3i0IVjNKBFR6dz1gldJe0MH1qdHqojUnag9FvG4fZtbw43njx%2FGTmIqyovuLlOtYAgC9uy%2BmvjiYgWyAVNfaOAndy2LS83A%3D&name=DC0aNgf767AdNKZpwMYki8p500za6umtmMNQayt0WVf1HE9x6bKWODE2qR653zjw3Nbvi2HY%2FiUXyv%2B5l%2B1oI9X6v5wGUUSOxcn3JENCJdPyH8bm0TQuIRbHT0hlF0caFe%2FJXJkatWSHb%2Fk3Tui8uYdadyEpVXf0lr4PIFJuE1ge%2F30MwkSmeq3o2mmYKCvJ
+➡️篮球🏀⬅️,http://81.70.10.196:35455/douyu/11531165
+⬇️男子成年组小组赛⬇️,https://suo.yt/R6oJbv0
+16:00四川🆚河南,https://suo.yt/R6oJbv0
+国🔊季孟年评,https://mgev.188766.xyz/play?migutoken=ba835d76b354762c59b2253c323da38a&id=yyoEAAODYrW6C2g23WCBMJYuhh7F%2F4Kd1BJTeK0kPr3PZQksveEgd7VMVicaBcPqZpa09%2BWl8JYK%2BjweY%2Bf2uIj49ii%2FmLZb6oKTW6DJgcB8AKtuLd3fBV63HS5mJPFD4jqfcAA6YsE3Z3cjwO5UC4Fa3JZ5f0jlD3AaT1BL0lrxauINhLvEEa005n7bofQinuL%2BH5LAmcCs5BXZ4Ee%2FyvVxkHbtPHKXh1cXY07fmMA%3D&name=mAqu5oOmgra34joiwMntfL4bszf00SAR77tnGMnt32B11s2SZCUgfwN8v7o4A4LydeBzNKDcVK0jzymDnQ3cfaAxIwv%2F2UHcNUEXsloPBVQGDvUPRf32KK2NPA9OmVH6ZuO0BPeOlYXPrvd7Ngse67ORoAPC5BLNMTga3G3ff9eOPgExrwZFYqXIkCmDQ%2FCh
+16:00上海🆚香港,https://suo.yt/R6oJbv0
+国🔊蔡凯臣评,https://mgev.188766.xyz/play?migutoken=3a95985797c3f2e52c27bd5e621be065&id=egVPk9%2BRON8ywG72%2F168AVzTiYhPGVhl%2FrcqWUI4lY3WiC1sVEJPtLEScfLyDlVJqrOA8lwiHjVbryRv8s2%2B5fXGNqJ8%2BJCpPsy4J%2BoLGhSh7MlEhPo7bN%2B1LB7LSeeCBoJd%2BzD%2BEhr7TThGLPntNvBu2iPIFAMCydE6G10%2F%2FJOtnOfnpuCHOQ6ciFz%2Fzw0vDonMC43mV%2FyIexvKVyVT9K76fmqtr%2FBWE1qu%2FCFXYPM%3D&name=wM0sxs8aRQY8WIL9HbDaqbcgXywQWdpatcUW1gIPHXALohE8odISAXPeg9V5g%2Bl3bUuvCtcoSG75IZeLzR%2BRWNzM6LMnw9yvQLG8Y9nEiR4mJbk03f0csJzpac1zJAMsl4aUkKU2Ezn0N9%2FU%2FjmAqagfr2iwIeulUAIhEKr7myipqy18JqOb6G19l4yjYYk1
+19:30辽宁🆚澳门,https://suo.yt/R6oJbv0
+国🔊孙博评述,https://mgev.188766.xyz/play?migutoken=7c062d1c714d743d5a50d5b104b8184c&id=j2BNi8v1PJ8qyCgJmLExeIwYN2NuNYtZrkNWTEF8il3f8QU0OI38tmvUjIKZrZJwtNk2M%2FCWvTMkrf5YL%2FTjVJjgrEekSxbuA4FQHyjUla4Ng0S2%2BTij7QoZEe8gy48eZ23LPEtNBQhUe9yBFgSjKGnYKOqoohVpRqFwrII2AHY%2FAsKQdlEjZ3HuT6q22o8sztFKr9fmTjeorq22mV96IOSxH8o7a564JtshyLytV1Y%3D&name=vIF4R%2B5egWmA%2FWW6LKEGCINIg%2BPOUqS3RAQ7Zek5gKQPnuDjGtWcVx05VtL9K0tArX1zba4b1QBwinI6myp90Sn6YWTV7%2F6G50Iu%2FUTv5yrTijIb9DphUHClQ1XTSwRvE%2Fbb0gINjRM32oknO%2FCtYsiUScF80bA4cB8JFZb9FnFMxdLeDXlif3WGyQ%2FxjUA4fLzsysXQdb7PIaLXOOoSEw%3D%3D
+19:30天津🆚北京,https://suo.yt/R6oJbv0
+国🔊邵化谦评,https://mgev.188766.xyz/play?migutoken=878591ab9231b13ba412f17ddcb5d93b&id=scnIIzdPpBJnjGjqWEA4VP4YKuRDGy6VhwWuvTgmc4qOuuDKonYtbxepfF%2FK3ldikv07wq%2FJQaxL8LfNit73Gi0TrRSLIKdlaX%2BZ5Ewr9vrq65WXVkNo53BWkWWum1KXpSJx1i3AW6ryxN%2F3jIjL3l%2BKKSHjtWocJ3DkPR0XAVGp9jIZFjPdgdAPFUr%2BbjcV%2FRQL4XtDDVMcQJ3fOPgzU9nTzmoqbyp3coXb7qysJOs%3D&name=MG8MPqciWAsCsSjfFfJSsVZZnH0C5thXN1H7tu3%2B1zkpqsZktbr7hO%2FQudjkPnZjcKG3rz4sjSNROyTXaKuWwTGmUmdlCHJ8fEm8XrQB%2BpzgM2MUYsu1WimB2E1IYd63G0h6AfiAstnG%2F0JV%2BDiaOwJLkqb3fMBjCpauKt7d%2BJ5mbhETWOwpIKmPig5Yj90H
 亚冠赛评,#genre#
-11-04亚冠精英赛⚽📡,http://81.70.10.196:35455/douyu/11531165
-18:00成都蓉城🆚首尔FC,https://suo.yt/R6oJbv0
-国🔊杨晨评述,https://mgev.188766.xyz/play?migutoken=2d69837300cf0c372dc2ba7320439fa7&id=Jp5mJ1%2FdGYux08DhVlaJBQdr0k6xIGGqll8x9KrN8MRkzFWd13ctOkdCtPezq75kT6hNj23sEBZt0Y4aUcyywADTX%2Bz7oDS0Ma9U4rtMVCOVwXGjbnQ4aXBmyWk9Jupa5Gk35FvX6QjBieudPFqkF68vlX%2B9CuDA3TdeKPwtdG75m9OPO%2FjLE0WXL7Jvct2kXYD81h7Aj3iUhXh%2Fm9l06KuiDjkCDtyiQonSOo%2F%2F%2F%2Bw%3D&name=Sy%2F0ELgzBSfoP2EIAa1v3M9ggK1aD8%2FXJ8ZjOXiQDnaHwcQfefJQ0Eo4%2BT4LJGxSuChATVqSLqY2v8qg%2FRdgXNhRMmfF53Y70UWFFDOVQTwHTxOroWzZ7DYr23oNnydla6cxKuzCb%2FjhYPSVVoHbcA%3D%3D
-原🔊赛场原声,https://mgev.188766.xyz/play?migutoken=82b6ddc71a7acaa951f52867c8483247&id=ZrXrp7UGpnO5518DBIsd%2FP52ScFAitTZaPe%2BHA%2FmpHzVlfKH%2BV4TMYbLz519gGFyLurCSAIuyHdLG47daC9V2wYCqF%2BCIqowIodkxxvHGbitkE3NFsG3d1Ph0pne5i02t7lY6Q6HI9cubblyPBSCEkOH9mkJ%2FzR9D5ZRU3ajUkGdFmGQsteXsuTjvC8B5ou3XMnWBw1IsRC2gvCJR0C7jdVO2mplZ5EVOwGRDa7yjfY%3D&name=AE6zS3Vz0PXGk9pP5i4ZS6EwTKcpoJYUwwKdZxkm1%2BTIJ0%2BG976vWwwtW%2BQpTykSXcWq5Xi%2F1%2FVy6HRjLHx5AtIXfS6vw6tOIu9cSZxE2lt4iSjOJfS%2Ff8XxTfF3wJ8O
-20:15上海海港🆚武里南联,https://suo.yt/R6oJbv0
-国🔊李彦评述,https://mgev.188766.xyz/play?migutoken=79417a2047469cb331b3a9e7c6b0f0be&id=vXinFPYrgcXgNhMXoIUTDwpEosTq2pPARnwv3LQh1aX9t9dfTC1T9KVwTnb7awHBr7l2vtNbDdZBmQ6BygVHswT17YhKb2ymhzUkYHAU7Fxl3oHffM2ncGVMUtHBF81Al6UmwhmxZJ7862mABO86r8R6AX5O4ZXWyJeev4%2FFQ6JJB9FwyzvEX7K7IU8Ij1Ov%2B61qz1DE5YfG9dglGWX72ZGsRkXoWtCe1bqJRTn2MgI%3D&name=zpivkdGNPNEPSXiUNaU0haD2TncswPAHFBHYfTlsm88KbmkE9LzEnr%2B9npFIG1vcnNc2mbRlyfYd3SLH%2B4dgjsYzlCEuyvhKrjNtKg%2B4%2FXEf1ngCllEH1JKQBqPbKa7XDNl5x%2BtgmmlPcXs5bsqwbQ%3D%3D
-原🔊原声赛场,https://mgev.188766.xyz/play?migutoken=087d2b7fdcb494f2707d9d98d4029fb9&id=2U2qfvDWR5Edam4iVvM%2FNKjkLg8dWyHYe5mcpEjpi%2FLfnT%2BoEJDQhDeBuwdppv6aCxDJe%2B%2FxgoC06V%2FuyFMKm7Bpyp4MLTilrYDrpXjQ4JVmZsYQi6EtPgg8OU544sdhygduL69QMsdqLNYwvsW4U7NMQKe8t2da5sWXWhfmOKThuOvUrcSNI21f12uoRd4gGnTbY9TGDDwgsRIRXSblSkfPTrzDwOU0f57xYyHqYAM%3D&name=EyAechEb%2BIJZCyRlFKhJHAZOHxh6r3ik5ANTEhuHWIN0WV6MDLCd6B25ypBep739mY8YQCYgTG79t6ip2r7NsTaAMQRo2nTU8Ps0ASedUABJyK84DZ6qBtOX5ANIxdMfzZ2WEdNfB5z6oC0VL7lglg%3D%3D
+11-05亚冠精英赛⚽📡,http://81.70.10.196:35455/douyu/11531165
+20:15上海申花🆚柔佛新山,https://suo.yt/R6oJbv0
+国🔊刘越评述,https://mgev.188766.xyz/play?migutoken=7f166ad4bd988e7e47a00789761d9d03&id=gUvx2qYrOWQiXnlxR6ey3x%2FrG5%2BiCjrhbQe7dx5nlN17%2F5Llyc22tWpFs3NnfCju8Fzfg%2F1RaeIC4rz5b27yvBgiKmKGANfQN7Mqwf8bxPHbCO%2F0XtwGHSiA1iaosq3j0kpDF%2FK9fjzQjEtIaRoZOqWkCHLfWGTuwokmjiJsGfMcNxvGs%2BxBdIc18SMfGQRfuTgdVC4Q8J5v8fBLFMOMQ%2BO0YoPrASPwkwZfZs7DlzY%3D&name=7NbmCqTc9EMd1F9Ym4syi6cK%2BQJAcxXI0P94%2B1J9teXkYhUZlLIUnjS7W5BR3VVMfde5%2BNpeVEpaum7CJa%2BymKO3jcjXTIFXNqr1UC%2F9o8KKbS7VlhCRRYsaanbpS0B4KTjMSK2Fwb%2BlmR8MKcvT2g%3D%3D
+原🔊赛场原声,https://mgev.188766.xyz/play?migutoken=7d39e0adaee4692850dac212043d6424&id=mfUQk%2Fjw%2FzXBGlu6s66HQArbXk1WXjZc2JA9cFrKRoAEaI5OgFlGlG4hUUlohl2tNTKCPeeA1N69k2oVlKOiS9XgrWhemXzEd8KdyfbDnNmBcknFyO0PgLn54HrBfqpngVheb8v2J4EMgeK6HX8KuRPvLF%2BHrBfCrAhBvkuteFcQQU1GqL8Ajfe59RjsQvLU2rXlsWS4dozH9xvwsc8BDpL%2BfBvrwebE3PN0NDAbZvE%3D&name=IpW2HdSmIfetcbfwgknCGjfgQhXuRnQxK3VPynv34dPD75ChYQqU1R9IxhJgFth%2FQ4ydFCl1IypTdDlwnOaTiuSwoR4%2B5lb9bJMgdYBKwQwpL6gwe2v71jOwy5SN2WPoTNdQAfHcqUemG%2Fj%2FogLtcQ%3D%3D
+11-06亚冠联2分组赛⚽📡,http://81.70.10.196:35455/douyu/11531165
+20:15北京国安🆚和富大埔,https://suo.yt/R6oJbv0
+欧冠赛评,#genre#
+11-06欧冠杯联赛⚽📡,http://81.70.10.196:35455/douyu/11531165
+01:45卡拉巴赫🆚车路士,https://suo.yt/R6oJbv0
+01:45维拉里尔🆚AEP帕福斯,https://suo.yt/R6oJbv0
+04:00曼城🆚多蒙特,https://suo.yt/R6oJbv0
+04:00巴塞🆚布鲁日,https://suo.yt/R6oJbv0
+04:00国米🆚卡拉特,https://suo.yt/R6oJbv0
+04:00马赛🆚阿特兰大,https://suo.yt/R6oJbv0
+04:00纽卡素🆚毕尔包,https://suo.yt/R6oJbv0
+04:00阿积士🆚加拉沙雷,https://suo.yt/R6oJbv0
+04:00本菲卡🆚利华古逊,https://suo.yt/R6oJbv0
 赛事咪咕,#genre#
 抖姐舞陪你看,http://81.70.10.196:35455/douyu/11531165
 赛事睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=bdee919fbdee919fbdee919fbdee919f
@@ -4028,6 +4065,12 @@ rock综艺频流,http://tl.061833.xyz/tl/rock
 Nick儿童频流,http://tl.061833.xyz/tl/nickjr
 Nick少儿频流,http://tl.061833.xyz/tl/nickelodeon
 ZooMoo'频流,http://tl.061833.xyz/tl/zoomoo
+广东珠江频道,http://go.bkpcp.top/mg/gdzj
+广东体育频道,http://go.bkpcp.top/mg/gdty
+广东民生频道,http://go.bkpcp.top/mg/gdms
+广东新闻频道,http://go.bkpcp.top/mg/gdxw
+广东影视频道,http://go.bkpcp.top/mg/gdys
+广东湾区频道,http://go.bkpcp.top/mg/dwqws
 广东珠江频道,http://tcl33.xrk.top:8086/hls/47/index.m3u8
 广东体育频道,http://tcl33.xrk.top:8086/hls/42/index.m3u8
 广东民生频道,http://tcl33.xrk.top:8086/hls/39/index.m3u8
@@ -4119,13 +4162,13 @@ DAZN-体育壹,rtmp://f13h.mine.nu/sat/tv731
 DAZN-体育贰,rtmp://f13h.mine.nu/sat/tv741
 momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
 新视觉hd频道,http://120.76.248.139/live/bfgd/4200000249.m3u8
-北京卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.51:5140
-东方卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.67:5140
-浙江卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.65:5140
+北京卫视频4k,http://106.53.99.30/tv/bj.php?id=bjws4k
+东方卫视频4k,http://106.53.99.30/tv/api.php?id=dfws4k
+浙江卫视频4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 江苏卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.64:5140
-湖南卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.63:5140
+湖南卫视频4k,http://106.53.99.30/tv/api.php?id=hnws4k
 广东卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.103:5140 
-深圳卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.104:5140
+深圳卫视频4k,http://106.53.99.30/tv/api.php?id=szws4k
 山东卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.66:5140
 四川卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.62:5140
 北京卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
@@ -4217,9 +4260,9 @@ momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
 山河枕第10集,http://cjx.999315.xyz/yzzy/20251102/4760_e7d161ac/index.m3u8
 山河枕第11集,http://cjx.999315.xyz/yzzy/20251102/22127_19fadb25/index.m3u8
 山河枕第12集,http://cjx.999315.xyz/yzzy/20251103/7593_3261769b/index.m3u8
-山河枕第13集,http://jx.999315.xyz/ffzy/20251103/30343_83d628cd/index.m3u8
-山河枕第14集
-山河枕第15集
+山河枕第13集,http://cjx.999315.xyz/yzzy/20251104/7615_5a0c8283/index.m3u8
+山河枕第14集,http://cjx.999315.xyz/yzzy/20251104/5109_7a0c1035/index.m3u8
+山河枕第15集,http://cjx.999315.xyz/yzzy/20251104/22269_ff123d85/index.m3u8
 山河枕第16集
 山河枕第17集
 山河枕第18集
@@ -4269,8 +4312,8 @@ momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
 天地剑心21集,http://cjx.999315.xyz/yzzy/20251102/22120_fd03f619/index.m3u8
 天地剑心22集,http://cjx.999315.xyz/yzzy/20251103/22188_c1a79e7f/index.m3u8
 天地剑心23集,http://cjx.999315.xyz/yzzy/20251103/22189_56f1b961/index.m3u8
-天地剑心24集
-天地剑心25集
+天地剑心24集,http://cjx.999315.xyz/yzzy/20251104/7661_2ec0274c/index.m3u8
+天地剑心25集,http://cjx.999315.xyz/yzzy/20251104/7662_de8aa43e/index.m3u8
 天地剑心26集
 天地剑心27集
 天地剑心28集
@@ -4301,8 +4344,8 @@ momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
 水龙吟第16集,http://cjx.999315.xyz/yzzy/20251031/21866_86f48b1d/index.m3u8
 水龙吟第17集,http://cjx.999315.xyz/yzzy/20251031/21867_8854e852/index.m3u8
 水龙吟第18集,http://cjx.999315.xyz/yzzy/20251031/21868_c05a343d/index.m3u8
-水龙吟第19集,
-水龙吟第20集
+水龙吟第19集,http://cjx.999315.xyz/yzzy/20251103/5016_7e3315fe/index.m3u8
+水龙吟第20集,http://cjx.999315.xyz/yzzy/20251104/22263_832f64b0/index.m3u8
 水龙吟第21集
 水龙吟第22集
 水龙吟第23集
@@ -4352,8 +4395,8 @@ momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
 暗河传第26集,http://cjx.999315.xyz/yzzy/20251102/7514_2c29d89c/index.m3u8
 暗河传第27集,http://cjx.999315.xyz/yzzy/20251102/7515_a3c36d0c/index.m3u8
 暗河传第28集,http://cjx.999315.xyz/yzzy/20251103/22180_422be4bc/index.m3u8
-暗河传第29集
-暗河传第30集
+暗河传第29集,http://cjx.999315.xyz/yzzy/20251104/22257_c95cb8f9/index.m3u8
+暗河传第30集,http://cjx.999315.xyz/yzzy/20251104/22258_dd7d6462/index.m3u8
 暗河传第31集
 暗河传第32集
 暗河传第33集
@@ -4426,6 +4469,92 @@ SMARt知识晴,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
 靖洋戏剧频晴,P2p://147.135.39.171:9906/6867a22a000b7799949ca28717b451f5.ts
 中视菁采频晴,P2p://147.135.39.171:9906/6867a07b0000813094960c2053bb31ec.ts
 八大优频道晴,P2p://147.135.39.171:9906/686141c600004a257bb419081c1d2844.ts
+央卫频沪,#genre#
+睛彩竞技高码,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
+睛彩篮球高码,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
+睛彩广场高码,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
+五星体育高码,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
+CCTV-01高码,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+CCTV-01高码,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
+CCTV-01高码,https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
+CCTV-01高码,https://zby.130519.xyz/PLTV/11/224/3221226163/index.m3u8
+CCTV-02高码,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
+CCTV-03高码,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
+CCTV-03高码,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
+CCTV-04高码,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
+CCTV-05高码,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
+CCTV-05高码,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
+CCTV-06高码,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
+CCTV-07高码,https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
+CCTV-07高码,https://zby.130519.xyz/PLTV/11/224/3221226143/index.m3u8
+CCTV-07高码,https://zby.130519.xyz/PLTV/11/224/3221226137/index.m3u8
+CCTV-08高码,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
+CCTV-08高码,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
+CCTV-10高码,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
+CCTV-10高码,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
+CCTV-11高码,https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8
+CCTV-11高码,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
+CCTV-12高码,https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
+CCTV-12高码,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
+CCTV-13高码,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
+CCTV-14高码,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
+CCTV-14高码,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
+CCTV-15高码,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
+CCTV-16高码,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
+CETV-01高码,https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
+CETV-04高码,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
+北京卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
+东方卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
+东方卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
+浙江卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
+江苏卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
+湖南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
+广东卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
+深圳卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
+天津卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
+安徽卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
+山东卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
+山西卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
+辽宁卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
+河北卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
+河南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
+江西卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8
+四川卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
+重庆卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
+贵州卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
+湖北卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
+广西卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
+广西卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
+云南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
+云南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
+东南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
+海南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
+甘肃卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
+青海卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
+吉林卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
+吉林卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
+黑龙江视高码,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
+东方影视高码,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
+东方财经高码,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
+第一财经高码,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
+上海都市高码,https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8
+都市剧场高码,https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
+都市剧场高码,https://zby.130519.xyz/PLTV/11/224/3221226155/index.m3u8
+欢笑剧场高码,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
+新闻综合高码,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
+金色学堂高码,https://zby.130519.xyz/PLTV/11/224/3221225748/index.m3u8
+生活时尚高码,https://zby.130519.xyz/PLTV/11/224/3221225768/index.m3u8
+法治天地高码,https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8
+游戏风云高码,https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8
+游戏风云高码,https://zby.130519.xyz/PLTV/11/224/3221226140/index.m3u8
+乐游频道高码,https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8
+乐游频道高码,https://zby.130519.xyz/PLTV/11/224/3221226115/index.m3u8
+哈哈炫动高码,https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
+哈哈炫动高码,https://zby.130519.xyz/PLTV/11/224/3221226175/index.m3u8
+动漫秀场高码,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
+动漫秀场高码,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
+卡酷少儿高码,https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8
+金鹰卡通高码,https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
 特区频道,#genre#
 Plus综合频粤,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 凤凰中文频国,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
@@ -4547,150 +4676,6 @@ Astr'欢喜频国,https://cdn9.163189.xyz/smt1.1.php?id=Huahee
 TITv综合地波,http://123.51.136.80:8303/0.ts
 HakkaTv地波,http://123.51.136.80:8307/0.ts
 PTS'xs综地波,http://123.51.136.80:8312/0.ts
-闽南频肆,#genre#
-中天新闻肆Tv,http://180.176.212.253:5051/4gtv-4gtv009/index.m3u8?proxy=true
-寰宇新闻肆Tv,http://180.176.212.253:5051/litv-longturn14/index.m3u8?proxy=true
-东森新闻肆Tv,http://180.176.212.253:5051/4gtv-4gtv152/index.m3u8?proxy=true
-tvbs新闻肆Tv,http://180.176.212.253:5051/4gtv-4gtv072/index.m3u8?proxy=true
-三立新闻肆Tv,http://180.176.212.253:5051/4gtv-live089/index.m3u8?proxy=true
-三立新闻肆Tv,http://180.176.212.253:5051/iNEWS/index.m3u8?proxy=true
-非凡新闻肆Tv,http://180.176.212.253:5051/4gtv-4gtv010/index.m3u8?proxy=true
-闽镜新闻肆Tv,http://180.176.212.253:5051/4gtv-4gtv075/index.m3u8?proxy=true
-民视新闻肆Tv,http://180.176.212.253:5051/litv-ftv13/index.m3u8?proxy=true
-中视新闻肆Tv,http://180.176.212.253:5051/4gtv-4gtv074/index.m3u8?proxy=true
-华视新闻肆Tv,http://180.176.212.253:5051/4gtv-4gtv052/index.m3u8?proxy=true
-台视新闻肆Tv,http://180.176.212.253:5051/4gtv-4gtv051/index.m3u8?proxy=true
-民视闽南肆Tv,http://180.176.212.253:5051/4gtv-4gtv002/index.m3u8?proxy=true
-民视闽南肆Tv,http://180.176.212.253:5051/4gtv-4gtv155/index.m3u8?proxy=true
-中视闽南肆Tv,http://180.176.212.253:5051/4gtv-4gtv040/index.m3u8?proxy=true
-华视闽南肆Tv,http://180.176.212.253:5051/4gtv-4gtv041/index.m3u8?proxy=true
-台视闽南肆Tv,http://180.176.212.253:5051/4gtv-4gtv066/index.m3u8?proxy=true
-寰宇闽南肆Tv,http://180.176.212.253:5051/4gtv-4gtv156/index.m3u8?proxy=true
-tvbs闽南肆Tv,http://180.176.212.253:5051/4gtv-4gtv073/index.m3u8?proxy=true
-民视台湾肆Tv,http://180.176.212.253:5051/4gtv-4gtv001/index.m3u8?proxy=true
-民视第一肆Tv,http://180.176.212.253:5051/4gtv-4gtv003/index.m3u8?proxy=true
-民视旅游肆Tv,http://180.176.212.253:5051/litv-ftv07/index.m3u8?proxy=true
-民视影剧肆Tv,http://180.176.212.253:5051/litv-ftv09/index.m3u8?proxy=true
-民视综艺肆Tv,http://180.176.212.253:5051/4gtv-4gtv004/index.m3u8?proxy=true
-中视菁采肆Tv,http://180.176.212.253:5051/4gtv-4gtv064/index.m3u8?proxy=true
-中视经典肆Tv,http://180.176.212.253:5051/4gtv-4gtv080/index.m3u8?proxy=true
-台视财经肆Tv,http://180.176.212.253:5051/4gtv-4gtv056/index.m3u8?proxy=true
-公视戏剧肆Tv,http://180.176.212.253:5051/4gtv-4gtv042/index.m3u8?proxy=true
-闽南戏剧肆Tv,http://180.176.212.253:5051/litv-longturn22/index.m3u8?proxy=true
-国际财经肆Tv,http://180.176.212.253:5051/4gtv-4gtv104/index.m3u8?proxy=true
-全球财经肆Tv,http://180.176.212.253:5051/4gtv-live060/index.m3u8?proxy=true
-东森财经肆Tv,http://180.176.212.253:5051/4gtv-4gtv153/index.m3u8?proxy=true
-寰宇财经肆Tv,http://180.176.212.253:5051/4gtv-4gtv158/index.m3u8?proxy=true
-cnbc财经肆Tv,http://180.176.212.253:5051/4gtv-live130/index.m3u8?proxy=true
-tvbs精采肆Tv,http://180.176.212.253:5051/4gtv-4gtv067/index.m3u8?proxy=true
-tvbs欢乐肆Tv,http://180.176.212.253:5051/4gtv-4gtv068/index.m3u8?proxy=true
-tvbs综艺肆Tv,http://180.176.212.253:5051/4gtv-live087/index.m3u8?proxy=true
-tvbs台剧肆Tv,http://180.176.212.253:5051/4gtv-live088/index.m3u8?proxy=true
-八大精彩肆Tv,http://180.176.212.253:5051/4gtv-4gtv034/index.m3u8?proxy=true
-八大综艺肆Tv,http://180.176.212.253:5051/4gtv-4gtv039/index.m3u8?proxy=true
-三立综合肆Tv,http://180.176.212.253:5051/4gtv-live207/index.m3u8?proxy=true
-爱达娱乐肆Tv,http://180.176.212.253:5051/4gtv-4gtv070/index.m3u8?proxy=true
-靖洋戏剧肆Tv,http://180.176.212.253:5051/4gtv-4gtv045/index.m3u8?proxy=true
-靖洋卡通肆Tv,http://180.176.212.253:5051/4gtv-4gtv057/index.m3u8?proxy=true
-靖天卡通肆Tv,http://180.176.212.253:5051/4gtv-4gtv044/index.m3u8?proxy=true
-靖天综合肆Tv,http://180.176.212.253:5051/4gtv-4gtv046/index.m3u8?proxy=true
-靖天日本肆Tv,http://180.176.212.253:5051/4gtv-4gtv047/index.m3u8?proxy=true
-靖天欢乐肆Tv,http://180.176.212.253:5051/4gtv-4gtv054/index.m3u8?proxy=true
-靖天映画肆Tv,http://180.176.212.253:5051/4gtv-4gtv055/index.m3u8?proxy=true
-靖天戏剧肆Tv,http://180.176.212.253:5051/4gtv-4gtv058/index.m3u8?proxy=true
-靖天电影肆Tv,http://180.176.212.253:5051/4gtv-4gtv061/index.m3u8?proxy=true
-靖天育乐肆Tv,http://180.176.212.253:5051/4gtv-4gtv062/index.m3u8?proxy=true
-靖天国际肆Tv,http://180.176.212.253:5051/4gtv-4gtv063/index.m3u8?proxy=true
-靖天资讯肆Tv,http://180.176.212.253:5051/4gtv-4gtv065/index.m3u8?proxy=true
-龙华卡通肆Tv,http://180.176.212.253:5051/litv-longturn01/index.m3u8?proxy=true
-龙华日韩肆Tv,http://180.176.212.253:5051/litv-longturn11/index.m3u8?proxy=true
-龙华偶像肆Tv,http://180.176.212.253:5051/litv-longturn12/index.m3u8?proxy=true
-龙华电影肆Tv,http://180.176.212.253:5051/litv-longturn03/index.m3u8?proxy=true
-龙华洋片肆Tv,http://180.176.212.253:5051/litv-longturn02/index.m3u8?proxy=true
-龙华戏剧肆Tv,http://180.176.212.253:5051/litv-longturn18/index.m3u8?proxy=true
-龙华经典肆Tv,http://180.176.212.253:5051/litv-longturn21/index.m3u8?proxy=true
-国会频壹肆Tv,http://180.176.212.253:5051/4gtv-4gtv084/index.m3u8?proxy=true
-国会频贰肆Tv,http://180.176.212.253:5051/4gtv-4gtv085/index.m3u8?proxy=true
-好消息壹肆Tv,http://180.176.212.253:5051/litv-ftv16/index.m3u8?proxy=true
-好消息贰肆Tv,http://180.176.212.253:5051/litv-ftv17/index.m3u8?proxy=true
-大爱壹高肆Tv,http://180.176.212.253:5051/4gtv-live007/index.m3u8?proxy=true
-大爱贰高肆Tv,http://180.176.212.253:5051/4gtv-live106/index.m3u8?proxy=true
-人间卫视肆Tv,http://180.176.212.253:5051/4gtv-live008/index.m3u8?proxy=true
-原住民族肆Tv,http://180.176.212.253:5051/4gtv-live014/index.m3u8?proxy=true
-智林体育肆Tv,http://180.176.212.253:5051/4gtv-4gtv101/index.m3u8?proxy=true
-博斯魅力肆Tv,http://180.176.212.253:5051/litv-longturn04/index.m3u8?proxy=true
-博斯网球肆Tv,http://180.176.212.253:5051/litv-longturn09/index.m3u8?proxy=true
-博高球壹肆Tv,http://180.176.212.253:5051/litv-longturn05/index.m3u8?proxy=true
-博高球贰肆Tv,http://180.176.212.253:5051/litv-longturn06/index.m3u8?proxy=true
-博运动壹肆Tv,http://180.176.212.253:5051/litv-longturn07/index.m3u8?proxy=true
-博运动贰肆Tv,http://180.176.212.253:5051/litv-longturn08/index.m3u8?proxy=true
-博无限壹肆Tv,http://180.176.212.253:5051/litv-longturn10/index.m3u8?proxy=true
-博无限贰肆Tv,http://180.176.212.253:5051/litv-longturn13/index.m3u8?proxy=true
-阿里郎台肆Tv,http://180.176.212.253:5051/4gtv-4gtv079/index.m3u8?proxy=true
-滚动人生肆Tv,http://180.176.212.253:5051/4gtv-live012/index.m3u8?proxy=true
-达文西台肆Tv,http://180.176.212.253:5051/4gtv-4gtv018/index.m3u8?proxy=true
-猪哥亮厅肆Tv,http://180.176.212.253:5051/4gtv-4gtv006/index.m3u8?proxy=true
-亚洲旅游肆Tv,http://180.176.212.253:5051/4gtv-4gtv076/index.m3u8?proxy=true
-ELta旅游肆Tv,http://180.176.212.253:5051/4gtv-live120/index.m3u8?proxy=true
-美国之音肆Tv,http://180.176.212.253:5051/litv-ftv03/index.m3u8?proxy=true
-半岛新闻肆Tv,http://180.176.212.253:5051/litv-ftv10/index.m3u8?proxy=true
-非凡商业肆Tv,http://180.176.212.253:5051/4gtv-4gtv048/index.m3u8?proxy=true
-第壹商业肆Tv,http://180.176.212.253:5051/4gtv-4gtv109/index.m3u8?proxy=true
-影迷纪实肆Tv,http://180.176.212.253:5051/litv-ftv15/index.m3u8?proxy=true
-经典电影肆Tv,http://180.176.212.253:5051/4gtv-live021/index.m3u8?proxy=true
-经典卡通肆Tv,http://180.176.212.253:5051/4gtv-live022/index.m3u8?proxy=true
-精选动漫肆Tv,http://180.176.212.253:5051/4gtv-live024/index.m3u8?proxy=true
-戏剧壹台肆Tv,http://180.176.212.253:5051/4gtv-live010/index.m3u8?proxy=true
-古典音乐肆Tv,http://180.176.212.253:5051/4gtv-4gtv059/index.m3u8?proxy=true
-客家电视肆Tv,http://180.176.212.253:5051/4gtv-4gtv043/index.m3u8?proxy=true
-华仁纪实肆Tv,http://180.176.212.253:5051/4gtv-4gtv013/index.m3u8?proxy=true
-时尚运动肆Tv,http://180.176.212.253:5051/4gtv-4gtv014/index.m3u8?proxy=true
-空间居家肆Tv,http://180.176.212.253:5051/4gtv-live206/index.m3u8?proxy=true
-生活英语肆Tv,http://180.176.212.253:5051/litv-longturn20/index.m3u8?proxy=true
-互动英语肆Tv,http://180.176.212.253:5051/4gtv-live030/index.m3u8?proxy=true
-采昌影剧肆Tv,http://180.176.212.253:5051/4gtv-4gtv049/index.m3u8?proxy=true
-数位电影肆Tv,http://180.176.212.253:5051/4gtv-4gtv011/index.m3u8?proxy=true
-欧洲电影肆Tv,http://180.176.212.253:5051/4gtv-live157/index.m3u8?proxy=true
-Amc电影肆Tv,http://180.176.212.253:5051/4gtv-4gtv017/index.m3u8?proxy=true
-CINEMA-肆Tv,http://180.176.212.253:5051/4gtv-live069/index.m3u8?proxy=true
-TRA'体育肆Tv,http://180.176.212.253:5051/4gtv-4gtv077/index.m3u8?proxy=true
-车迷体育肆Tv,http://180.176.212.253:5051/4gtv-live201/index.m3u8?proxy=true
-SMARt台肆Tv,http://180.176.212.253:5051/litv-longturn19/index.m3u8?proxy=true
-罪案侦查肆Tv,http://180.176.212.253:5051/4gtv-live027/index.m3u8?proxy=true
-霹雳布袋肆Tv,http://180.176.212.253:5051/4gtv-live145/index.m3u8?proxy=true
-金光布袋肆Tv,http://180.176.212.253:5051/4gtv-live144/index.m3u8?proxy=true
-nick动漫肆Tv,http://180.176.212.253:5051/4gtv-live032/index.m3u8?proxy=true
-nick少儿肆Tv,http://180.176.212.253:5051/4gtv-live105/index.m3u8?proxy=true
-MO-亲子肆Tv,http://180.176.212.253:5051/4gtv-live107/index.m3u8?proxy=true
-DreamW肆Tv,http://180.176.212.253:5051/4gtv-live017/index.m3u8?proxy=true
-LUXE-TV肆Tv,http://180.176.212.253:5051/4gtv-live121/index.m3u8?proxy=true
-rock娱乐肆Tv,http://180.176.212.253:5051/4gtv-live080/index.m3u8?proxy=true
-rock电影肆Tv,http://180.176.212.253:5051/4gtv-live138/index.m3u8?proxy=true
-HItS电影肆Tv,http://180.176.212.253:5051/4gtv-live620/index.m3u8?proxy=true
-magellan肆Tv,http://180.176.212.253:5051/4gtv-live123/index.m3u8?proxy=true
-INULTRa肆Tv,http://180.176.212.253:5051/4gtv-live096/index.m3u8?proxy=true
-LifeTime肆Tv,http://180.176.212.253:5051/4gtv-live029/index.m3u8?proxy=true
-电影原声肆Tv,http://180.176.212.253:5051/4gtv-live031/index.m3u8?proxy=true
-MTVLive肆Tv,http://180.176.212.253:5051/4gtv-live025/index.m3u8?proxy=true
-PETClUB肆Tv,http://180.176.212.253:5051/4gtv-live110/index.m3u8?proxy=true
-FUN娱乐肆Tv,http://180.176.212.253:5051/4gtv-live011/index.m3u8?proxy=true
-韩国娱乐肆Tv,http://180.176.212.253:5051/4gtv-4gtv016/index.m3u8?proxy=true
-GLOBAL肆Tv,http://180.176.212.253:5051/4gtv-live112/index.m3u8?proxy=true
-TV5mon肆Tv,http://180.176.212.253:5051/4gtv-live122/index.m3u8?proxy=true
-TRACEU肆Tv,http://180.176.212.253:5051/4gtv-4gtv082/index.m3u8?proxy=true
-BLoomb肆Tv,http://180.176.212.253:5051/4gtv-live059/index.m3u8?proxy=true
-FRANCE肆Tv,http://180.176.212.253:5051/4gtv-live146/index.m3u8?proxy=true
-MEZZOl肆Tv,http://180.176.212.253:5051/4gtv-4gtv083/index.m3u8?proxy=true
-GINXTV肆Tv,http://180.176.212.253:5051/4gtv-4gtv053/index.m3u8?proxy=true
-DW-之声肆Tv,http://180.176.212.253:5051/4gtv-live071/index.m3u8?proxy=true
-历史频道肆Tv,http://180.176.212.253:5051/4gtv-live026/index.m3u8?proxy=true
-国家地理肆Tv,http://180.176.212.253:5051/4gtv-live208/index.m3u8?proxy=true
-东森购壹肆Tv,http://180.176.212.253:5051/4gtv-live047/index.m3u8?proxy=true
-东森购壹肆Tv,http://180.176.212.253:5051/4gtv-4gtv102/index.m3u8?proxy=true
-东森购贰肆Tv,http://180.176.212.253:5051/4gtv-live046/index.m3u8?proxy=true
-东森购贰肆Tv,http://180.176.212.253:5051/4gtv-4gtv103/index.m3u8?proxy=true
-东森购叁肆Tv,http://180.176.212.253:5051/4gtv-live048/index.m3u8?proxy=true
-东森购五肆Tv,http://180.176.212.253:5051/4gtv-live049/index.m3u8?proxy=true
 央卫频特,#genre#
 CCTV-01频特,https://smt.858.qzz.io/Smart.php?id=cctv1
 CCTV-02频特,https://smt.858.qzz.io/Smart.php?id=cctv2
