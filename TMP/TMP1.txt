@@ -1,6 +1,6 @@
 总台,#genre#
-CBN重温经典, http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-CCTV, http://223.105.252.59/PLTV/4/224/3221228228/index.m3u8
+CBN重温经典, http://101.206.202.6:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
+CCTV, http://101.206.202.6:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8
 CCTV, http://223.105.252.40/PLTV/3/224/3221228165/index.m3u8
 CCTV1综合, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV2财经, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
@@ -39,8 +39,8 @@ CETV2教育教学频道, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3
 CETV4职业教育频道, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/index.m3u8
 CGTN, https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN纪录, https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-书画频道, http://211.103.180.178:8233/live_hls/hdmi.m3u8
-中国天气, http://zcj.work.gd/ZhongGuoTianQi.m3u8
+书画频道, http://101.206.202.6:2380/hw1live.rxip.sc96655.com.huan.tv/live/sh_4000.m3u8
+中国天气, http://101.206.202.6:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8
 新华新闻, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226297/index.m3u8
 新华全球连线, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226298/index.m3u8
 
@@ -82,7 +82,7 @@ CGTN纪录, https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 延边卫视, https://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8
 云南卫视, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225664/index.m3u8
 浙江卫视, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
-香港卫视, http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视, http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 付费,#genre#
 4KUHD, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
@@ -101,57 +101,6 @@ CHC家庭影院, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/32
 睛彩青少, http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226261/index.m3u8
 追番必看, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226269/index.m3u8
 
-春晚,#genre#
-1983, http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
-1984, https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
-1985, http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
-1986, https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-1987, https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-1988, https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-1989, https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-1990, https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8
-1991, https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
-1992, https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-1993, https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-1994, https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-1995, https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-1996, https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
-1997, https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-1998, https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-1999, https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-2000, https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-2001, https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-2002, https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-2003, https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
-2004, https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-2005, https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-2006, https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-2007, https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-2008, https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-2009, https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
-2010, https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
-2011, https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
-2012, https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-2013, https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
-2014, https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-2015, https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-2016, https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
-2017, https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
-2018, https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
-2019, https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
-2020, https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-2021, https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
-2022, https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
-2023, https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-
-外语,#genre#
-Arirang, http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-CNN, https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-KBS, https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-Russia, https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-TBS, http://143.244.60.30/TBS/index.m3u8
-VOA, https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
-
 江西,#genre#
 江西新闻, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
 江西都市, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
@@ -161,36 +110,11 @@ VOA, https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 江西少儿, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
 江西影视旅游, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
 陶瓷, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226304/2/index.m3u8
-移动电视, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226285/index.m3u8?fmt=ts2hls
 江西IPTV1, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226376/2/index.m3u8
 江西IPTV2, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226381/2/index.m3u8
 南昌新闻综合, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226382/2/index.m3u8
 南昌都市, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226385/2/index.m3u8
 南昌资讯, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226374/2/index.m3u8
-
-安徽,#genre#
-安徽公共, http://43.129.81.169/live.ahsx.ahtv.cn/live/ggtv.m3u8
-安徽国际, http://43.129.81.169/live.ahsx.ahtv.cn/live/gjtv.m3u8
-安徽经济生活, http://43.129.81.169/live.ahsx.ahtv.cn/live/jjshtv.m3u8
-安徽农业科教, http://43.129.81.169/live.ahsx.ahtv.cn/live/nykjtv.m3u8
-安徽影视, http://43.129.81.169/live.ahsx.ahtv.cn/live/ystv.m3u8
-安徽综艺体育, http://43.129.81.169/live.ahsx.ahtv.cn/live/zytytv.m3u8
-安庆综合, http://43.129.81.169/nrtapush.ahsx.ahtv.cn/live/aqpd.m3u8
-安庆.潜山综合, https://qsxw.gov.cn/rtmp_export/video22.m3u8
-蚌埠综合, http://43.129.81.169/live.ahsx.ahtv.cn/live/bbtv.m3u8
-滁州新闻综合, http://live.cztv.cc:85/live/xwpd.m3u8
-滁州公共频道, http://live.cztv.cc:85/live/ggpd.m3u8
-滁州科教频道, http://live.cztv.cc:85/live/sjpd.m3u8
-毫州, http://112.30.194.221:20080/live/83c292f300f44da6a403dc86878311b1/hls.m3u8
-毫州农村频道, http://zbbf2.ahbztv.com/live/418.m3u8
-淮北新闻综合, http://43.129.81.169/live.ahsx.ahtv.cn/live/hbds.m3u8
-淮南新闻综合, http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
-淮南民生, http://112.30.194.221:20080/live/6e43da3335a640b3a73c948fccf935c5/hls.m3u8
-黄山新闻综合, http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
-黄山文旅频道, http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
-六安综合, http://43.129.81.169/live.ahsx.ahtv.cn/live/latv.m3u8
-芜湖新闻综合, http://43.129.81.169/live.ahsx.ahtv.cn/live/whpd.m3u8
-宣城综合, http://43.129.81.169/live.ahsx.ahtv.cn/live/xctv.m3u8
 
 北京,#genre#
 纪实科教, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
@@ -202,14 +126,10 @@ KAKU少儿, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/ind
 潼南综合, http://183.230.184.51:65500/tntv1.m3u8
 
 广东,#genre#
-广东民生, http://183.11.239.36:808/hls/18/index.m3u8
 嘉佳卡通, http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226193/index.m3u8
 河源综合, http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共, http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-阳江1, https://live.yjtvw.com:8081/live/yjtv1.m3u8
-阳江2, https://live.yjtvw.com:8081/live/yjtv2.m3u8
-云浮综合, http://livestream.oeeee.com/slive/17806.m3u8
-云浮文旅, http://livestream.oeeee.com/slive/17807.m3u8
+云浮文旅, https://livestream.oeeee.com/slive/28284.m3u8
 
 广西,#genre#
 南宁新闻综合, https://hls.nntv.cn/nnlive/XWZH_24.m3u8
@@ -217,16 +137,10 @@ KAKU少儿, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/ind
 南宁文旅生活, https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁影视娱乐, https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁慢直播, https://hls.nntv.cn/nnlive/LYL1_24.m3u8
-贺州综合, http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 
 贵州,#genre#
 黔南1台, http://tvfile.qntv.net/nmip-media/channellive/channel108689/playlist.m3u8
 黔南2台, http://tvfile.qntv.net/nmip-media/channellive/channel109066/playlist.m3u8
-
-海南,#genre#
-海口1台, http://183.255.46.4:16080/live/tv01qnuu8lxfc0rj.m3u8
-海口2台, http://183.255.46.4:16080/live/tv02bueim7p8prw4.m3u8
-海口3台, http://183.255.46.4:16080/live/tv03fu70esbaw9si.m3u8
 
 河北,#genre#
 张家口1台, http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
