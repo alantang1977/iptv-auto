@@ -5,8 +5,8 @@ CCTV1综合, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/in
 CCTV2财经, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
 CCTV3综艺, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
 CCTV4中文国际, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
-CCTV4美洲, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226366/2/index.m3u8
-CCTV4欧洲, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226361/2/index.m3u8
+CCTV4美洲, http://39.135.140.104:6610/PLTV/88888888/224/3221226366/2/index.m3u8
+CCTV4欧洲, http://39.135.140.104:6610/PLTV/88888888/224/3221226361/2/index.m3u8
 CCTV5体育, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
 CCTV5+体育赛事, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8
 CCTV6电影, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
@@ -35,12 +35,7 @@ CCTV央视台球, http://39.135.140.104:6610/PLTV/88888888/224/3221226339/2/inde
 CCTV央视文化精品, http://39.135.140.104:6610/PLTV/88888888/224/3221226296/2/index.m3u8
 CETV1综合教育, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225661/index.m3u8
 CETV2教育教学, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226242/index.m3u8
-CETV3北京地面, http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_CETV-3/G_CETV-3.m3u8
 CETV4职业教育, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/index.m3u8
-CETV早期教育, http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_CETV-ZQJY-CQ/G_CETV-ZQJY-CQ.m3u8
-中央新影.发现之旅, http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8
-中央新影.老故事, http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8
-中央新影.中学生, http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHONGXUESHENG/G_ZHONGXUESHENG.m3u8
 CBN重温经典, http://120.76.248.139/live/bfgd/4200000635.m3u8
 CGTN, https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN纪录, https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
@@ -92,10 +87,9 @@ GTTV环球旅游, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212263
 
 付费,#genre#
 4KUHD, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-CHC动作电影, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226308/2/index.m3u8
-CHC影迷电影, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226305/2/index.m3u8
-CHC家庭影院, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226319/2/index.m3u8
-畅享影院, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226300/index.m3u8
+CHC动作电影, http://39.135.140.104:6610/PLTV/88888888/224/3221226308/2/index.m3u8
+CHC影迷电影, http://39.135.140.104:6610/PLTV/88888888/224/3221226305/2/index.m3u8
+CHC家庭影院, http://39.135.140.104:6610/PLTV/88888888/224/3221226319/2/index.m3u8
 哒啵电竞, http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226265/index.m3u8
 哒啵赛事, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
 点掌财经, https://volcanopull.aniu.tv/live/aniu2/index.m3u8
@@ -132,7 +126,7 @@ Windows, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226397/index.
 江西公共农业, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls
 江西教育, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
 江西经济生活, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
-江西影视旅游, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
+移动电视, http://39.135.140.104:6610/PLTV/88888888/224/3221226427/2/index.m3u8
 陶瓷, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226304/01.m3u8?fmt=ts2hls
 南昌新闻综合, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226382/01.m3u8?fmt=ts2hls
 南昌都市, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226385/01.m3u8?fmt=ts2hls
@@ -145,8 +139,9 @@ Windows, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226397/index.
 九江新闻综合频道, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226417/01.m3u8?fmt=ts2hls
 
 北京,#genre#
-纪实科教, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
 4K超高清, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226394/index.m3u8
+纪实科教, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
+生态环境, http://39.135.140.104:6610/PLTV/88888888/224/3221226325/2/index.m3u8
 
 重庆,#genre#
 汽摩, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225506/index.m3u8?fmt=ts2hls
