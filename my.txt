@@ -1,861 +1,5 @@
 注意事项,#genre#
-20260110032412仅供测试自用如有侵权请通知,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
-#EXTINF:-1,斯玛特
-#genre#
-#EXTINF:-1,香港|翡翠台
-https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
-#EXTINF:-1,香港|翡翠台 backup
-https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue
-#EXTINF:-1,香港|iNews 新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=inews_twn
-#EXTINF:-1,香港|J 2
-https://smart.pendy.dpdns.org/Smart.php?id=j2_twn
-#EXTINF:-1,香港|珍珠台
-https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
-#EXTINF:-1,香港|凤凰香港
-https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
-#EXTINF:-1,香港|HOY资讯台
-https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
-#EXTINF:-1,香港|RHK 31
-https://smart.pendy.dpdns.org/Smart.php?id=rhk31_twn
-#EXTINF:-1,香港|VIUTV1
-https://smart.pendy.dpdns.org/Smart.php?id=viu1_twn
-#EXTINF:-1,香港|RHK 32
-https://smart.pendy.dpdns.org/Smart.php?id=rhk32_twn
-#EXTINF:-1,香港|凤凰卫视
-https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
-#EXTINF:-1,香港|凤凰资讯
-https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
-#EXTINF:-1,香港|Viu6
-https://smart.pendy.dpdns.org/Smart.php?id=viusix_twn
-#EXTINF:-1,中国|CCTV-1 综合 HD
-https://smart.pendy.dpdns.org/Smart.php?id=cctv1
-#EXTINF:-1,中国|CCTV-2 财经
-https://smart.pendy.dpdns.org/Smart.php?id=cctv2
-#EXTINF:-1,中国|CCTV-3 综艺 HD
-https://smart.pendy.dpdns.org/Smart.php?id=cctv3
-#EXTINF:-1,中国|CCTV-4 中文国际
-https://smart.pendy.dpdns.org/Smart.php?id=cctv4
-#EXTINF:-1,中国|CCTV4 新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
-#EXTINF:-1,中国|CCTV-7 军事农业
-https://smart.pendy.dpdns.org/Smart.php?id=cctv7
-#EXTINF:-1,中国|CCTV-8 电视剧 HD
-https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
-#EXTINF:-1,中国|CCTV-9 记录 HD
-https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
-#EXTINF:-1,中国|CCTV-10 科教 HD
-https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
-#EXTINF:-1,中国|CCTV-11 戏曲
-https://smart.pendy.dpdns.org/Smart.php?id=cctv11
-#EXTINF:-1,中国|CCTV-12 社会与法
-https://smart.pendy.dpdns.org/Smart.php?id=cctv12
-#EXTINF:-1,中国|CCTV-13 新闻频道
-https://smart.pendy.dpdns.org/Smart.php?id=cctv13
-#EXTINF:-1,中国|CCTV-14 少儿
-https://smart.pendy.dpdns.org/Smart.php?id=cctv14
-#EXTINF:-1,中国|CCTV-6
-https://smart.pendy.dpdns.org/Smart.php?id=cctv6
-#EXTINF:-1,中国|CCTV-15 音乐
-https://smart.pendy.dpdns.org/Smart.php?id=cctv15
-#EXTINF:-1,中国|湖南卫视
-https://smart.pendy.dpdns.org/Smart.php?id=hunan_twn
-#EXTINF:-1,中国|浙江卫视
-https://smart.pendy.dpdns.org/Smart.php?id=zhejiang_twn
-#EXTINF:-1,中国|江苏卫视
-https://smart.pendy.dpdns.org/Smart.php?id=jiangsu_twn
-#EXTINF:-1,中国|深圳卫视
-https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
-#EXTINF:-1,中国|福建东南卫视
-https://smart.pendy.dpdns.org/Smart.php?id=fujian
-#EXTINF:-1,中国|广东南方卫视
-https://smart.pendy.dpdns.org/Smart.php?id=nanfang_twn
-#EXTINF:-1,中国|广东卫视
-https://smart.pendy.dpdns.org/Smart.php?id=guangdongweishi_twn
-#EXTINF:-1,中国|北京卫视
-https://smart.pendy.dpdns.org/Smart.php?id=beijing
-#EXTINF:-1,中国|珠江台
-https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
-#EXTINF:-1,中国|广西卫视
-https://smart.pendy.dpdns.org/Smart.php?id=guangxi
-#EXTINF:-1,中国|湖北卫视
-https://smart.pendy.dpdns.org/Smart.php?id=hubei
-#EXTINF:-1,中国|四川卫视
-https://smart.pendy.dpdns.org/Smart.php?id=sichuan_twn
-#EXTINF:-1,中国|东方卫视
-https://smart.pendy.dpdns.org/Smart.php?id=dongfangweishi_twn
-#EXTINF:-1,中国|CGTN
-https://smart.pendy.dpdns.org/Smart.php?id=CGTN
-#EXTINF:-1,中国|CCTV-5 体育频道
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5
-#EXTINF:-1,中国|CCTV-5+ 体育赛事 HD
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
-#EXTINF:-1,体育频道|Astro Premier League 1
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
-#EXTINF:-1,体育频道|Astro EPL 1 backup
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp1x
-#EXTINF:-1,体育频道|Astro Premier League 2
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
-#EXTINF:-1,体育频道|Astro Grandstand
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
-#EXTINF:-1,体育频道|Astro Football
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
-#EXTINF:-1,体育频道|Astro Sports Plus
-https://smart.pendy.dpdns.org/Smart.php?id=go_sportsplus
-#EXTINF:-1,体育频道|Astro Badminton 1
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
-#EXTINF:-1,体育频道|Astro Badminton 2
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
-#EXTINF:-1,体育频道|Astro W-Sports
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
-#EXTINF:-1,体育频道|Supersports 1
-https://smart.pendy.dpdns.org/Smart.php?id=Assp1
-#EXTINF:-1,体育频道|Supersports 2
-https://smart.pendy.dpdns.org/Smart.php?id=Assp2
-#EXTINF:-1,体育频道|Supersports 3
-https://smart.pendy.dpdns.org/Smart.php?id=Assp3
-#EXTINF:-1,体育频道|Supersports 4
-https://smart.pendy.dpdns.org/Smart.php?id=Assp4
-#EXTINF:-1,体育频道|WWE
-https://smart.pendy.dpdns.org/Smart.php?id=Wwe
-#EXTINF:-1,体育频道|Fight Sports
-https://smart.pendy.dpdns.org/Smart.php?id=Fs
-#EXTINF:-1,体育频道|NBA TV
-https://smart.pendy.dpdns.org/Smart.php?id=Nba
-#EXTINF:-1,体育频道|Astro Cricket
-https://smart.pendy.dpdns.org/Smart.php?id=Acricket
-#EXTINF:-1,体育频道|Astro Golf
-https://smart.pendy.dpdns.org/Smart.php?id=Agolf
-#EXTINF:-1,体育频道|Tnt Sports 1
-https://smart.pendy.dpdns.org/Smart.php?id=6fac0aaead
-#EXTINF:-1,体育频道|TNT Sports 2
-https://smart.pendy.dpdns.org/Smart.php?id=d9a76a79cc
-#EXTINF:-1,体育频道|TNT Sports 3
-https://smart.pendy.dpdns.org/Smart.php?id=5fea4d73db
-#EXTINF:-1,体育频道|TNT Sports 4
-https://smart.pendy.dpdns.org/Smart.php?id=tntsport4
-#EXTINF:-1,体育频道|Sony Ten 1
-https://smart.pendy.dpdns.org/Smart.php?id=ten1_raj
-#EXTINF:-1,体育频道|Sony Ten 2
-https://smart.pendy.dpdns.org/Smart.php?id=ten2_raj
-#EXTINF:-1,体育频道|Sony Ten 3
-https://smart.pendy.dpdns.org/Smart.php?id=ten3_raj
-#EXTINF:-1,体育频道|SPOTV 1 HD
-https://smart.pendy.dpdns.org/Smart.php?id=go_spotv
-#EXTINF:-1,体育频道|SPO TV 2
-https://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
-#EXTINF:-1,体育频道|Skysports F1
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongf1
-#EXTINF:-1,体育频道|Skysports Cricket
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongcricket
-#EXTINF:-1,体育频道|Skysports EPL
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongepl
-#EXTINF:-1,体育频道|Skysports Main Event
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongmain
-#EXTINF:-1,体育频道|Skysports News
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongnews
-#EXTINF:-1,体育频道|Skysports Mix
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongmix
-#EXTINF:-1,体育频道|爱尔达体育2台
-https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
-#EXTINF:-1,体育频道|爱尔达体育3台
-https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
-#EXTINF:-1,体育频道|Rugby Pass TV
-https://smart.pendy.dpdns.org/Smart.php?id=Rugbypasstv
-#EXTINF:-1,体育频道|RTM Sports HD
-https://smart.pendy.dpdns.org/Smart.php?id=Rtmsport
-#EXTINF:-1,体育频道|Arena
-https://smart.pendy.dpdns.org/Smart.php?id=Arena
-#EXTINF:-1,体育频道|Arena 2
-https://smart.pendy.dpdns.org/Smart.php?id=Arena2
-#EXTINF:-1,体育频道|BolaArena 1
-https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
-#EXTINF:-1,体育频道|BolaArena 2
-https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
-#EXTINF:-1,体育频道|Astro Beinsports 1
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
-#EXTINF:-1,体育频道|Astro Beinsports 2
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
-#EXTINF:-1,体育频道|Astro Beinsports 3
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
-#EXTINF:-1,台湾|TVBS News 新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
-#EXTINF:-1,台湾|TVBS 欢乐台 （备份）
-https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
-#EXTINF:-1,台湾|TVBS HD
-https://smart.pendy.dpdns.org/Smart.php?id=tvbs
-#EXTINF:-1,台湾|中天新闻 HD
-https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-#EXTINF:-1,台湾|中天娱乐 CTI Entertaiment
-https://smart.pendy.dpdns.org/Smart.php?id=ctient
-#EXTINF:-1,台湾|中天综合 CTI Metro
-https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
-#EXTINF:-1,台湾|中天亚洲台
-https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
-#EXTINF:-1,台湾|台视 TTV HD
-https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
-#EXTINF:-1,台湾|台视新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
-#EXTINF:-1,台湾|台视综合台
-https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
-#EXTINF:-1,台湾|中视 HD
-https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
-#EXTINF:-1,台湾|中视新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
-#EXTINF:-1,台湾|民视 HD
-https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-#EXTINF:-1,台湾|民视新闻台 FTV News
-https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
-#EXTINF:-1,台湾|民视台湾台
-https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
-#EXTINF:-1,台湾|华视 CTS HD
-https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
-#EXTINF:-1,台湾|公视 CTV
-https://smart.pendy.dpdns.org/Smart.php?id=ctv18_twn
-#EXTINF:-1,台湾|八大第一 GTV First
-https://smart.pendy.dpdns.org/Smart.php?id=badafirst
-#EXTINF:-1,台湾|八大综合 GTV Metro
-https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
-#EXTINF:-1,台湾|八大戏剧 GTV Drama
-https://smart.pendy.dpdns.org/Smart.php?id=badadrama
-#EXTINF:-1,台湾|八大娱乐 GTV Entertainment
-https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
-#EXTINF:-1,台湾|HBO_HD
-https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
-#EXTINF:-1,台湾|HBO_HITS
-https://smart.pendy.dpdns.org/Smart.php?id=hbohit_twn
-#EXTINF:-1,台湾|Hollywood Movies
-https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
-#EXTINF:-1,台湾|三立台湾 Sanli Taiwan
-https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
-#EXTINF:-1,台湾|三立戏剧台
-https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
-#EXTINF:-1,台湾|三立综合 Sanli Metro
-https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
-#EXTINF:-1,台湾|三立都会台
-https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
-#EXTINF:-1,台湾|东森新闻 ETTV News
-https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
-#EXTINF:-1,台湾|CINEMAX
-https://smart.pendy.dpdns.org/Smart.php?id=cinemax_twn
-#EXTINF:-1,台湾|东森综合 ETTV Metro
-https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
-#EXTINF:-1,台湾|东森戏剧 ETTV Drama
-https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
-#EXTINF:-1,台湾|东森超视
-https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
-#EXTINF:-1,台湾|东森财经新闻 ETTV Business
-https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
-#EXTINF:-1,台湾|寰宇财经
-https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
-#EXTINF:-1,台湾|寰宇新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
-#EXTINF:-1,台湾|公视2
-https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
-#EXTINF:-1,台湾|大爱1台
-https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
-#EXTINF:-1,台湾|非凡新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
-#EXTINF:-1,台湾|龙华戏剧 Lunghua Drama
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
-#EXTINF:-1,台湾|龙华经典台
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
-#EXTINF:-1,台湾|龙华偶像
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
-#EXTINF:-1,台湾|AXN Taiwan
-https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
-#EXTINF:-1,台湾|靖天国际台
-https://smart.pendy.dpdns.org/Smart.php?id=jingtianintl_twn
-#EXTINF:-1,台湾|年代新闻
-https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
-#EXTINF:-1,台湾|纬来日本台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
-#EXTINF:-1,台湾|纬来电影台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-#EXTINF:-1,台湾|纬来体育台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
-#EXTINF:-1,台湾|纬来综合台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
-#EXTINF:-1,台湾|纬来育乐
-https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
-#EXTINF:-1,台湾|纬来精彩
-https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
-#EXTINF:-1,台湾|好消息 2
-https://smart.pendy.dpdns.org/Smart.php?id=good2_twn
-#EXTINF:-1,台湾|大爱2台
-https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
-#EXTINF:-1,台湾|亚洲美食
-https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
-#EXTINF:-1,台湾|美食星球
-https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
-#EXTINF:-1,台湾|亚洲旅游 TLC Asia
-https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
-#EXTINF:-1,台湾|东森电影 ETTV Movie
-https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
-#EXTINF:-1,台湾|阿里郎 Arirang
-https://smart.pendy.dpdns.org/Smart.php?id=arirang_twn
-#EXTINF:-1,台湾|博斯运动 1
-https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
-#EXTINF:-1,台湾|博斯运动 2
-https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
-#EXTINF:-1,台湾|博斯高球2 HD
-https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
-#EXTINF:-1,台湾|博斯网球 HD
-https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
-#EXTINF:-1,台湾|东森洋片 ETTV Western
-https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
-#EXTINF:-1,台湾|龙华洋片 Lunghua Western
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
-#EXTINF:-1,台湾|博斯无限
-https://smart.pendy.dpdns.org/Smart.php?id=bosiunlimited_twn
-#EXTINF:-1,台湾|MTV Live
-https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
-#EXTINF:-1,台湾|龙详时代
-https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
-#EXTINF:-1,台湾|EYETV 旅游
-https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
-#EXTINF:-1,台湾|靖天卡通台
-https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
-#EXTINF:-1,台湾|EYETV 戏剧
-https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
-#EXTINF:-1,台湾|卫视中文台 Star Movies Chinese
-https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
-#EXTINF:-1,台湾|东森幼幼 Yoyo TV
-https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
-#EXTINF:-1,台湾|卫视电影台
-https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
-#EXTINF:-1,台湾|美亚电影
-https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
-#EXTINF:-1,台湾|爱尔达影剧台
-https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
-#EXTINF:-1,台湾|爱尔达综合台
-https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
-#EXTINF:-1,台湾|星卫电影
-https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
-#EXTINF:-1,台湾|AFC 亚洲旅游台
-https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
-#EXTINF:-1,电影频道|Cinemax
-https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
-#EXTINF:-1,电影频道|Animax
-https://smart.pendy.dpdns.org/Smart.php?id=Animax
-#EXTINF:-1,电影频道|Movies Now HD
-https://smart.pendy.dpdns.org/Smart.php?id=moviesnow_raj
-#EXTINF:-1,电影频道|Star Movies HD
-https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
-#EXTINF:-1,电影频道|HBO Family
-https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
-#EXTINF:-1,电影频道|Hits
-https://smart.pendy.dpdns.org/Smart.php?id=Hits
-#EXTINF:-1,电影频道|Warner TV
-https://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
-#EXTINF:-1,电影频道|HBO HD
-https://smart.pendy.dpdns.org/Smart.php?id=Hbo
-#EXTINF:-1,电影频道|HBO Signature
-https://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
-#EXTINF:-1,电影频道|HBO Hits
-https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
-#EXTINF:-1,电影频道|SCM
-https://smart.pendy.dpdns.org/Smart.php?id=Weishimovie
-#EXTINF:-1,电影频道|Dreamworks
-https://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
-#EXTINF:-1,电影频道|Thrill
-https://smart.pendy.dpdns.org/Smart.php?id=Thrill
-#EXTINF:-1,电影频道|Hits Movie
-https://smart.pendy.dpdns.org/Smart.php?id=Hitsmovie
-#EXTINF:-1,电影频道|One
-https://smart.pendy.dpdns.org/Smart.php?id=One
-#EXTINF:-1,电影频道|tvN Movie
-https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie
-#EXTINF:-1,电影频道|Celestial Classic
-https://smart.pendy.dpdns.org/Smart.php?id=Celestial2
-#EXTINF:-1,电影频道|Celestial Movies HD
-https://smart.pendy.dpdns.org/Smart.php?id=Celestialindo
-#EXTINF:-1,电影频道|Axn HD
-https://smart.pendy.dpdns.org/Smart.php?id=Axn
-#EXTINF:-1,电影频道|Paramount Network
-https://smart.pendy.dpdns.org/Smart.php?id=Paramountnetwork
-#EXTINF:-1,电影频道|Astrol Kplus
-https://smart.pendy.dpdns.org/Smart.php?id=Kplus
-#EXTINF:-1,电影频道|Rock Actions
-https://smart.pendy.dpdns.org/Smart.php?id=Rockaction
-#EXTINF:-1,电影频道|Rock Entertainment
-https://smart.pendy.dpdns.org/Smart.php?id=Rockentertain
-#EXTINF:-1,纪录频道|Natgeo_HD
-https://smart.pendy.dpdns.org/Smart.php?id=natgeohd_twn
-#EXTINF:-1,纪录频道|NatGeo_Wild HD
-https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
-#EXTINF:-1,纪录频道|Animal_Planet
-https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
-#EXTINF:-1,纪录频道|Discovery Asia
-https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
-#EXTINF:-1,纪录频道|CI
-https://smart.pendy.dpdns.org/Smart.php?id=ci_twn
-#EXTINF:-1,纪录频道|Discovery HD
-https://smart.pendy.dpdns.org/Smart.php?id=discoveryhd_twn
-#EXTINF:-1,纪录频道|NatGeo HD
-https://smart.pendy.dpdns.org/Smart.php?id=Natgeo
-#EXTINF:-1,纪录频道|Fashion TV
-https://smart.pendy.dpdns.org/Smart.php?id=fashiontv_twn
-#EXTINF:-1,纪录频道|History
-https://smart.pendy.dpdns.org/Smart.php?id=History
-#EXTINF:-1,纪录频道|BBC Earth HD
-https://smart.pendy.dpdns.org/Smart.php?id=bbcearth_twn
-#EXTINF:-1,纪录频道|BBC Earth Lifestyle
-https://smart.pendy.dpdns.org/Smart.php?id=bbclifestyle_twn
-#EXTINF:-1,纪录频道|NatGeo Wild HD
-https://smart.pendy.dpdns.org/Smart.php?id=Natgeowild
-#EXTINF:-1,纪录频道|Animal Planet (Eng)
-https://smart.pendy.dpdns.org/Smart.php?id=AnimalPlanet
-#EXTINF:-1,纪录频道|TLC
-https://smart.pendy.dpdns.org/Smart.php?id=Tlc
-#EXTINF:-1,纪录频道|Foodnetwork Hd
-https://smart.pendy.dpdns.org/Smart.php?id=Foodnetwork
-#EXTINF:-1,纪录频道|HGTV
-https://smart.pendy.dpdns.org/Smart.php?id=HGTV
-#EXTINF:-1,新闻频道|Skynews
-https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
-#EXTINF:-1,新闻频道|ABC News
-https://smart.pendy.dpdns.org/Smart.php?id=abcnews_glo
-#EXTINF:-1,新闻频道|CBS HD
-https://smart.pendy.dpdns.org/Smart.php?id=cbshd_glo
-#EXTINF:-1,新闻频道|CBSN HD
-https://smart.pendy.dpdns.org/Smart.php?id=cbsn_glo
-#EXTINF:-1,新闻频道|France 24
-https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
-#EXTINF:-1,新闻频道|DW (Deutsch)
-https://smart.pendy.dpdns.org/Smart.php?id=dw_twn
-#EXTINF:-1,新闻频道|NHK World
-https://smart.pendy.dpdns.org/Smart.php?id=nhkworld_japan
-#EXTINF:-1,新闻频道|Fox News
-https://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn
-#EXTINF:-1,新闻频道|CNN International
-https://smart.pendy.dpdns.org/Smart.php?id=Cnn
-#EXTINF:-1,新闻频道|CNN backup
-https://smart.pendy.dpdns.org/Smart.php?id=cnn_twn
-#EXTINF:-1,新闻频道|CNBC
-https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
-#EXTINF:-1,新闻频道|CNA
-https://smart.pendy.dpdns.org/Smart.php?id=cna
-#EXTINF:-1,新闻频道|BBC World News
-https://smart.pendy.dpdns.org/Smart.php?id=bbcnews_twn
-https://smart.pendy.dpdns.org/Smart.php?id=Bbcnews
-#EXTINF:-1,新闻频道|Bloomberg News
-https://smart.pendy.dpdns.org/Smart.php?id=bloomberg_twn
-#EXTINF:-1,新闻频道|Al-Jazeera
-https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
-#EXTINF:-1,儿童频道|Baby TV Eng
-https://smart.pendy.dpdns.org/Smart.php?id=Babytv
-#EXTINF:-1,儿童频道|CBeebies
-https://smart.pendy.dpdns.org/Smart.php?id=Cbeebies
-#EXTINF:-1,儿童频道|Kids TV
-https://smart.pendy.dpdns.org/Smart.php?id=KidsTV
-#EXTINF:-1,儿童频道|Momo TV
-https://smart.pendy.dpdns.org/Smart.php?id=momo1_twn
-#EXTINF:-1,儿童频道|Baby TV
-https://smart.pendy.dpdns.org/Smart.php?id=babytv_twn
-#EXTINF:-1,儿童频道|MiaoMi
-https://smart.pendy.dpdns.org/Smart.php?id=MiaoMi
-#EXTINF:-1,儿童频道|Cartoon Network
-https://smart.pendy.dpdns.org/Smart.php?id=Cn
-#EXTINF:-1,儿童频道|Nickelodeon
-https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
-#EXTINF:-1,儿童频道|Nick Jr
-https://smart.pendy.dpdns.org/Smart.php?id=Nickjr
-#EXTINF:-1,新加坡|Channel 5
-https://smart.pendy.dpdns.org/Smart.php?id=Channel5HD
-#EXTINF:-1,新加坡|Channel 8
-https://smart.pendy.dpdns.org/Smart.php?id=Channel8HD
-#EXTINF:-1,新加坡|Suria
-https://smart.pendy.dpdns.org/Smart.php?id=Suria
-#EXTINF:-1,新加坡|Channel U
-https://smart.pendy.dpdns.org/Smart.php?id=ChannelU
-#EXTINF:-1,新加坡|Vasantham
-https://smart.pendy.dpdns.org/Smart.php?id=Vasantham
-#EXTINF:-1,新加坡|CNA backup
-https://smart.pendy.dpdns.org/Smart.php?id=cna_twn
-#EXTINF:-1,新加坡|MeWatch Ch 5
-https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_ch5
-#EXTINF:-1,新加坡|MeWatch Ch 8
-https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_ch8
-#EXTINF:-1,新加坡|MeWatch Ch U
-https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_chU
-#EXTINF:-1,新加坡|MeWatch Suria
-https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_Suria
-#EXTINF:-1,新加坡|MeWatch Vasantham
-https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_Vasantham
-#EXTINF:-1,新加坡|MeWatch CNA
-https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_cna
-#EXTINF:-1,马来西亚|TV1
-https://smart.pendy.dpdns.org/Smart.php?id=TV1
-#EXTINF:-1,马来西亚|TV1 backup
-https://smart.pendy.dpdns.org/Smart.php?id=TV1_backup
-#EXTINF:-1,马来西亚|TV2
-https://smart.pendy.dpdns.org/Smart.php?id=TV2
-#EXTINF:-1,马来西亚|TV3
-https://smart.pendy.dpdns.org/Smart.php?id=TV3
-#EXTINF:-1,马来西亚|TV3 SD
-https://smart.pendy.dpdns.org/Smart.php?id=TV3_mega
-#EXTINF:-1,马来西亚|NTV7
-https://smart.pendy.dpdns.org/Smart.php?id=NTV7
-#EXTINF:-1,马来西亚|TV8
-https://smart.pendy.dpdns.org/Smart.php?id=TV8
-#EXTINF:-1,马来西亚|TV9
-https://smart.pendy.dpdns.org/Smart.php?id=TV9
-#EXTINF:-1,马来西亚|Ria
-https://smart.pendy.dpdns.org/Smart.php?id=Ria-0
-#EXTINF:-1,马来西亚|Ria-3
-https://smart.pendy.dpdns.org/Smart.php?id=Ria_backup
-#EXTINF:-1,马来西亚|Al-Hijrah
-https://smart.pendy.dpdns.org/Smart.php?id=Alhijrah
-#EXTINF:-1,马来西亚|Al-Hijrah backup
-https://smart.pendy.dpdns.org/Smart.php?id=Alhijrah_backup
-#EXTINF:-1,马来西亚|Awani
-https://smart.pendy.dpdns.org/Smart.php?id=Awani
-#EXTINF:-1,马来西亚|Bernama
-https://smart.pendy.dpdns.org/Smart.php?id=Bernama
-#EXTINF:-1,马来西亚|Prima
-https://smart.pendy.dpdns.org/Smart.php?id=Prima-0
-#EXTINF:-1,马来西亚|Prima backup
-https://smart.pendy.dpdns.org/Smart.php?id=AAprima1
-#EXTINF:-1,马来西亚|Prima backup 2
-https://smart.pendy.dpdns.org/Smart.php?id=AAprima
-#EXTINF:-1,马来西亚|Ceria
-https://smart.pendy.dpdns.org/Smart.php?id=Ceria
-#EXTINF:-1,马来西亚|Astro MTV
-https://smart.pendy.dpdns.org/Smart.php?id=AstroMTV
-#EXTINF:-1,马来西亚|Mecca Live HD
-https://smart.pendy.dpdns.org/Smart.php?id=quran_mido
-#EXTINF:-1,马来西亚|Madinah HD
-https://smart.pendy.dpdns.org/Smart.php?id=sunnah_mido
-#EXTINF:-1,马来西亚|Oasis
-https://smart.pendy.dpdns.org/Smart.php?id=Oasis
-#EXTINF:-1,马来西亚|Siar
-https://smart.pendy.dpdns.org/Smart.php?id=Siar
-#EXTINF:-1,马来西亚|Citra
-https://smart.pendy.dpdns.org/Smart.php?id=AAcitra
-#EXTINF:-1,马来西亚|Citra backup
-https://smart.pendy.dpdns.org/Smart.php?id=AAcitra1
-#EXTINF:-1,马来西亚|Sensasi
-https://smart.pendy.dpdns.org/Smart.php?id=Sensasi
-#EXTINF:-1,马来西亚|Aura
-https://smart.pendy.dpdns.org/Smart.php?id=Aura
-#EXTINF:-1,马来西亚|Rania
-https://smart.pendy.dpdns.org/Smart.php?id=Rania
-#EXTINF:-1,马来西亚|KBS World
-https://smart.pendy.dpdns.org/Smart.php?id=KBS
-#EXTINF:-1,马来西亚|Boo
-https://smart.pendy.dpdns.org/Smart.php?id=Boo
-#EXTINF:-1,马来西亚|Awesome TV
-https://smart.pendy.dpdns.org/Smart.php?id=Dsangat
-#EXTINF:-1,马来西亚|Astro Sonypix
-https://smart.pendy.dpdns.org/Smart.php?id=Asonypix
-#EXTINF:-1,马来西亚|Sony HD
-https://smart.pendy.dpdns.org/Smart.php?id=SetOne
-#EXTINF:-1,马来西亚|TvN
-https://smart.pendy.dpdns.org/Smart.php?id=TVN
-#EXTINF:-1,马来西亚|AEC
-https://smart.pendy.dpdns.org/Smart.php?id=AEC
-#EXTINF:-1,马来西亚|华丽台 HD （Wah Lai Toi）
-https://smart.pendy.dpdns.org/Smart.php?id=Wlt
-#EXTINF:-1,马来西亚|欢喜台 HD （Hua Hee Tai）
-https://smart.pendy.dpdns.org/Smart.php?id=Huahee
-#EXTINF:-1,马来西亚|Astro QJ
-https://smart.pendy.dpdns.org/Smart.php?id=Quanjia
-#EXTINF:-1,马来西亚|TVB Jade
-https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
-#EXTINF:-1,马来西亚|TVB Asia
-https://smart.pendy.dpdns.org/Smart.php?id=Tvbasia
-#EXTINF:-1,马来西亚|TVB Entertainment
-https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
-#EXTINF:-1,马来西亚|TVB Classic
-https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
-#EXTINF:-1,马来西亚|AOD
-https://smart.pendy.dpdns.org/Smart.php?id=Aodhd
-#EXTINF:-1,马来西亚|TVB 星河台 Xing He
-https://smart.pendy.dpdns.org/Smart.php?id=Xinhe
-#EXTINF:-1,马来西亚|爱奇艺 iQiyi
-https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
-#EXTINF:-1,马来西亚|Goshop
-https://smart.pendy.dpdns.org/Smart.php?id=Goshop
-#EXTINF:-1,马来西亚|Celestial Movies HD
-https://smart.pendy.dpdns.org/Smart.php?id=Celestial
-#EXTINF:-1,马来西亚|Astro LOL
-https://smart.pendy.dpdns.org/Smart.php?id=Astro_lol
-#EXTINF:-1,马来西亚|Astro Rusi
-https://smart.pendy.dpdns.org/Smart.php?id=Rusi
-#EXTINF:-1,马来西亚|WION
-https://smart.pendy.dpdns.org/Smart.php?id=Wion
-#EXTINF:-1,马来西亚|RTM Asean
-https://smart.pendy.dpdns.org/Smart.php?id=Rtmasean
-#EXTINF:-1,印度尼西亚|TVRI National
-https://smart.pendy.dpdns.org/Smart.php?id=TVRI
-#EXTINF:-1,印度尼西亚|RCTI
-https://smart.pendy.dpdns.org/Smart.php?id=Rcti
-#EXTINF:-1,印度尼西亚|Kompass TV
-https://smart.pendy.dpdns.org/Smart.php?id=Kompass
-#EXTINF:-1,印度尼西亚|Berita Satu
-https://smart.pendy.dpdns.org/Smart.php?id=BeritaSatu_eko
-#EXTINF:-1,印度尼西亚|Indosiar HD
-https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
-#EXTINF:-1,印度尼西亚|AnTV
-https://smart.pendy.dpdns.org/Smart.php?id=Antv
-#EXTINF:-1,印度尼西亚|MNC TV
-https://smart.pendy.dpdns.org/Smart.php?id=Mnctv
-#EXTINF:-1,印度尼西亚|Trans 7
-https://smart.pendy.dpdns.org/Smart.php?id=Trans7_eko
-#EXTINF:-1,印度尼西亚|Transtv
-https://smart.pendy.dpdns.org/Smart.php?id=Transtv
-#EXTINF:-1,印度尼西亚|JTV
-https://smart.pendy.dpdns.org/Smart.php?id=JTV_eko
-#EXTINF:-1,印度尼西亚|Metro TV
-https://smart.pendy.dpdns.org/Smart.php?id=metrotv_eko
-#EXTINF:-1,印度尼西亚|SCTV
-https://smart.pendy.dpdns.org/Smart.php?id=SCTV
-#EXTINF:-1,印度尼西亚|Tvone
-https://smart.pendy.dpdns.org/Smart.php?id=Tvone
-#EXTINF:-1,印度尼西亚|TVMU
-https://smart.pendy.dpdns.org/Smart.php?id=TVMU_eko
-#EXTINF:-1,印度尼西亚|GTV
-https://smart.pendy.dpdns.org/Smart.php?id=Gtv
-#EXTINF:-1,印度尼西亚|RTV
-https://smart.pendy.dpdns.org/Smart.php?id=Rtv
-#EXTINF:-1,印度尼西亚|Jak TV
-https://smart.pendy.dpdns.org/Smart.php?id=JakTV
-#EXTINF:-1,印度尼西亚|iNews TV
-https://smart.pendy.dpdns.org/Smart.php?id=Inewstv
-#EXTINF:-1,印度尼西亚|Daai TV
-https://smart.pendy.dpdns.org/Smart.php?id=DaaiTV
-#EXTINF:-1,印度尼西亚|Net TV
-https://smart.pendy.dpdns.org/Smart.php?id=NetTV
-#EXTINF:-1,印度尼西亚|EWTN
-https://smart.pendy.dpdns.org/Smart.php?id=Ewtn
-#EXTINF:-1,印度尼西亚|AlQuran AlKareem
-https://smart.pendy.dpdns.org/Smart.php?id=AlQuran
-#EXTINF:-1,印度尼西亚|Tawaf TV
-https://smart.pendy.dpdns.org/Smart.php?id=TawafTV
-#EXTINF:-1,印度尼西亚|Vision Prime
-https://smart.pendy.dpdns.org/Smart.php?id=VisionPrime
-#EXTINF:-1,印度尼西亚|Muslim TV
-https://smart.pendy.dpdns.org/Smart.php?id=MuslimTV
-#EXTINF:-1,印度尼西亚|Music TV
-https://smart.pendy.dpdns.org/Smart.php?id=MusicTV
-#EXTINF:-1,印度尼西亚|Lifestyle&Fashion
-https://smart.pendy.dpdns.org/Smart.php?id=Lifestyle
-#EXTINF:-1,印度尼西亚|Entertain
-https://smart.pendy.dpdns.org/Smart.php?id=Entertain
-#EXTINF:-1,印度|Sun TV HD
-https://smart.pendy.dpdns.org/Smart.php?id=Suntv
-#EXTINF:-1,印度|Star Vijay
-https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
-#EXTINF:-1,印度|Colors Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=Colorstam
-#EXTINF:-1,印度|Sun Music
-https://smart.pendy.dpdns.org/Smart.php?id=Sunmusic
-#EXTINF:-1,印度|Astro Sunlife
-https://smart.pendy.dpdns.org/Smart.php?id=Sunlife
-#EXTINF:-1,印度|Astro Vaanavil
-https://smart.pendy.dpdns.org/Smart.php?id=Vaanavil
-#EXTINF:-1,印度|Zee Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=Zeetamil
-#EXTINF:-1,印度|Zee Business
-https://smart.pendy.dpdns.org/Smart.php?id=Zeebusiness
-#EXTINF:-1,印度|News 18 Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=news18tamil_raj
-#EXTINF:-1,印度|Adithya
-https://smart.pendy.dpdns.org/Smart.php?id=Adithya
-#EXTINF:-1,印度|Makkal TV
-https://smart.pendy.dpdns.org/Smart.php?id=Makkaltv
-#EXTINF:-1,印度|Zee Action
-https://smart.pendy.dpdns.org/Smart.php?id=Zeeaction
-#EXTINF:-1,印度|Astro KTV
-https://smart.pendy.dpdns.org/Smart.php?id=Astroktv
-#EXTINF:-1,印度|Zee TV HD
-https://smart.pendy.dpdns.org/Smart.php?id=Zeetvhd
-#EXTINF:-1,印度|Zee Cinema HD
-https://smart.pendy.dpdns.org/Smart.php?id=Zeecinemahd
-#EXTINF:-1,印度|Color HD
-https://smart.pendy.dpdns.org/Smart.php?id=Colorhd
-#EXTINF:-1,印度|Starplus HD
-https://smart.pendy.dpdns.org/Smart.php?id=Starplushd
-#EXTINF:-1,印度|Picture HD
-https://smart.pendy.dpdns.org/Smart.php?id=Npicture
-#EXTINF:-1,印度|Zee News
-https://smart.pendy.dpdns.org/Smart.php?id=Zeenews
-#EXTINF:-1,印度|Asianet
-https://smart.pendy.dpdns.org/Smart.php?id=asianet_raj
-#EXTINF:-1,印度|Asianet News
-https://smart.pendy.dpdns.org/Smart.php?id=asianetnews_raj
-#EXTINF:-1,印度|Discovery World Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=discoveryworldtam_raj
-#EXTINF:-1,印度|History Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=historytam_raj
-#EXTINF:-1,印度|NatGeo Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=natgeotamil_raj
-#EXTINF:-1,印度|Natgeo Wild Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=natgeowildtamil_raj
-#EXTINF:-1,印度|Discovery Kids Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=discoverykidtamil_raj
-#EXTINF:-1,印度|Discovery Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=discoverytamil_raj
-#EXTINF:-1,印度|Sony Yay Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=sonyyaytam_raj
-#EXTINF:-1,印度|Sun TV India
-https://smart.pendy.dpdns.org/Smart.php?id=suntv_raj
-#EXTINF:-1,印度|Starmaa HD
-https://smart.pendy.dpdns.org/Smart.php?id=starmaa_raj
-#EXTINF:-1,印度|Starmaa Movies HD
-https://smart.pendy.dpdns.org/Smart.php?id=starmaamovies_raj
-#EXTINF:-1,印度|Bollyone
-https://smart.pendy.dpdns.org/Smart.php?id=Bollyone
-#EXTINF:-1,印度|Vijay Super
-https://smart.pendy.dpdns.org/Smart.php?id=vijaysuper_raj
-#EXTINF:-1,印度|Vellithirai
-https://smart.pendy.dpdns.org/Smart.php?id=Vellithirai
-#EXTINF:-1,泰国|Channel 3 Thailand
-https://smart.pendy.dpdns.org/Smart.php?id=ch3_pat
-#EXTINF:-1,泰国|Channel 5 Thailand
-https://smart.pendy.dpdns.org/Smart.php?id=ch5_pat
-#EXTINF:-1,泰国|Channel 7 Thailand
-https://smart.pendy.dpdns.org/Smart.php?id=ch7_pat
-#EXTINF:-1,泰国|MCOT HD Thailand-1
-https://smart.pendy.dpdns.org/Smart.php?id=mcot_pat
-#EXTINF:-1,泰国|PPTV Thailand1
-https://smart.pendy.dpdns.org/Smart.php?id=pptv_pat
-#EXTINF:-1,泰国|Thai Thai
-https://smart.pendy.dpdns.org/Smart.php?id=thaithai_pat
-#EXTINF:-1,泰国|Amarin
-https://smart.pendy.dpdns.org/Smart.php?id=amarin_pat
-#EXTINF:-1,泰国|Ch 8
-https://smart.pendy.dpdns.org/Smart.php?id=ch8_pat
-#EXTINF:-1,泰国|GmmOne
-https://smart.pendy.dpdns.org/Smart.php?id=gmmone_pat
-#EXTINF:-1,泰国|Mono
-https://smart.pendy.dpdns.org/Smart.php?id=mono_pat
-#EXTINF:-1,泰国|Thairath
-https://smart.pendy.dpdns.org/Smart.php?id=thairath_pat
-#EXTINF:-1,泰国|tpbs
-https://smart.pendy.dpdns.org/Smart.php?id=tpbs_pat
-#EXTINF:-1,泰国|Workpoint
-https://smart.pendy.dpdns.org/Smart.php?id=workpoint_pat
-#EXTINF:-1,泰国|Gmm Channel
-https://smart.pendy.dpdns.org/Smart.php?id=gmmchannel_pat
-#EXTINF:-1,泰国|Nation
-https://smart.pendy.dpdns.org/Smart.php?id=nation_pat
-#EXTINF:-1,泰国|Tnn24
-https://smart.pendy.dpdns.org/Smart.php?id=tnn24_pat
-#EXTINF:-1,泰国|Nbt
-https://smart.pendy.dpdns.org/Smart.php?id=nbt_pat
-#EXTINF:-1,泰国|New
-https://smart.pendy.dpdns.org/Smart.php?id=new_pat
-#EXTINF:-1,泰国|TPTV
-https://smart.pendy.dpdns.org/Smart.php?id=tptv_pat
-#EXTINF:-1,英国|BBC 1
-https://smart.pendy.dpdns.org/Smart.php?id=bbc1_antik
-#EXTINF:-1,英国|BBC 2
-https://smart.pendy.dpdns.org/Smart.php?id=bbc2_antik
-#EXTINF:-1,英国|CBBC
-https://smart.pendy.dpdns.org/Smart.php?id=cbbc_antik
-#EXTINF:-1,英国|More4
-https://smart.pendy.dpdns.org/Smart.php?id=more4_antik
-#EXTINF:-1,英国|Freesports
-https://smart.pendy.dpdns.org/Smart.php?id=freesports_antik
-#EXTINF:-1,英国|Pick TV
-https://smart.pendy.dpdns.org/Smart.php?id=picktv_antik
-#EXTINF:-1,英国|itv 1
-https://smart.pendy.dpdns.org/Smart.php?id=itv1_antik
-#EXTINF:-1,英国|itv 2
-https://smart.pendy.dpdns.org/Smart.php?id=itv2_antik
-#EXTINF:-1,英国|Euronews
-https://smart.pendy.dpdns.org/Smart.php?id=euronews_antik
-#EXTINF:-1,英国|Channel 4
-https://smart.pendy.dpdns.org/Smart.php?id=channel4_antik
-#EXTINF:-1,英国|BBC World News
-https://smart.pendy.dpdns.org/Smart.php?id=bbcworldnews_antik
-#EXTINF:-1,越南|ANTV
-https://smart.pendy.dpdns.org/Smart.php?id=viet_antv
-#EXTINF:-1,越南|VTV 1
-https://smart.pendy.dpdns.org/Smart.php?id=viet_vtv1
-#EXTINF:-1,越南|VTV 7
-https://smart.pendy.dpdns.org/Smart.php?id=viet_vtv7
-#EXTINF:-1,越南|HTV 7
-https://smart.pendy.dpdns.org/Smart.php?id=viet_htv7
-#EXTINF:-1,越南|HTV 9
-https://smart.pendy.dpdns.org/Smart.php?id=viet_htv9
-#EXTINF:-1,越南|BPTV 2
-https://smart.pendy.dpdns.org/Smart.php?id=viet_bptv2
-#EXTINF:-1,越南|BRT HD
-https://smart.pendy.dpdns.org/Smart.php?id=viet_brt
-#EXTINF:-1,越南|Ca Mau TV
-https://smart.pendy.dpdns.org/Smart.php?id=viet_camautv
-#EXTINF:-1,越南|Danang TV1 HD
-https://smart.pendy.dpdns.org/Smart.php?id=viet_danangtv1
-#EXTINF:-1,越南|Danang TV2 HD
-https://smart.pendy.dpdns.org/Smart.php?id=viet_danangtv2
-#EXTINF:-1,越南|HBTV HD
-https://smart.pendy.dpdns.org/Smart.php?id=viet_hbtv
-#EXTINF:-1,越南|PTTH 1
-https://smart.pendy.dpdns.org/Smart.php?id=viet_ptth1
-#EXTINF:-1,韩国|Arirang HD
-https://smart.pendy.dpdns.org/Smart.php?id=arirang_korea
-#EXTINF:-1,韩国|Yonhap News
-https://smart.pendy.dpdns.org/Smart.php?id=yonhapnews_korea
-#EXTINF:-1,韩国|CBS
-https://smart.pendy.dpdns.org/Smart.php?id=cbs_korea
-#EXTINF:-1,韩国|EBS 1
-https://smart.pendy.dpdns.org/Smart.php?id=ebs1_korea
-#EXTINF:-1,韩国|EBS2
-https://smart.pendy.dpdns.org/Smart.php?id=ebs2_korea
-#EXTINF:-1,韩国|EBS Plus2
-https://smart.pendy.dpdns.org/Smart.php?id=ebsplus2_korea
-#EXTINF:-1,韩国|SBS Plus
-https://smart.pendy.dpdns.org/Smart.php?id=sbsplus_korea
-#EXTINF:-1,韩国|YTN
-https://smart.pendy.dpdns.org/Smart.php?id=ytn_korea
-#EXTINF:-1,韩国|KBS World 24
-https://smart.pendy.dpdns.org/Smart.php?id=kbsworld24_korea
-#EXTINF:-1,韩国|YTN Science
-https://smart.pendy.dpdns.org/Smart.php?id=ytnscience_korea
-#EXTINF:-1,韩国|YTN Korean
-https://smart.pendy.dpdns.org/Smart.php?id=ytnkorean_korea
-#EXTINF:-1,韩国|YTN DMB
-https://smart.pendy.dpdns.org/Smart.php?id=ytndmb_korea
-#EXTINF:-1,韩国|Apps TV
-https://smart.pendy.dpdns.org/Smart.php?id=appongoogle_korea
-#EXTINF:-1,韩国|All the Kpop
-https://smart.pendy.dpdns.org/Smart.php?id=allthekpop_korea
-#EXTINF:-1,韩国|J the Kpop
-https://smart.pendy.dpdns.org/Smart.php?id=jthekpop_korea
-#EXTINF:-1,韩国|EBS Kids
-https://smart.pendy.dpdns.org/Smart.php?id=ebskids_korea
-#EXTINF:-1,韩国|CGNTV
-https://smart.pendy.dpdns.org/Smart.php?id=cgntv_korea
-#EXTINF:-1,日本|NHK-総合-2
-https://smart.pendy.dpdns.org/Smart.php?id=nhkg_japan
-#EXTINF:-1,日本|NHK-E
-https://smart.pendy.dpdns.org/Smart.php?id=nhke_japan
-#EXTINF:-1,日本|テレビ朝日 Asahi TV
-https://smart.pendy.dpdns.org/Smart.php?id=asahitv_japan
-#EXTINF:-1,日本|JET 綜合
-https://smart.pendy.dpdns.org/Smart.php?id=jettv_japan
-#EXTINF:-1,日本|テレビ東京 Tokyo TV
-https://smart.pendy.dpdns.org/Smart.php?id=tokyotv_japan
-#EXTINF:-1,日本|TOKYOMX
-https://smart.pendy.dpdns.org/Smart.php?id=tokyomx_japan
-#EXTINF:-1,日本|NHKBS1
-https://smart.pendy.dpdns.org/Smart.php?id=nhkbs1_japan
-#EXTINF:-1,日本|NHKBSプレミア Premium
-https://smart.pendy.dpdns.org/Smart.php?id=nhkpremium_japan
-#EXTINF:-1,日本|BSジャパン 181
-https://smart.pendy.dpdns.org/Smart.php?id=bs181_japan
-#EXTINF:-1,日本|BSフジ BS Fuji
-https://smart.pendy.dpdns.org/Smart.php?id=bsfuji_japan
-#EXTINF:-1,日本|CNA Japan
-https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
-#EXTINF:-1,日本|BS-TBS
-https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
-#EXTINF:-1,日本|NHK Oaska
-https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
+20260111035101仅供测试自用如有侵权请通知,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
 猫TV影视,#genre#
 ➡️抖舞陪看⬅️,http://rihou.cc:555/tv/[mv]抖舞陪看
 ➡️白嫖软件⬅️,http://rihou.cc:555/tv/[mv]白嫖软件
@@ -867,66 +11,27 @@ https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
 ➡️爱扒随便⬅️,http://rihou.cc:555/tv/[mv]爱扒随便
 ➡️不必纠结⬅️,http://rihou.cc:555/tv/[mv]不必纠结
 NBA赛评,#genre#
-01-10⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-08:00魔术🆚76人,http://rihou.cc:555/tv/v
-国🔊10咪评述,http://rihou.cc:555/tv/10NBA咪评述
-国🔊10腾评述,http://rihou.cc:555/tv/10NBA腾评述
-国🔊10腾雪儿,https://txycdn5.video.qq.com/1777194823.m3u8?time=1768005658&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIFEKvIrC9TO8akmpqh00Y5fGNq9s8diPQyXpfE0J_eUEEGno1htDLMSLLy-ux2rRkwwBcH9uQEEhhWMGdSG5pDLi3yL1VRF3ejZrPEgVfO2P_zvaaShzBDgUS-zQ2zgUk8QiiBw94HluYxE8oZG4JSj91MQaP6xt_Ow7CTquPAowHmuCM8cnSb0G0YqOLb3F0BCQYq_oxeNfyah4rybfAXoHrLpjD_iH8InxkAmJ8DtanIzHByVoCSMwoRwtxIIBQKtNeOTZjHTvm3BcvLe5ps3jldNoHetMy4Z03-5kizfKuWj5gdByPoEoO5B3bfwhi_PXk_tF-tlVbIMVWOKkvFtCtJMdOa9c0CZQuO2JQSZHAmmcavUtShspz6WJERA24V8mocSPezKDY0MqQcStH4VAdz2kFCQd1pqMnKyIJwRxheWvivTsNx0AxAYtNJ09nU3W9v56iv7XdqrHCiqnEbIDE3oX60XKMizCAXAzj28HszpmZ-q5NdOni1MMN6UgDz54KLJjSlHF-p0s1qEwZo_sXN304hIyEtUqhnpZpUUYxnDq&drmtype=0
-08:00猛龙🆚凯尔特人,http://rihou.cc:555/tv/v
-国🔊10咪述评,http://rihou.cc:555/tv/10NBA咪述评
-国🔊10腾述评,http://rihou.cc:555/tv/10NBA腾述评
-国🔊10腾彭磊,https://txycdn3.video.qq.com/1392557223.m3u8?time=1768005936&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIDZOk454XCWImNGkswi7KR2ftcWEXBkxftwIYUMlxCuEEDYm61NeDjwtiDgzWZS_4tQBcC77ddn28LQ_PYJHWUt1JdCsvQ4zLT1hufwj5jq7vpopVKShWLw4qwDCicF15mNFu0OPa6BwLVQZWxi_eFtejuzPNcdMi0fbYpEpUtryDV-mLFaws7omftBZs4eGuhOUQrfKGM56Ruv8xaMDMcfZIfry3qXEiz4oOgZ-mEqbdYbDREmyAyqyzMy-FT_45ISG4wFCbSDuz_qzS12yghEg_zxqNL7H_w9Lfclzd2YEafMYdAjn_LMpgO9IWMac17hoq9iClYlBtxvIc9VYK8ClTLblaDv2yBLfHazzl8c-5zkNJjZrRQu86TB35GgPlX7El5kaf_7RJwcZUd4vjj61VN7qI-9_ob6qPMqgmm6SJfaqcdwguTaDmDlrhb12NInlyMNIq7718t_Jn-1IVZeEyXMT8wS-UsKE8stWZkG9r8miMxPWL4SamKbfrm6JNzPCyw97gqp9UlTMj4rfraxjmeSUoCusjTDA2WsejQ8w8G8D&drmtype=0
-08:00鹈鹕🆚奇才,http://rihou.cc:555/tv/v
-国🔊10咪评评,http://rihou.cc:555/tv/10NBA咪评评
-国🔊10腾评评,http://rihou.cc:555/tv/10NBA腾评评
-国🔊10腾楷文,https://txycdn4.video.qq.com/1777194923.m3u8?time=1768007397&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIFXR6IfR8oB8qGuUdOgh3WcSdzXUR3sLavC1kS7nEEaeEDDfaJzvOoiRoGhjUb0I81wBcN6gFQcLSKDBHfH190e-Fg3a6MZoAi03lLNiisQSBSgM-THOANn7qHT2BQzFEIT0eKPHK0eBXuPsEdceZLL4-w9YR_wxsgfLic2aoxfsOyi-G_CX-ETRLhUeRR6P5ILPJTXPBSzkurtyLLI1xwl9u6KbzVhUpunUGE0GTpc0BknvieKIR8KQALGiuvI48Czgtpd-2qsOEy8f7pJyZbehkPSyxbq3hYd43-X_MfqMLsTCjrlntqyQDRRtnRP4sAACFpUzkM1AQtJTdiERcyAjEautSYfRatEmO-WugtXhH5j7H5rKit_JgtWUpcEyLaCpW8h1Qr-FtIXbQpkC-Q0dgz97FYgAAtAYkxUWqx5eYImwQhvfGMHsbsrIBRc0cG9a13dW7VuSpeFakYdt2Rq1VC0qOyW7d4Xq30BdWSNjZb9LEpx_oeXvoTZQUzGZxgRjGM40qxgO8Uif2OXxOu9R4Eg2RG0rArUnK7BCeyb7TaMG&drmtype=0
-08:30快船🆚篮网,http://rihou.cc:555/tv/v
-国🔊10咪述述,http://rihou.cc:555/tv/10NBA咪述述
-国🔊10腾述述,http://rihou.cc:555/tv/10NBA腾述述
-国🔊10腾柯凡,https://txycdn1.video.qq.com/1777195123.m3u8?time=1768005952&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIHO_hRxltIo4d6AzJstU3b_agZGOb3DSsw4Q6sahgNxmEBM1iFEHnalUNlnh7E0eDX8BcOytG_qD_opNPfVFByXazXL1KkiCiN4bGPIT6VRdaYOVWzvWeCaXGr_MuGKRET1kaGYcQV0V55ffRlt3L63AhUnzZX998xbC31OL26bglb34blwZvll6Rpi5i_5glJ2Uk9ai5Pgx_va7OhCfQSYH06W44JNZp1xwEey1mhsPyeEucC6QzxhXx-TB3PKDEOhW9PH9W3WE58g1rhSa4Q8sFgY67c46thraGOvixjehG-qcQx7hgp4nIKv9M9xClwpVVhbRi5GFwmLrz8zCY0hnXqyTC3WgEdkSb3uFxdq5pT0O0GIvWq4Ny4G98iCTos5QMIbq4iHB_vMO6z1Z_QLzKUG7DCZzQfsLCaay0aQwAogQ1RLWGcTTKLa5q47ezrvzB1QN9w2wClNx9qv5jG_Gf61pEJFl3TmejjBtPT5QhYasy24Ri6vRLf7QQiRFpmjY5uBxXs5OP8eYZMpwF2dJG6_s5SQsBsjAptOQyNqOOtTg&drmtype=0
-09:00雷霆🆚灰熊,http://rihou.cc:555/tv/v
-国🔊10咪旁述,http://rihou.cc:555/tv/10NBA咪旁述
-国🔊10腾旁述,http://rihou.cc:555/tv/10NBA腾旁述
-国🔊10腾兆丰,https://txycdn3.video.qq.com/1392557523.m3u8?time=1768007658&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIJ_Tj5aMQ0oxqsByWNSseSlajPWa-iHWqEdV7tBm9N4OEM4qNs9pH0VVZEe_081zaaIBcIkJhWV6NFoai5MDFrGC8IUhF8dVkC6evA3vZQC9U-VHpWUIPfkAFiSbzOb0VfQi3qIVs7bADVQbhveSO-h6u9-dfC-Gop7v3LAL8WmyN-5okPUp_ejxoLIG93nOmntqVzzfmEuSdx0_rnwu9tpi9XQW_dU_AfSp0uJGh41Ar02Scxh7sWvKUiYl6LKoOG-OWQoZQZxA46uzsSkH__nETwU1JXPHqYRmIGdcZRyvGLSwJOkwR55eJ_9vAUH2pm_cH_YrNwLWkbPZTqUORh9t0dgJJKKFTpt1vEYiQ1ajhyAThyyHtXg_c2YWOoD7CeI7BafhxO-AUleEuN_wHwiVeKsxlaxP4vaTJ4-nqEjtPap9XCdNy_C8V7hPkEMSr9pnm9blrjgZIz7mkljVTY1kEFGkAxSttIhsyRaESFdjtZr99_UptZ0aBjNlJ34wP1rYRtbKxTeQdbfBsof4ZEAwSMpiWSVrxZ34ZFi3Ayy6ReS6&drmtype=0
-10:00老鹰🆚掘金,http://rihou.cc:555/tv/v
-国🔊10咪述旁,http://rihou.cc:555/tv/10NBA咪述旁
-国🔊10腾述旁,http://rihou.cc:555/tv/10NBA腾述旁
-国🔊10腾逸豪,https://txycdn6.video.qq.com/1392557923.m3u8?time=1768010486&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIIOyCH1bUkDUbrag0s_h2cQfrV3Ds1w8EEs0f4yoRwkfEG8ev3_TyPFALd-nhXJWoboBcF7ZwUdv2Y_EtP6EqRE89JTqjGWaUShZA4WbbJg6zX0aBsvfEN9pbK2BITeX2069JbretrcKnjORFDi6BorWfUFsCJVeNZzqOvIAsaYT6ww6URclQBjdvTHJVPFa8gLsoLZ1fVV-m-8ncZM7QmnDU3ZQnld4v9eOdLdXIP063zuzOuOhUJ5GOFbT2ZJpQIvWYR8Fl24DeyPrsKOhKMhTVCo96oxTJt8SOD4hEMfW9SRZo87YrmT3yAkE0XCep2r_lBwYg17Mi7cX234dzSEHKOHaDxaT8CKQEvHxTbq4xECVt3ngxc3YImwJKtiLfToZgh_dkbUVHgiu4YQhuK1sgw88Bn2IPBTVpK0MKUNgG6lulwDe0lDH63YfIAMBqto4FAV9V94X3fd59BtEtvooBUOQDoFi_yJZB3Oi4vfJ8xAKe6G4Jxcn7pIiSyXTFJJ8cOODdAI-tlSCAQxmZaCZD0hP-ud4ypZuiihliOMI8o0C&drmtype=0
-10:00太阳🆚尼克斯,http://rihou.cc:555/tv/v
-国🔊10咪旁旁,http://rihou.cc:555/tv/10NBA咪旁旁
-国🔊10腾旁旁,http://rihou.cc:555/tv/10NBA腾旁旁
-国🔊10腾郑诚,https://txycdn7.video.qq.com/1392558023.m3u8?time=1768010829&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIG8NnQjvJX4OkASRthgEixlM9eHVf5ICrRPKo6swKob3EGTTwNswtKZbn0IOpFWrwDUBcFBd8v5b6tQOCmHgryxBHjNKVloC3SfSfRgTUxrrX-cU7jG36wb-sZvQ_BIo7pGL_hOclQ_vDfdKDbNZwFccXJ5K41H6aKtpMmXhv0eErijM45FjB5uGMm35y89al57PeUIBy0HOy84OODOsG6m1FpK9T9UnetBRwWy6JNiOMnJ-KRY5hzy1SXxpAhWeGYu2vbTmaz8CvNzaOM7xEV56q1AXfs8iBhMxtYuRUOTpWJqF1P-RQ7W-Mva-vgmyDGtiQh8BvEKuVwxd5N_xqVuLemeXAOkt7XO7AZiZ-JpTwKGWmRnqOwnTvaBAY9oOpg7Od250rLBo5cK6GWU8lUdYH_YkkpitcPQdHBFnUnjYSp0f6anO94ZEijL5XuHo9nSfFSsc96NrSlkWCz5thmYjOCNAbCGrbIAZk0jqebLUVvjSDxMnnpWOorxj6WTQ188NyMuokwvD5xmJA5QW_K4IaIb6UOBx-7Z8UQlC7r2B4cqE&drmtype=0
-11:00国王🆚勇士,http://rihou.cc:555/tv/v
-国🔊10咪旁评,http://rihou.cc:555/tv/10NBA咪旁评
-国🔊10腾旁评,http://rihou.cc:555/tv/10NBA腾旁评
-国🔊10腾殳海,https://mgev.188766.xyz/play?migutoken=b580428f07b3442a76917cc9d799af97&id=kpxmV3s271D94ldwjcRqsdbeQZWCnAa4goqiAKXH1lG6EhaRUAkMDoLnpVqf4B%2FjcXXNlE9gPQk7AzuqYtvXGONlxcx83ykbT8N7%2FbV2FYIR%2F36h58xIlpQ93CLToeV%2BuP6TyJX%2FAQi46WIZwojqXeFbIgPjhDtw4d%2B4bKE%2BaKQvJeN3BuyMwKaWDXQ2IrvHonut2cIlu3IxPmyNTLBMKIiQYqNS8y2fHRL3UM4UvpwksS7NJCv3TvLNDjwDeNWVRjnlTvAyZvcpm8s96GjtR2hoPA%2FqFgsU2JqD6BB3SITggxjuXOkiaAyg2GP2YwCJ7ZFag68M8x%2FDo%2F8fcjjtDg%3D%3D&name=udIcUZeQvVITuSl4E6fuovNV9VfukCPYKA3uALXRazOc3%2BzBAvVEFEBtqlxGfXPfYDDta0kwjxpzxwcT72miwRGVyG4mKtG81i2AO6M7Kn9ux2Phv61QGqrgYBgjEYts
-11:00火箭🆚开拓者,http://rihou.cc:555/tv/v
-国🔊10咪评旁,http://rihou.cc:555/tv/10NBA咪评旁
-国🔊10腾评旁,http://rihou.cc:555/tv/10NBA腾评旁
-国🔊10腾苏群,https://mgev.188766.xyz/play?migutoken=72c88964d46bd99c704aae94a47c7ced&id=ItIvKsEAS6rhlnCRyvqxJ3BThOiQEuqfR20gp2cUeYUjsgk2VYeo98IT9HRAVAhbiaEQ%2F0F8AMm%2FXNBOVsz6dDRmANUtD3hedokSvzvANS%2FkJRQUAxOHRfj1E2AA5KhB7Q1vFFc%2B2PJMyUUAZvhYL%2FPYJ5CjSPmTyQVws4AS068%2BU3TaqMoZXXXjo1U5gXY3VXdiOUCrc5ta3ocqSQ3Wzb8Kh%2Bh%2F70MIO1R4391dXOtHwsL55jutRWMv4ggyqxCF8zL6iGK49aucODq%2FPZr1Qcn4Ytdl907nms9QIGdN5Gyts02Fr8mMZQEljbnxYkDJ2dEO1O4DH1K7%2FSASWNW6fA%3D%3D&name=w1%2F0MMywCdO8az3P25x9Elmmwv%2F6PrgFEplJBiFQdKpV8m1scO5vL9U86Cr5m0E3VIj0tJ67Npybagv89AFUmXMpbXE4kHyhHO0vTNdG7%2BX6YYk%2BeKu9Aqh50BGk%2BjZx
-11:30雄鹿🆚湖人,http://rihou.cc:555/tv/v
-国🔊10咪解评,http://rihou.cc:555/tv/10NBA咪解评
-国🔊10腾解评,http://rihou.cc:555/tv/10NBA腾解评
-国🔊10腾孙悦,https://mgev.188766.xyz/play?migutoken=e007f4e510b8ff32cccfcb798a3b4185&id=paftGOLA6AfZ%2FOEsjFiOAPfUAhZCAQ67Fnl6rQxISCJ4rwAXxMnm%2Bwxl2oS5LREWgTRojoon7er5jaUSMAVKN%2FH5B9ANrxeJ%2Bah5%2FlQYoVASkxPZYfOfUajtfkdSN%2F%2BOFRJ7iAJIZn6fTqcDN5O7htZG5ZqB%2F52HyDrfihoKLLuEpYUu%2B2i%2FpzlA4H698Am2l5fgQ5EzMEMWSKZmsSWhNspM2FkG4IEwNMismf2x1SWT7iEa3m6gHBniesmV7UuJinvxB0y%2BGDd3ETShoTpm78fHAwjfnhld9gE%2F6idP6cE7SKLhC47mGk%2FlSvz6PcdtpLw6nhp9KsVtFONVsqrTKg%3D%3D&name=1d65h4A1DPfIVen27SY1IGcPlM8mkczo%2BOsiPvE4OMtgWbUSW6puSFh6mWTL7O0IFVOrkGDXXESsdOZrQbjiYsH8510YnDHv3F1Q69fO2KVh4maT8rkEGoRO1R9IZmTs
 01-11⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-02:00木狼🆚骑士,http://rihou.cc:555/tv/v
-国🔊11咪评述,http://rihou.cc:555/tv/11NBA咪评述
-国🔊11腾评述,http://rihou.cc:555/tv/11NBA腾评述
 08:00热火🆚步行者,http://rihou.cc:555/tv/v
 国🔊11咪述评,http://rihou.cc:555/tv/11NBA咪述评
 国🔊11腾述评,http://rihou.cc:555/tv/11NBA腾述评
+国🔊11腾嘉琦,https://txycdn7.video.qq.com/1777208923.m3u8?time=1768089953&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIO1le953yjFH5eYl-mGvWLqeMD6jLMEWLiVNvFRFYsnwEBAgEuRoOsGEU6RSVC3G3rUBcJfajxBGRG1z1abZfd7Wcma44i1u-rtJZgPpkQw7DW7_U8v2KJJ7FT8wm7vTiq91dQSKxL799B6HMHryvJNAV79nLBjhGBxZL2LD0AAux_lYLGOdKiIzC-WysdKRaLriNb_2bdtuiWqXxxFSl1y6IkE4QGh-B1D6G2x-gIc9jpZ6W-7LdzdffEtrf4X3usIw6wEb53HoQHR47z6zq6mjWmuzYTaxpNa__BAwkxrXO4i2SrvnkKvDVYAMwg3ar7bru6Hl50vKXHTZZ9b07RuM-pG9XtF6iDEBjvf6kZXSL4Z0R9xRXan84Y-JrMAaWbqRMExJW7Y1ggDu3kpUxuCVfJZEvMyLZS5Zu6wSYTrAJPf_li1HgmMAucCubJuZJyHF8ALZl1WC9qr1a-JL7uIsZ3N4dLS34CyllBpykHCqKHH_Ar3vrDPJ3XcLOhJSmhu0_bKrFIzlpnRpxiSMZ4I0U8Fgl-Nk3s8ii2y-yt9bsOPk&drmtype=0
 08:30快船🆚活塞,http://rihou.cc:555/tv/v
 国🔊11咪评评,http://rihou.cc:555/tv/11NBA咪评评
 国🔊11腾评评,http://rihou.cc:555/tv/11NBA腾评评
+国🔊11腾彭磊,https://txycdn5.video.qq.com/1777209023.m3u8?time=1768091588&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgILsM-7EhK15zcdQFpGAp3Lm-fj99Vj4ph-vR7bOULl9sEOMYpqAWQx1nicrqyWKG4tEBcO9TwrUXiN82miDFpBuLSqH0D7l6rtdLI-wX9tnSB2GM-CL0q0MOPIaEhn2jbhmnwng3NgNdocsSEI0YvB70zz6c3pL0hPlH9i6MBhcnsdz7o4o3xwSp2Y4ghvJuAB5A0R0fcEnG4w6B6DcI5DrpwcnKDa27GLUHDc8iD6kfCWTIoPDq0y3mW1jICEw6n0O6ZAkCjuAYAbgSReFhZ8-1VoCdek03ll3_FAny2JTqIUYCCqhl2jsg9Q-LN7SJP_pNrB9ZMvydX2chexFTgY_KzCX3_Kc4NKTijtoYqpK0WYARyghidL7ZmbveqxNHBOclxVRDS3h8oy2Q2GHoze1YlYFCXzdLdUvMW788TSaQuByebktKAG6mhtL4W4tfeFu9sJ4bAVo_OtuGk6SRfNx9H9eh9IgcYwl51P9xkH-usa_DasZlvAh9c2XGeqUDv-sW8Jic-B24TgzFF46D8nIbUoSUdi_TaULRKRMStTP2RfdE&drmtype=0
 09:00马刺🆚凯尔特人,http://rihou.cc:555/tv/v
 国🔊11咪述述,http://rihou.cc:555/tv/11NBA咪述述
 国🔊11腾述述,http://rihou.cc:555/tv/11NBA腾述述
+国🔊11腾兆丰,https://mgev.188766.xyz/play?migutoken=cdbf1f6aa2f11f2637ad5d2bfd701a0c&id=VLBHG0Zq9DXOdo%2Fk72A2j%2F0APEgJP0Ips%2FJrFLRIMxbj1AXN8T%2Fp9RkfC0WTBJ9Ge5beM%2FsqUPt5xErkR8Rrah2Q1WBVIPzOQomB1ZcdK2Jp6MXGO5yoKE8rNobfA1vqo2ciiNWWM%2Fjo7M2H4CgMPk7KpJLKO0C%2F20qBK%2BjhrTl%2F9p4%2Bl0AqIna8SP%2FVugoBZ73BnPsA77Axr%2FmiIaEc%2FWwMEHICqSsxKrEeijz82uJcMnSChy9uvf2mEERBRaWi1e0Lq7O32n4DfuAfXUrCar%2FZ0eQ2rYn%2BwYLL0EjWLbs1Ru6iNFhmuL7K4jTRKF2LB8dQDj78k6JQSdc5pP4nTg%3D%3D&name=efmhUclfcyDkZKi5PYYKo2px7zYXsjP7Z3cl4IWzIyhJEM0ufJ0GkPl4HA9os879ZE9jQ5D2q%2B5ov%2BcksZZN3g9N48%2B28dC2maDrOb7sqls%3D
 09:00公牛🆚独行侠,http://rihou.cc:555/tv/v
 国🔊11咪旁述,http://rihou.cc:555/tv/11NBA咪旁述
 国🔊11腾旁述,http://rihou.cc:555/tv/11NBA腾旁述
+国🔊11腾子星,https://txycdn1.video.qq.com/1392569723.m3u8?time=1768093518&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIAFoJgQS5DJPbEJXMH_mtDjaavm89OuJ-Wa2XZP15TpkEKex0kop83HuFleC0zv-h7kBcEYORktreuXy8qabnvnGRmEr0wCgjE5YgErOMQ6_iLMOtODvUtLFVuehC6UuR90uxMSjtq9bVSUilDCY9MGfLCQQrpogZc8LaYLBEGfIPv_PHDoWrN4LDHl349w9NUD3wLna6zYL56PLXCy9ibowdJGXaTe5fAQ62_4EY5G86d12DDjuZu5-KekPpLrW1T5boyyg7HrRlSYUL5BSK8WQrmmCxKP1KKRalw0L5ekaXcqMKyA2uxl18xdZU_rh6PXQM6YE4a9LQZo1Uhedx-_yKiZkUQVWjeyYqUi4frvGrZGriJOP03U36FsHuc4tvCWDnD5NZUcaVroLoX0j3MCwnFiRpiAqyHPlQUqUj_2mIuXzAmEd3WyzZyJP2wLZ3HWmESUBq0vaqSEx_9QhMQMUYcuTVUTRPMnWGMzediXHpyI2cEHSasO-z-MoCorurYLS1_U2w8YVEguJ_eBiX5UyOGABdOohzDhH7EGhBfHZoXta&drmtype=0
 10:30黄蜂🆚爵士,http://rihou.cc:555/tv/v
 国🔊11咪述旁,http://rihou.cc:555/tv/11NBA咪述旁
 国🔊11腾述旁,http://rihou.cc:555/tv/11NBA腾述旁
+国🔊11腾德昕,https://mgev.188766.xyz/play?migutoken=5fe7bb13bcb03f4d911dacfb180e4de1&id=gzKALd%2B63K61dhTAYa%2BW%2B00EychfEJHm2KUWi5uJ77VmJK%2FWqyDlYlpJOT2kXbqt1chh4qFsyK%2BJG%2B24EXm0C74%2FCj3b6TOdizjPLaQcXilo6Yr5XmSh8O1o5FMhfCrSEto10Nzuq%2BZAGtRR5e9Xpj87Qzsm7jLqkekuSjNt5nueUBqOOJ1noOavi6Sf0uLZVVVqtE4K%2BbmdmaCdvpSVISlf2YxM60q5uib8dsbLSMaDJ6ZQ%2BiOD3VqAKymWjV6PjrOqCEooyF7GV5%2FLgcVj4ixvmohzsXJ81iLfA8mXjAFXAR%2BtcaCnwG54yj4lwFR%2FfklzAlkd75V8ME%2BXUhj01w%3D%3D&name=Z5nF1TrFeQVFxOzpDIKrv0LLrI02zlWHr6BMsZF%2BbFiyXYThNhGnb2dDHuUciaY1YVuSkdXnGFXHKKhqG%2BtijuQKZnA9OSR0TJo7V33RLSM%3D
 01-12⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 04:00鹈鹕🆚魔术,http://rihou.cc:555/tv/v
 国🔊12咪评述,http://rihou.cc:555/tv/12NBA咪评述
@@ -959,11 +64,6 @@ NBA赛评,#genre#
 国🔊12咪解评,http://rihou.cc:555/tv/12NBA咪解评
 国🔊12腾解评,http://rihou.cc:555/tv/12NBA腾解评
 渝超赛评,#genre#
-01-10⬇️重庆城市足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-15:00两江信也科技队🆚两江临空队,http://rihou.cc:555/tv/v
-国🔊10咪评述,http://rihou.cc:555/tv/10渝超咪评述
-15:00忠县烽烟三国队🆚城口老腊肉队,http://rihou.cc:555/tv/v
-国🔊10咪述评,http://rihou.cc:555/tv/10渝超咪述评
 01-11⬇️重庆城市足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 15:00南岸万和医药队🆚沙坪坝陈昌银队,http://rihou.cc:555/tv/v
 国🔊11咪评述,http://rihou.cc:555/tv/11渝超咪评述
@@ -976,23 +76,10 @@ NBA赛评,#genre#
 15:00开州汉丰湖队🆚奉节诗橙队,http://rihou.cc:555/tv/v
 国🔊11咪旁述,http://rihou.cc:555/tv/11渝超咪旁述
 CBA赛评,#genre#
-01-10⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-19:35广州朗肽🆚四川丰谷,http://rihou.cc:555/tv/v
-粤🔊丁伟杰述,http://rihou.cc:555/tv/10CBA丁伟杰
-粤🔊广东体育,http://rihou.cc:555/tv/[At|]广东体育
-粤🔊广东体育,http://rihou.cc:555/tv/[Cx]广东体育
-粤🔊广东体育,http://rihou.cc:555/tv/[AtI]广东体育
-国🔊10抖评述,http://rihou.cc:555/tv/10CBA抖评述
-19:35福建晋江🆚天津行者,http://rihou.cc:555/tv/v
-国🔊10抖述评,http://rihou.cc:555/tv/10CBA抖述评
-19:35浙江稠州🆚北京控股,http://rihou.cc:555/tv/v
-国🔊10抖评评,http://rihou.cc:555/tv/10CBA抖评评
 01-11⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 19:35广东阳光🆚辽宁本钢,http://rihou.cc:555/tv/v
-粤'🔊丁伟杰述,http://rihou.cc:555/tv/11CBA丁伟杰
-粤'🔊广东体育,http://rihou.cc:555/tv/[At|]广东体育
-粤'🔊广东体育,http://rihou.cc:555/tv/[Cx]广东体育
-粤'🔊广东体育,http://rihou.cc:555/tv/[AtI]广东体育
+粤🔊丁伟杰述,http://rihou.cc:555/tv/11CBA丁伟杰
+粤🔊广东体育,http://rihou.cc:555/tv/[Cx]广东体育
 国🔊11抖评述,http://rihou.cc:555/tv/11CBA抖评述
 19:35长白山恩🆚青岛崂山,http://rihou.cc:555/tv/v
 国🔊11抖述评,http://rihou.cc:555/tv/11CBA抖述评
@@ -1006,14 +93,16 @@ CBA赛评,#genre#
 国🔊11抖述旁,http://rihou.cc:555/tv/11CBA抖述旁
 20:00新疆伊力🆚江苏肯帝,http://rihou.cc:555/tv/v
 国🔊11抖旁旁,http://rihou.cc:555/tv/11CBA抖旁旁
+01-12⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
+19:35广州朗肽🆚天津行者,http://rihou.cc:555/tv/v
+粤'🔊丁伟杰述,http://rihou.cc:555/tv/12CBA丁伟杰
+粤'🔊广东体育,http://rihou.cc:555/tv/[Cx]广东体育
+国🔊12抖评述,http://rihou.cc:555/tv/12CBA抖评述
+19:35北京控股🆚福建晋江,http://rihou.cc:555/tv/v
+国🔊12抖述评,http://rihou.cc:555/tv/12CBA抖述评
+19:35浙江稠州🆚四川丰谷,http://rihou.cc:555/tv/v
+国🔊12抖评评,http://rihou.cc:555/tv/12CBA抖评评
 WCBA赛,#genre#
-01-10⬇️WCBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-19:30山东赤水河酒🆚江苏南钢,http://rihou.cc:555/tv/v
-国🔊10咪评述,http://rihou.cc:555/tv/10WCBA咪评述
-19:30陕西榆林天泽🆚北京首钢园,http://rihou.cc:555/tv/v
-国🔊10咪述评,http://rihou.cc:555/tv/10WCBA咪述评
-19:30厦门环东文旅🆚福建金篮,http://rihou.cc:555/tv/v
-国🔊10咪评评,http://rihou.cc:555/tv/10WCBA咪评评
 01-11⬇️WCBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 19:30江西赣星🆚辽宁大连体产,http://rihou.cc:555/tv/v
 国🔊11咪评述,http://rihou.cc:555/tv/11WCBA咪评述
@@ -1021,6 +110,17 @@ WCBA赛,#genre#
 国🔊11咪述评,http://rihou.cc:555/tv/11WCBA咪述评
 19:30合肥文旅🆚河南豫光金铅,http://rihou.cc:555/tv/v
 国🔊11咪评评,http://rihou.cc:555/tv/11WCBA咪评评
+01-12⬇️WCBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
+19:30上海浦发银行🆚北京首钢园,http://rihou.cc:555/tv/v
+国🔊12咪评述,http://rihou.cc:555/tv/12WCBA咪评述
+19:30四川蜀道远达🆚浙江稠州银行,http://rihou.cc:555/tv/v
+国🔊12咪述评,http://rihou.cc:555/tv/12WCBA咪述评
+19:30武汉盛帆黄鹤🆚江苏南钢,http://rihou.cc:555/tv/v
+国🔊12咪评评,http://rihou.cc:555/tv/12WCBA咪评评
+19:30陕西榆林天泽🆚山西竹叶青酒,http://rihou.cc:555/tv/v
+国🔊12咪述述,http://rihou.cc:555/tv/12WCBA咪述述
+19:30山东赤水河酒🆚东莞新彤盛,http://rihou.cc:555/tv/v
+国🔊12咪旁述,http://rihou.cc:555/tv/12WCBA咪旁述
 亚杯赛评,#genre#
 01-11⬇️U23亚洲杯小组赛⬇️⚽📡,http://rihou.cc:555/tv/t
 19:30中国U23🆚澳大利亚U23,http://rihou.cc:555/tv/v
@@ -1030,15 +130,15 @@ WCBA赛,#genre#
 国🔊14咪评述,http://rihou.cc:555/tv/14亚杯咪评述
 赛事精锦,#genre#
 ⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
-联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛10
-NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛10
-羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛10
-橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛10
-乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛10
-网球赛事回放,http://rihou.cc:555/tv/网球回放赛10
-排球赛事回放,http://rihou.cc:555/tv/排球回放赛10
-格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛10
-斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛10
+联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛11
+NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛11
+羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛11
+橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛11
+乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛11
+网球赛事回放,http://rihou.cc:555/tv/网球回放赛11
+排球赛事回放,http://rihou.cc:555/tv/排球回放赛11
+格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛11
+斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛11
 赛事咪咕,#genre#
 抖姐舞陪你看,http://rihou.cc:555/tv/t
 赛事睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=6052b9a46052b9a46052b9a46052b9a4
@@ -1302,9 +402,6 @@ CCTV-17咪咕,http://t.061899.xyz/tl/tl.php?id=cctv17
 粤语戏曲欣赏,http://tl.061833.xyz/tl/null-15
 粤语长片欣赏,http://rihou.cc:555/tv/[Hk]粤语长片
 粤语长片欣赏,http://tl.061833.xyz/tl/null-10
-⬇️万辉颁奖⬇️,http://rihou.cc:555/tv/v
-万辉颁奖典礼,http://rihou.cc:555/tv/[mv]颁奖典礼
-万辉礼红地毯,http://rihou.cc:555/tv/[mv]礼红地毯
 ⬇️特闽新闻⬇️,video://http://rihou.cc:555/tv/mu10
 有线新闻欣赏,http://rihou.cc:555/tv/[Mt]有线新闻
 有线新闻欣赏,http://rihou.cc:555/tv/[Hk]有线新闻
@@ -1430,6 +527,9 @@ wwe格斗欣赏,http://rihou.cc:555/tv/[FY]wwe格斗
 ⬇️万千星辉⬇️,http://rihou.cc:555/tv/v
 万辉翡翠台庆,http://rihou.cc:555/tv/[mv]翡翠台庆
 万辉走红地毯,http://rihou.cc:555/tv/[mv]走红地毯
+⬇️万辉颁奖⬇️,http://rihou.cc:555/tv/v
+万辉颁奖典礼,http://rihou.cc:555/tv/[mv]颁奖典礼
+万辉礼红地毯,http://rihou.cc:555/tv/[mv]礼红地毯
 ⬇️欣赏频道⬇️,http://rihou.cc:555/tv/v
 pₒₚc电影频道,http://tl.061833.xyz/tl/popc
 pₒₚc电影频流,http://tl.061833.xyz/tl/popc
@@ -1600,26 +700,28 @@ WWE_格斗高,http://hls-pull-wicketpw.speedws.com/live/3JDxwxlOhKPG8gzPR4f4zilI
 经典音乐频道,https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 欣赏音乐,#genre#
 ⬇️凯乔电台⬇️,video://http://rihou.cc:555/tv/dt
-[21-24]抖直播,http://rihou.cc:555/tv/凯乔电台抖10
+[21-24]抖直播,http://rihou.cc:555/tv/凯乔电台抖11
 [21-24]抖直播,video://http://rihou.cc:555/tv/dt
-⬇️全天直播⬇️,video://http://rihou.cc:555/tv/mu10
-音乐库播抖播,video://http://rihou.cc:555/tv/mu10
-音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖10
-粤语讲故抖播,http://rihou.cc:555/tv/粤语讲故抖10
-经典音乐抖播,http://rihou.cc:555/tv/经典音乐抖10
-经典老歌抖播,http://rihou.cc:555/tv/经典老歌抖10
-经典旧歌抖播,http://rihou.cc:555/tv/经典旧歌抖10
-经典粤歌抖播,http://rihou.cc:555/tv/经典粤歌抖10
-谭咏麟乐抖播,http://rihou.cc:555/tv/谭咏麟乐抖10
-张学友乐抖播,http://rihou.cc:555/tv/张学友乐抖10
-刘德华乐抖播,http://rihou.cc:555/tv/刘德华乐抖10
-周杰伦乐抖播,http://rihou.cc:555/tv/周杰伦乐抖10
-BEyonD2抖播,http://rihou.cc:555/tv/BEyonD2抖10
-翡翠音乐抖播,http://rihou.cc:555/tv/翡翠音乐抖10
-怀旧音乐抖播,http://rihou.cc:555/tv/怀旧音乐抖10
-怀旧粤语抖播,http://rihou.cc:555/tv/怀旧粤语抖10
-粤语经典抖播,http://rihou.cc:555/tv/粤语经典抖10
-音乐经典抖播,http://rihou.cc:555/tv/音乐经典抖10
+⬇️全天直播⬇️,video://http://rihou.cc:555/tv/mu11
+音乐库播抖播,video://http://rihou.cc:555/tv/mu11
+音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖11
+粤语讲故抖播,http://rihou.cc:555/tv/粤语讲故抖11
+讲故粤语抖播,http://rihou.cc:555/tv/讲故粤语抖11
+经典音乐抖播,http://rihou.cc:555/tv/经典音乐抖11
+经典老歌抖播,http://rihou.cc:555/tv/经典老歌抖11
+经典旧歌抖播,http://rihou.cc:555/tv/经典旧歌抖11
+经典粤歌抖播,http://rihou.cc:555/tv/经典粤歌抖11
+谭咏麟乐抖播,http://rihou.cc:555/tv/谭咏麟乐抖11
+张学友乐抖播,http://rihou.cc:555/tv/张学友乐抖11
+刘德华乐抖播,http://rihou.cc:555/tv/刘德华乐抖11
+周杰伦乐抖播,http://rihou.cc:555/tv/周杰伦乐抖11
+BEyonD2抖播,http://rihou.cc:555/tv/BEyonD2抖11
+翡翠音乐抖播,http://rihou.cc:555/tv/翡翠音乐抖11
+怀旧音乐抖播,http://rihou.cc:555/tv/怀旧音乐抖11
+怀旧粤语抖播,http://rihou.cc:555/tv/怀旧粤语抖11
+粤语经典抖播,http://rihou.cc:555/tv/粤语经典抖11
+音乐经典抖播,http://rihou.cc:555/tv/音乐经典抖11
+音乐汇乐抖播,http://rihou.cc:555/tv/音乐汇乐抖11
 ⬇️刘德华<今日>演唱会精彩片段⬇️,http://rihou.cc:555/tv/t
 今日演唱会上,http://rihou.cc:555/tv/[mv]今日演上
 今日演唱会中,http://rihou.cc:555/tv/[mv]今日演中
@@ -1756,8 +858,8 @@ BEyonD2抖播,http://rihou.cc:555/tv/BEyonD2抖10
 轧戏之第02集,http://cjx.999315.xyz/yzzy/20260109/10940_4f3fcf17/index.m3u8
 轧戏之第03集,http://cjx.999315.xyz/yzzy/20260109/4075_e3b21256/index.m3u8
 轧戏之第04集,http://cjx.999315.xyz/yzzy/20260109/4076_a3147b88/index.m3u8
-轧戏之第05集
-轧戏之第06集
+轧戏之第05集,http://cjx.999315.xyz/yzzy/20260110/11001_64254db8/index.m3u8
+轧戏之第06集,http://cjx.999315.xyz/yzzy/20260110/11002_30777b47/index.m3u8
 轧戏之第07集
 轧戏之第08集
 轧戏之第09集
@@ -1803,7 +905,7 @@ BEyonD2抖播,http://rihou.cc:555/tv/BEyonD2抖10
 玉茗茶骨20集,http://cjx.999315.xyz/yzzy/20260108/13601_b7ead1d0/index.m3u8
 玉茗茶骨21集,http://cjx.999315.xyz/yzzy/20260108/13602_d7419ae0/index.m3u8
 玉茗茶骨22集,http://cjx.999315.xyz/yzzy/20260109/13635_e87152a7/index.m3u8
-玉茗茶骨23集
+玉茗茶骨23集,http://cjx.999315.xyz/yzzy/20260110/4119_1b69ebed/index.m3u8
 玉茗茶骨24集
 玉茗茶骨25集
 玉茗茶骨26集
@@ -1817,6 +919,54 @@ BEyonD2抖播,http://rihou.cc:555/tv/BEyonD2抖10
 玉茗茶骨34集
 玉茗茶骨35集
 玉茗茶骨36集
+央卫JRtv,#genre#
+CCTV-01JRtv,http://rihou.cc:555/tv/[JR]CCTV-01
+CCTV-02JRtv,http://rihou.cc:555/tv/[JR]CCTV-02
+CCTV-03JRtv,http://rihou.cc:555/tv/[JR]CCTV-03
+CCTV-04JRtv,http://rihou.cc:555/tv/[JR]CCTV-04
+CCTV-05JRtv,http://rihou.cc:555/tv/[JR]CCTV-05
+CCTV-5+JRtv,http://rihou.cc:555/tv/[JR]CCTV-5p
+CCTV-06JRtv,http://rihou.cc:555/tv/[JR]CCTV-06
+CCTV-07JRtv,http://rihou.cc:555/tv/[JR]CCTV-07
+CCTV-08JRtv,http://rihou.cc:555/tv/[JR]CCTV-08
+CCTV-09JRtv,http://rihou.cc:555/tv/[JR]CCTV-09
+CCTV-10JRtv,http://rihou.cc:555/tv/[JR]CCTV-10
+CCTV-11JRtv,http://rihou.cc:555/tv/[JR]CCTV-11
+CCTV-12JRtv,http://rihou.cc:555/tv/[JR]CCTV-12
+CCTV-13JRtv,http://rihou.cc:555/tv/[JR]CCTV-13
+CCTV-14JRtv,http://rihou.cc:555/tv/[JR]CCTV-14
+CCTV-15JRtv,http://rihou.cc:555/tv/[JR]CCTV-15
+CCTV-17JRtv,http://rihou.cc:555/tv/[JR]CCTV-17
+CGTN-英JRtv,http://rihou.cc:555/tv/[JR]CGTN-英
+北京卫视JRtv,http://rihou.cc:555/tv/[JR]北京卫视
+东方卫视JRtv,http://rihou.cc:555/tv/[JR]东方卫视
+浙江卫视JRtv,http://rihou.cc:555/tv/[JR]浙江卫视
+江苏卫视JRtv,http://rihou.cc:555/tv/[JR]江苏卫视
+湖南卫视JRtv,http://rihou.cc:555/tv/[JR]湖南卫视
+广东卫视JRtv,http://rihou.cc:555/tv/[JR]广东卫视
+深圳卫视JRtv,http://rihou.cc:555/tv/[JR]深圳卫视
+天津卫视JRtv,http://rihou.cc:555/tv/[JR]天津卫视
+安徽卫视JRtv,http://rihou.cc:555/tv/[JR]安徽卫视
+山东卫视JRtv,http://rihou.cc:555/tv/[JR]山东卫视
+山西卫视JRtv,http://rihou.cc:555/tv/[JR]山西卫视
+辽宁卫视JRtv,http://rihou.cc:555/tv/[JR]辽宁卫视
+河北卫视JRtv,http://rihou.cc:555/tv/[JR]河北卫视
+河南卫视JRtv,http://rihou.cc:555/tv/[JR]河南卫视
+江西卫视JRtv,http://rihou.cc:555/tv/[JR]江西卫视
+四川卫视JRtv,http://rihou.cc:555/tv/[JR]四川卫视
+重庆卫视JRtv,http://rihou.cc:555/tv/[JR]重庆卫视
+贵州卫视JRtv,http://rihou.cc:555/tv/[JR]贵州卫视
+湖北卫视JRtv,http://rihou.cc:555/tv/[JR]湖北卫视
+广西卫视JRtv,http://rihou.cc:555/tv/[JR]广西卫视
+云南卫视JRtv,http://rihou.cc:555/tv/[JR]云南卫视
+东南卫视JRtv,http://rihou.cc:555/tv/[JR]东南卫视
+海南卫视JRtv,http://rihou.cc:555/tv/[JR]海南卫视
+青海卫视JRtv,http://rihou.cc:555/tv/[JR]青海卫视
+陕西卫视JRtv,http://rihou.cc:555/tv/[JR]陕西卫视
+甘肃卫视JRtv,http://rihou.cc:555/tv/[JR]甘肃卫视
+吉林卫视JRtv,http://rihou.cc:555/tv/[JR]吉林卫视
+内蒙古视JRtv,http://rihou.cc:555/tv/[JR]内蒙古视
+黑龙江视JRtv,http://rihou.cc:555/tv/[JR]黑龙江视
 特区Mttv,#genre#
 有线新闻Mttv,http://rihou.cc:555/tv/[Mt]有线新闻
 无线新闻Mttv,http://rihou.cc:555/tv/[Mt]无线新闻
@@ -1942,7 +1092,6 @@ Astro欢喜sxtv,http://rihou.cc:555/tv/[SX]Astro欢喜
 寰宇新闻Hktv,http://rihou.cc:555/tv/[Hk]寰宇新闻
 东森新闻Hktv,http://rihou.cc:555/tv/[Hk]东森新闻
 中视新闻Hktv,http://rihou.cc:555/tv/[Hk]中视新闻
-tvbS闽南Hktv,http://rihou.cc:555/tv/[Hk]tvbS南闽
 tvbS闽南Hktv,http://rihou.cc:555/tv/[Hk]tvbS闽南
 无线体育Hktv,http://rihou.cc:555/tv/[Hk]无线体育
 有线新闻Hktv,http://rihou.cc:555/tv/[Hk]有线新闻
