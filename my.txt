@@ -1,5 +1,5 @@
 注意事项,#genre#
-20260113032814仅供测试自用如有侵权请通知,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
+20260114034747仅供测试自用如有侵权请通知,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
 猫TV影视,#genre#
 ➡️抖舞陪看⬅️,http://rihou.cc:555/tv/[mv]抖舞陪看
 ➡️白嫖软件⬅️,http://rihou.cc:555/tv/[mv]白嫖软件
@@ -11,71 +11,43 @@
 ➡️爱扒随便⬅️,http://rihou.cc:555/tv/[mv]爱扒随便
 ➡️不必纠结⬅️,http://rihou.cc:555/tv/[mv]不必纠结
 NBA赛评,#genre#
-01-13⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-08:00爵士🆚骑士,http://rihou.cc:555/tv/v
-国🔊13咪评述,http://rihou.cc:555/tv/13NBA咪评述
-国🔊13腾评述,http://rihou.cc:555/tv/13NBA腾评述
-国🔊13腾逸豪,https://txycdn5.video.qq.com/1777302423.m3u8?time=1768262857&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIGUMI_Z6ruHQYgFIkyZuY9tP9fgKIWZN7ZQ0OOEoAnmqEG9eJ4i_7oUS-FM2J-W5h3cBcOL2VijZszJdyvUYN04Vuju3h-pZxSW0Cy6TtYkFAbOkubi8dM7iHrYoAJ0GkXkNgkmOwkblu3yNOJWB2aUM8IqTR0O2ELOX9ntvdUwvp1nZ6pLCclNd2KAm1UIc5w8Uy8jfBkhNcCw2Yc9bqiQcYlsKpICLEu5e9N0vTf3fs98MRD6YSn0iu2HaODvlPv06beFDodeLEUjr4ZfttLq4-ssFMDzMahbDC_4jZI9z1RsppOOCiPIJPyxukcJOkrans_7Y3KhPxUWjaIYErRLOyajgnvMMtIu6vxEoUrV8XLS7FJ4j4bO2F4bThh8NPjdAaKiSHpoS8sBTusOj0wrOEwkdz_on80yIZgp2Qv0Ai0XW9Dam8Aa5Z9tKR57f2yP7xDq8KTRIuqILJJknCeyLlmBvhYCRmX_3CdAjJV0yybSEYTMwJJyyr8qZweWSxw8evDU8emwEZ1I24WE97cLr_muJ2jGFDeMt9TyOFSkZOlKf&drmtype=0
-08:30猛龙🆚76人,http://rihou.cc:555/tv/v
-国🔊13咪述评,http://rihou.cc:555/tv/13NBA咪述评
-国🔊13腾述评,http://rihou.cc:555/tv/13NBA腾述评
-国🔊13腾乘源,https://txycdn4.video.qq.com/1392663723.m3u8?time=1768265321&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIOT535kk5es_v_6E5b1W8WV50FODfqjDZkw91LdsFYzXEAh9Y22ycxgGON2gMmlhv3kBcHFTaXmA0JOO_zlYcj_d4Xdm6sOPB7VAYVPf1j9dzPuq0yLVpsKqedQ-5EoIc5r8iwhvAZLfEJbhTujuMJKV3SfRjWs8XtGCMn18WNl7Ihi8UOJ6vf1kEBdIWSN6oBkeVhEYuLV5GNv5V6nrn3gVfzvQlxkH-4d_0yAxoTANT_RjK-IJ9QwTS84h_vbe9PAlx7BK9dEho_VAOwbCafzfzi7Q73ArJfOEVTUdp9xnFSJo9pSE5_Zs1bpG-Z7fBq9cpEAnMydUx4LHb4WwB2yyztCLMYH4InvPQTU2hrsSQoMINniZdnwDCPiFcqSPl3VzmgGrNDMJbcRG9sSSJpjK--GZijOXxfQJSXAV9xkZnIo3OSjl0G7FistMTfLy7vFF97fBmX5Yin7tnF-u8kAuSNr7RZo3WUk7bLDuztpuctkVCyP1QC4FOGhRa4-zHKSR9nFOaJH8iy2Wd0QFV7VZvWgnj_WJH8HigngL0k8j1hel&drmtype=0
-08:30凯尔特人🆚步行者,http://rihou.cc:555/tv/v
-国🔊13咪评评,http://rihou.cc:555/tv/13NBA咪评评
-国🔊13腾评评,http://rihou.cc:555/tv/13NBA腾评评
-国🔊13腾彭磊,https://txycdn3.video.qq.com/1777302623.m3u8?time=1768264884&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIHk9JB6fjsy1xlCvof3d5mYmWw4LJb1rqIfS_caa-iBjEL7s6-1x1p9U4TiffH-NqoUBcClkZDW_Lh-Gw9WrjXwoZP9HjSUCYQGod5vAUZkWkyyss9pZaS3flPcAIid8vZmJoo7v-tsm6q_MyH1CVKibuQTzSekbnZuQXL3P-dAMj9g9Yot6aaU_K8Mt-BS9GDRx5lxnw9AI4W_5jDGr7VYtic153y-L0uHfQjqpc-svUA4lq8ZMXR0OJJTSBhBUSphv8PF2i5khmE_n6T9E1hrbCdZkC8PLElGtzHzWihCNhLpYoaVSQy1z3hmXXJH2Z2dedsB5SbwXn6_h73rOtlNS6f2ytUGdVzMN0IaTKsVOzcoYstf4lMc1TN7wRxjQNUdSXHd94Z9HV5-2m5tvko1wk-0N1bOwPjmKnhjcAfCJeBF-AjHerBTnsZu0lVZ-hwd_jGbO-LF3XcVB2PIxXDzTTqF_BWUpf_bYaAEEdXKzivZxmvqa0swD_9gOoUHWH-2fH7IlMZNqrbkg3-eQX1XUKOt-XPXgEGe3AIR9jVGkWcgO&drmtype=0
-09:30篮网🆚独行侠,http://rihou.cc:555/t/v
-国🔊13咪述述,http://rihou.cc:555/tv/13NBA咪述述
-国🔊13腾述述,http://rihou.cc:555/tv/13NBA腾述述
-国🔊13腾浩霆,https://mgev.188766.xyz/play?migutoken=3ecc101b14e48c04ee6408387167ab60&id=vESdQJtMBN8Y7tLcHR8MgI6lI5qu5Zs9LyFWWGzDDm6nwydWScLEtiY47PktcfhnbZa2NTD1XfPE01%2Bpbb1nHVoyx5N2rD0Qb9aOE24OzZlEZ0FQneGC19IwC%2FsgBR7qGdq2cJkwixCUCaE%2BgB8lQ0%2FVeIuOHFHEKr7W9%2BC5az9JQzaNkj%2F9EmwX2L43zs7Uy00WW2fSQrcbT8%2BCn6AgAIONh38g33d7tEjo3OizI36w%2F4Jr8OBkOsmey7Kx6vemdLPYBLjOmC1AiMOZg7uezThJpkaZzXYTFghAyeL%2B85VsHHSZaVrXjMMDVm%2BR2c%2FvS4LmKz3ra%2BfWfHOmxQR4Sg%3D%3D&name=46R07BvbLIiZxhQsBZqNHEL1oUMzjzv9dobCLBJgrLOrRsDj7fi3etl%2BYLe8TmGL02dtjUHM2bYxzHT4Blf8Eh%2B1eAexWtvZLsipNnbTzEo%3D
-11:00湖人🆚国王,http://rihou.cc:555/tv/v
-国🔊13咪旁述,http://rihou.cc:555/tv/13NBA咪旁述
-国🔊13腾旁述,http://rihou.cc:555/tv/13NBA腾旁述
-国🔊13腾殳海,https://mgev.188766.xyz/play?migutoken=cf3c1da1ec7fc8274e3d0d91c118a1ec&id=UsGHvj8nFX%2Bq21CgYdjOYZsLRg%2F8XiR06NK0JCkMrLnjQMWPJg5Pu8EydosKioCN%2B34mdO1G6QBJpFQZC0tzFGzRaby5ZovwnKtgCzjWt6yUJr4Lf5rXZ4o9QzT1l%2Bj%2F3q4tLRF3g6c0FTH5GK%2FQ6KUs73LmctQq6CeTEEH2Yo7gG%2B7JXKh8DwWxjprsju%2FYb1SwxGmNP1WxpDID2Xaw4CZdziizlC3UdKyJ76%2BoMB%2FRFaYeQtfFT0uEk1t4hun84e44H5mscnyccxCF0Vg8dbXMRsrE%2B2Psc9KHwrsNV3Oq8S455X9eJCkvkcEcEst2B3V%2BjTjaQJU6DAjgubqjiw%3D%3D&name=lpKToOq98qWihjRRwhE5u36zPQRePn%2F3MY%2B4hxsDr6w1YRW7fUw8YUVNloU%2B7gvQboPJJnQwyQqQQBgjtfuuWbGaz79P8kMa5jbWF3YQKCTDwwxZKKSFM7N4%2B%2BZp4qYr
-11:30黄蜂🆚快船,http://rihou.cc:555/tv/v
-国🔊13咪述旁,http://rihou.cc:555/tv/13NBA咪述旁
-国🔊13腾述旁,http://rihou.cc:555/tv/13NBA腾述旁
-国🔊13腾兆丰,https://mgev.188766.xyz/play?migutoken=0c42ec4a687c93130f3641884f37ee86&id=w4URIr%2BNlhfeNVUsIvmCZpYiYoeEXD%2FkbHkr%2FmQpQItVO9QH1cYEbkYqapN%2FIKztHs0193zd7sFGHx9W0kF%2FfAItL5F2SowEEWNkkfr0ppqUmLReQM%2F%2FvfaGCDXnoZ6LddvcuRtkozh2Lgo0OEK6A%2BT0stkVUkgqFjo81dWlsot8d89s4Pe2FBsLT814eMAMBkAs43rSekuAxkXciPRJr%2B8foiaIZBttEfI3iR3Iobf96p0Ci10PBM4f2VulT4T1RINn7rgIWJRRD5s63MSirEY8ZE7Vu8tfPZdYcrAgQMZR5v%2BahHzaLxKnQX1mieEAXOBm3BZQNaf%2BAWU0waD65A%3D%3D&name=IGF3fqL4Nc%2FYWsA3b3QQUtg4wC9vgVHWBsZFCOTXAHcldGH4O%2BzfKV2rktrYA6N8wohVWOty1AMeYrzLQQJERlKjtql6gQ8PYRrUKHuk16eDzljV54PI3e6I4OeefyOa
 01-14⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 08:30太阳🆚热火,http://rihou.cc:555/tv/v
 国🔊14咪评述,http://rihou.cc:555/tv/14NBA咪评述
 国🔊14腾评述,http://rihou.cc:555/tv/14NBA腾评述
+国🔊14腾丁楠,https://mgev.188766.xyz/play?migutoken=570a267f3263642824e74b8f7af4db36&id=aKxZwvrP8TQCuddAelg9VVP%2BTuilirsyNyUUchMC6vo1GMplwZqvrR6NuoCvk%2BnLvuOSeliL4wt1l7ywxBmGJMV8Is62xwIEmCtV0I7zDbeBmBR29I4MImhGkffaQdb8lA1PlH2Y4VKqrA8CQHf0jeausBeXXAzjppbdRCAiTXJFlRBuPk9EHlDTTEGPwO%2FikYVpfI3adAw7GTV0PDoE7ZM7Iz62TOcyW4zSFGEWwwXHRmoc5qRHVbU3LPIFtfKWNnsuYXlplZxYCgb2AY%2BHe4NP7umKM%2FRP%2FRfl5Yi4jhXI4P04VjdRNAArqWjuiCx1tArPwvwjQyUF3eufXbLY9A%3D%3D&name=v2LbzQ%2BJ5GFdBcOaHOJpkgrUwpgYCQUwVWcoBDol7PMAXHp3vYn4pgAnTgTFEVB9U5t%2FPtM464GB0HHEIiFjnYMTHScCONY8vIS1iwh7Eek%3D
 09:00掘金🆚鹈鹕,http://rihou.cc:555/tv/v
 国🔊14咪述评,http://rihou.cc:555/tv/14NBA咪述评
 国🔊14腾述评,http://rihou.cc:555/tv/14NBA腾述评
+国🔊14腾雪儿,https://txycdn.video.qq.com/1392684823.m3u8?time=1768353179&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgILIypt_sE9oJCFrQa8xu67vRkgPOyH-2URZSeigGKnF2EFlXMqXfFzQm6AlMGfI82hIBcHVJVooamE3Qx7d1tFjqRK7xHnATx891u4paxPaBhOFEI3z7xBC5nm1M4UYM9j5UGAqs0bmENrGj-9ZPX9g798HxvjeBY0_R0kzAK3-yzqDcZplxL4lKPgEDiS1V6w0ZPnaVgC6aY57HwtWSABmfeePmip1Pq40uGhbC7QR2DH4Sog9-Qp63_JidgIvlFe_Z3W5j9iX2h1GrnrfxJ-XPRVgQ4tzjKvONgCm1OL7EohDb8pZRrSxC7qs-9jVrr3xmp2U5-8C-mHqSOgxRfE1nl4k7QH_QbPifN7s7JxflQbmwRDMgsg2hk1pVG3WUhQVf8xo_VCxbfPLO6cIMPz0itmIe600-ftW2DOx66Eh_OCUkudzJqMz50WFRVGqhtAhy9Ac3WWOXmZxLboFLlxxd_cb4laZcC8kZB0vB_UYAms8kA2aI6fipBO9IblVQ_jHQnYvpa1KpjNfnpE-DD4BLoHhwB-fDQuX5QixTTnHyxCoi&drmtype=0
 09:00木狼🆚雄鹿,http://rihou.cc:555/t/v
 国🔊14咪评评,http://rihou.cc:555/tv/14NBA咪评评
 国🔊14腾评评,http://rihou.cc:555/tv/14NBA腾评评
+国🔊14腾逸豪,https://txycdn5.video.qq.com/1777322323.m3u8?time=1768353103&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIPO0S06323tn41gzBLBLrP1bFrjRGschCQ3D-E1pEZrHENplpUO-iVYNMABY9EmQPicBcOiZFQ4yj_cLHGkeZAm8ltt7ywJKz5PRti5Lu1Go_FcOEnFelnS5m-pKd5CRz18mSSKOfn5tIzYSnVPemelQANAsg_90RJ6HXYvFvP883XHJp8TyyhCUHvvJyUv6NRsPGlx55ABYBO8eD14cMwJH1WSz7iTttpKytM6CVEdNfeI9Rb3vHK0SYPPwZenP_tAsCNtY9AuPitqiBJVnj9I8qQUwa1JPw8F_R_Lr-zh7YtqINz5Slhyt2i7ajLn3Hd6Rqxm-UA-eTy0kOBxc_Q8NVSBXrZy1qZcUEv6BeO3t-KWZnZs3oYYDFNMBuQrwFIZjQf6uR8gL-5IVnh_YDGJzs-nojic9RhQEQ4qbSHJknoxXttoYo85zzEgHExv2uVf6jOy4yAZaODd593zu8viD0IJxAU5Bs6L04nOtD4ZV0I8qux2_EbBqC9x6FptaNePdTRQw2_cEC9831BcJx427kGqC57esl0Z-0dBSZOz7Be30&drmtype=0
 09:00马刺🆚雷霆,http://rihou.cc:555/tv/v
 国🔊14咪述述,http://rihou.cc:555/tv/14NBA咪述述
 国🔊14腾述述,http://rihou.cc:555/tv/14NBA腾述述
+国🔊14腾乘源,https://txycdn.video.qq.com/1392735523.m3u8?time=1768352912&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIOQccQdGJrCaY3-E3pmavFZbl3cwyyxj_U-W3ZhE8jKgEDzY_TNeyod4NLRNf3dZEJUBcNKZtw_TPXAYSVPhvLh7tgynPuFcItqm4ZF-zRq5RqkZZLQ6i685XxZW2VBXFVFPjWV0YV6qb2CkfRgAypWBBUyTeGDKLeWTRPAddxiiOa08ga7srS0M4brzdM8PhUaOa5D8XIlQ0cdfXqSJFgtq-B6Ep0TbeH9jo343EYEkmDfn1chtehdPXWPvmQLRmv4C_4I82fYKh3GykcsCxlM2I465_Cmj1HojayJq-4qiAy50_FvdW5q5p6ebnXzRix5-VqGaLhLsK1Y-jddaXnpKAVCgEJlmkwBPl6LTSTN-mHW-Z_GCnWy_9Svy3b5p3vFo8H4ITy4tJFCYq2PmMBdtgOA1UhEIvIjnVRYma6NxuhkqeMQNtlVNtb15zYVdxoF18qhsP4sAKMDLrBgJ3vICS_pgaJ7FQKtMQO3kK2adXsEbaIybxvBcI4AkkWQTJdqjtv3QaQnlDa5rTT4SaS6kK2AQngqG76taLZjKUwpUUu75&drmtype=0
 09:00公牛🆚火箭,http://rihou.cc:555/tv/v
 国🔊14咪旁述,http://rihou.cc:555/tv/14NBA咪旁述
 国🔊14腾旁述,http://rihou.cc:555/tv/14NBA腾旁述
+国🔊14腾嘉琦,https://txycdn1.video.qq.com/1777368223.m3u8?time=1768353503&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIJJde8TpNzZDbYYCHp8Bju454-uz_rhsZQnZ9E4r49mUEABOfAj5MDsfz9F78WXwJW8BcE6Lck5A9qXiD30AVB-Vbtki6DedT0HIn6xWt2AoGGL6ZvuThHQqYlYsMMHEPswYgE8o07q8En-PyqIi-kzNduDJ9HcoKtLkss-rTiUhDPOWf_34YcZ8ouoF7f8LVWRj1yKAIDLV2bnrF19UMiuvZPuVeELLibWSdfkBL4Cm5j6qHuONE90gB8JIZFAhlxCjzcOxp9L-eQFNnm2xG93C2au3hvZs8gd5qZa4qG3Q5QuIzdLYBWDlPwG8NYuNzL-IiM1Npw0GfTUyEqbnBTH_FwYGDqHfDyZT_mw6urOk8m-STPX2iOlgT_7A_zwftbctWtnL0pY_puskbWWvJ606P5-n1C7BHXhQhW4uiI6tdEG2AZC6PUqpqlN-G9VrAuGBdgsd1rfYTOjWz1WwrlrkXHAMNjOC05-SpgRGfhHb9wAWggBngvquxW7MwAXfj5hHUg-z2sbq7esxViX1O7zmCPUbOKD3p5hdJ74mf_pWjplW&drmtype=0
 11:30老鹰🆚湖人,http://rihou.cc:555/tv/v
 国🔊14咪述旁,http://rihou.cc:555/tv/14NBA咪述旁
 国🔊14腾述旁,http://rihou.cc:555/tv/14NBA腾述旁
+国🔊14腾柯凡,https://mgev.188766.xyz/play?migutoken=87dcfb75256df73b6524ac0ecc7a12ce&id=LL78iRKTDrhePGzD1tWmfhhZodxaeoWTGBWCA5qXns6a9yMCD1yDcpyA2FNZxGOeSnIxtq6IkfSmw2nX%2B0kSwBZmvbksKnlb8Hu5PBurKTZ%2FqVNp5FIwsKf2o6M6p%2BfGCENySANWKN2Ebo7AtxlWvW4Jn20TZVljE19R39RGNMFoj8ZLSYa5K85GNRAz%2BcikNjoO0Tl%2FFoRlZKXy2PDvT%2Bqt1dJAq2OlAA7DW7YTWRFpRiRVZnpj4RYTjh3gdMczy6iPvHLm%2BLF8VIR4Ei0oRJeeDjbsIy9cGTITytkbleMY74CUlm1IxBErI4CWNerp27s5TMKyXPFdG1gi7aoFJA%3D%3D&name=yBeHEo7MupO%2BAjilXfF%2FsdKUKOO7aDhckKA%2B7WbRVf131xBGKFwrXsJOyIg8LwHFdl2KC2OKHgakeJf0A3luAZoHLEO77AEaJXu4pguwVnb9luLGodYNdtHxJNiCCoif
 12:00勇士🆚开拓者,http://rihou.cc:555/tv/v
 国🔊14咪旁旁,http://rihou.cc:555/tv/14NBA咪旁旁
 国🔊14腾旁旁,http://rihou.cc:555/tv/14NBA腾旁旁
+国🔊14腾段冉,https://mgev.188766.xyz/play?migutoken=1eca619e514d89073f97850b1efc2f8e&id=6foa1sFzbSihu1X%2Fftj0jjcCK5wZJREJDAA4J%2BSczROFSqO3ZKAEOyAhnAOguXqePYlDQsZ0ZVEl1lbet42SCOnnkdzrui3VdAKBj%2B7AlC39863yXVJHCJcDTWP2FEPtVZtUkOjl30v600ai7ZIeMiCBHoXg%2B%2BxR3bv1tUpD7OU4%2BgR1b3tx3GoMLVBqhQ4rRzJQKQsAi9jCAnQS49yGHc80KVdDcli0o2FqsgFBteFgJuQkKlAuptIc41U%2BMXDTEnPvd0hyNHR2HnDI58TniqXeQ%2BeAQLyjjCZ9pTOG81LL2LCdVNVIGrzq0sgK2IHmVvD5GuinRS53rk%2F%2Fi4nNlQ%3D%3D&name=Mlwn6MIvhpArNlj%2FBe5jxSX7%2BSqRY9DHGWGV54kOO8DshwsNGyBcKOLYX8bOCaaeYyxXelIw1YPF%2FgeKeFDs4m5F7CmB1kj2F0vRATqahU7wPZag8WhdnAyzpp%2FO0oZF
+亚杯赛评,#genre#
+01-14⬇️U23亚洲杯小组赛⬇️⚽📡,http://rihou.cc:555/tv/t
+19:30中国U23🆚泰国U23,http://rihou.cc:555/tv/v
+国🔊14咪评述,http://rihou.cc:555/tv/14亚杯咪评述
+01-11⬇️U23亚洲杯小组赛⬇️⚽📡,http://rihou.cc:555/tv/t
+19:30中国U23🆚澳大利亚U23,http://rihou.cc:555/tv/v
+国🔊赛事回放,http://rihou.cc:555/tv/11亚杯赛事回放
 CBA赛评,#genre#
-01-13⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-19:35广东阳光🆚南京天蓝,http://rihou.cc:555/tv/v
-粤🔊丁伟杰述,http://rihou.cc:555/tv/13CBA丁伟杰
-粤🔊广东体育,http://rihou.cc:555/tv/[Cx]广东体育
-国🔊13抖评述,http://rihou.cc:555/tv/13CBA抖评述
-19:35宁波町渥🆚山西汾酒,http://rihou.cc:555/tv/v
-国🔊13抖述评,http://rihou.cc:555/tv/13CBA抖述评
-19:35辽宁本钢🆚青岛崂山,http://rihou.cc:555/tv/v
-国🔊13抖评评,http://rihou.cc:555/tv/13CBA抖评评
-19:35山东高速🆚长白山恩,http://rihou.cc:555/tv/v
-国🔊13抖述述,http://rihou.cc:555/tv/13CBA抖述述
-19:35深圳马可🆚上海久事,http://rihou.cc:555/tv/v
-国🔊13抖旁述,http://rihou.cc:555/tv/13CBA抖旁述
-19:35北京北汽🆚江苏肯帝,http://rihou.cc:555/tv/v
-国🔊13抖述旁,http://rihou.cc:555/tv/13CBA抖述旁
-20:00新疆伊力🆚浙江方兴,http://rihou.cc:555/tv/v
-国🔊13抖旁旁,http://rihou.cc:555/tv/13CBA抖旁旁
 01-14⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 19:35广州朗肽🆚浙江稠州,http://rihou.cc:555/tv/v
 粤'🔊丁伟杰述,http://rihou.cc:555/tv/14CBA丁伟杰
@@ -84,9 +56,6 @@ CBA赛评,#genre#
 19:35天津行者🆚福建晋江,http://rihou.cc:555/tv/v
 国🔊14抖述评,http://rihou.cc:555/tv/14CBA抖述评
 WCBA赛,#genre#
-01-13⬇️WCBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-19:30合肥文旅🆚厦门环东文旅,http://rihou.cc:555/tv/v
-国🔊13咪评述,http://rihou.cc:555/tv/13WCBA咪评述
 01-14⬇️WCBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 19:30河南豫光金铅🆚辽宁大连体产,http://rihou.cc:555/tv/v
 国🔊14咪评述,http://rihou.cc:555/tv/14WCBA咪评述
@@ -98,24 +67,17 @@ WCBA赛,#genre#
 国🔊14咪述述,http://rihou.cc:555/tv/14WCBA咪述述
 19:30江苏南钢🆚新疆天山,http://rihou.cc:555/tv/v
 国🔊14咪旁述,http://rihou.cc:555/tv/14WCBA咪旁述
-亚杯赛评,#genre#
-01-11⬇️U23亚洲杯小组赛⬇️⚽📡,http://rihou.cc:555/tv/t
-19:30中国U23🆚澳大利亚U23,http://rihou.cc:555/tv/v
-国🔊赛事回放,http://rihou.cc:555/tv/11亚杯赛事回放
-01-14⬇️U23亚洲杯小组赛⬇️⚽📡,http://rihou.cc:555/tv/t
-19:30中国U23🆚泰国U23,http://rihou.cc:555/tv/v
-国🔊14咪评述,http://rihou.cc:555/tv/14亚杯咪评述
 赛事精锦,#genre#
 ⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
-联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛13
-NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛13
-羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛13
-橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛13
-乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛13
-网球赛事回放,http://rihou.cc:555/tv/网球回放赛13
-排球赛事回放,http://rihou.cc:555/tv/排球回放赛13
-格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛13
-斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛13
+联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛14
+NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛14
+羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛14
+橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛14
+乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛14
+网球赛事回放,http://rihou.cc:555/tv/网球回放赛14
+排球赛事回放,http://rihou.cc:555/tv/排球回放赛14
+格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛14
+斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛14
 赛事咪咕,#genre#
 抖姐舞陪你看,http://rihou.cc:555/tv/t
 赛事睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=3869e7bc3869e7bc3869e7bc3869e7bc
@@ -676,27 +638,27 @@ WWE_格斗高,http://hls-pull-wicketpw.speedws.com/live/3JDxwxlOhKPG8gzPR4f4zilI
 经典怀旧频道,https://pull.dxhmt.cn/tv/168666456yinyue123477.flv
 经典音乐频道,https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 欣赏音乐,#genre#
-⬇️凯乔电台⬇️,video://http://rihou.cc:555/tv/dt
-[21-24]抖直播,http://rihou.cc:555/tv/凯乔电台抖13
-[21-24]抖直播,video://http://rihou.cc:555/tv/dt
-⬇️全天直播⬇️,video://http://rihou.cc:555/tv/mu13
-音乐库播抖播,video://http://rihou.cc:555/tv/mu13
-音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖13
-粤语讲故抖播,http://rihou.cc:555/tv/粤语讲故抖13
-经典老歌抖播,http://rihou.cc:555/tv/经典老歌抖13
-经典旧歌抖播,http://rihou.cc:555/tv/经典旧歌抖13
-谭咏麟乐抖播,http://rihou.cc:555/tv/谭咏麟乐抖13
-张学友乐抖播,http://rihou.cc:555/tv/张学友乐抖13
-刘德华乐抖播,http://rihou.cc:555/tv/刘德华乐抖13
-周杰伦乐抖播,http://rihou.cc:555/tv/周杰伦乐抖13
-BEYOND'抖播,http://rihou.cc:555/tv/BEYOND抖13
-BEyonD2抖播,http://rihou.cc:555/tv/BEyonD2抖13
-翡翠音乐抖播,http://rihou.cc:555/tv/翡翠音乐抖13
-怀旧音乐抖播,http://rihou.cc:555/tv/怀旧音乐抖13
-怀旧粤语抖播,http://rihou.cc:555/tv/怀旧粤语抖13
-粤语经典抖播,http://rihou.cc:555/tv/粤语经典抖13
-音乐经典抖播,http://rihou.cc:555/tv/音乐经典抖13
-音乐汇乐抖播,http://rihou.cc:555/tv/音乐汇乐抖13
+⬇️凯乔电台⬇️,video://http://rihou.cc:555/tv/dt14
+[21-24]抖直播,http://rihou.cc:555/tv/凯乔电台抖14
+[21-24]抖直播,video://http://rihou.cc:555/tv/dt14
+⬇️全天直播⬇️,video://http://rihou.cc:555/tv/mu14
+音乐库播抖播,video://http://rihou.cc:555/tv/mu14
+音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖14
+粤语讲故抖播,http://rihou.cc:555/tv/粤语讲故抖14
+经典老歌抖播,http://rihou.cc:555/tv/经典老歌抖14
+经典旧歌抖播,http://rihou.cc:555/tv/经典旧歌抖14
+谭咏麟乐抖播,http://rihou.cc:555/tv/谭咏麟乐抖14
+张学友乐抖播,http://rihou.cc:555/tv/张学友乐抖14
+刘德华乐抖播,http://rihou.cc:555/tv/刘德华乐抖14
+周杰伦乐抖播,http://rihou.cc:555/tv/周杰伦乐抖14
+BEYOND'抖播,http://rihou.cc:555/tv/BEYOND抖14
+BEyonD2抖播,http://rihou.cc:555/tv/BEyonD2抖14
+翡翠音乐抖播,http://rihou.cc:555/tv/翡翠音乐抖14
+怀旧音乐抖播,http://rihou.cc:555/tv/怀旧音乐抖14
+怀旧粤语抖播,http://rihou.cc:555/tv/怀旧粤语抖14
+粤语经典抖播,http://rihou.cc:555/tv/粤语经典抖14
+音乐经典抖播,http://rihou.cc:555/tv/音乐经典抖14
+音乐汇乐抖播,http://rihou.cc:555/tv/音乐汇乐抖14
 ⬇️刘德华<今日>演唱会精彩片段⬇️,http://rihou.cc:555/tv/t
 今日演唱会上,http://rihou.cc:555/tv/[mv]今日演上
 今日演唱会中,http://rihou.cc:555/tv/[mv]今日演中
@@ -839,8 +801,8 @@ BEyonD2抖播,http://rihou.cc:555/tv/BEyonD2抖13
 轧戏之第08集,http://cjx.999315.xyz/yzzy/20260111/11080_3f13cf4d/index.m3u8
 轧戏之第09集,http://cjx.999315.xyz/yzzy/20260112/4317_d290dc6c/index.m3u8
 轧戏之第10集,http://cjx.999315.xyz/yzzy/20260112/4318_3e6ad89f/index.m3u8
-轧戏之第11集
-轧戏之第12集
+轧戏之第11集,http://cjx.999315.xyz/yzzy/20260113/11239_178930ab/index.m3u8
+轧戏之第12集,http://cjx.999315.xyz/yzzy/20260113/11240_dc2ff5f1/index.m3u8
 轧戏之第13集
 轧戏之第14集
 轧戏之第15集
@@ -884,8 +846,8 @@ BEyonD2抖播,http://rihou.cc:555/tv/BEyonD2抖13
 玉茗茶骨24集,http://cjx.999315.xyz/yzzy/20260111/13761_0e78a1b0/index.m3u8
 玉茗茶骨25集,http://cjx.999315.xyz/yzzy/20260112/4255_87db7e71/index.m3u8
 玉茗茶骨26集,http://cjx.999315.xyz/yzzy/20260112/4256_ec99dd0b/index.m3u8
-玉茗茶骨27集
-玉茗茶骨28集
+玉茗茶骨27集,http://cjx.999315.xyz/yzzy/20260113/11210_de1b8f4b/index.m3u8
+玉茗茶骨28集,http://cjx.999315.xyz/yzzy/20260113/11211_68dfff28/index.m3u8
 玉茗茶骨29集
 玉茗茶骨30集
 玉茗茶骨31集
@@ -1640,150 +1602,150 @@ EYE-戏剧斯特,https://smt.go-iptv.ggff.net/smart.php?id=eyetvxiju_twn&token=G
 MTv高清斯特,https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
 Discover斯特,https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=Goiptv
 央卫频特,#genre#
-CCTV-01频特,http://huanqiuzhibo.cn/smart.php?id=cctv1
-CCTV-02频特,http://huanqiuzhibo.cn/smart.php?id=cctv2
-CCTV-03频特,http://huanqiuzhibo.cn/smart.php?id=cctv3
-CCTV-04频特,http://huanqiuzhibo.cn/smart.php?id=Cctv4
-CCTV-04频特,http://huanqiuzhibo.cn/smart.php?id=cctv4
-CCTV-05频特,http://huanqiuzhibo.cn/smart.php?id=cctv5
-CCTV-5+频特,http://huanqiuzhibo.cn/smart.php?id=cctv5plus
-CCTV-06频特,http://huanqiuzhibo.cn/smart.php?id=cctv6
-CCTV-07频特,http://huanqiuzhibo.cn/smart.php?id=cctv7
-CCTV-08频特,http://huanqiuzhibo.cn/smart.php?id=cctv8hd
-CCTV-09频特,http://huanqiuzhibo.cn/smart.php?id=cctv9hd
-CCTV-10频特,http://huanqiuzhibo.cn/smart.php?id=cctv10hd
-CCTV-11频特,http://huanqiuzhibo.cn/smart.php?id=cctv11
-CCTV-12频特,http://huanqiuzhibo.cn/smart.php?id=cctv12
-CCTV-13频特,http://huanqiuzhibo.cn/smart.php?id=cctv13
-CCTV-14频特,http://huanqiuzhibo.cn/smart.php?id=cctv14
-CCTV-15频特,http://huanqiuzhibo.cn/smart.php?id=cctv15
-CGTN_英频特,http://huanqiuzhibo.cn/smart.php?id=CGTN
-北京卫视频特,http://huanqiuzhibo.cn/smart.php?id=beijing
-深圳卫视频特,http://huanqiuzhibo.cn/smart.php?id=shenzhen
-广西卫视频特,http://huanqiuzhibo.cn/smart.php?id=guangxi
-湖北卫视频特,http://huanqiuzhibo.cn/smart.php?id=hubei
-东南卫视频特,http://huanqiuzhibo.cn/smart.php?id=fujian
-广东珠江频特,http://huanqiuzhibo.cn/smart.php?id=zhujiang
+CCTV-01频特,http://96.44.160.246:9999/smt.php?id=cctv1
+CCTV-02频特,http://96.44.160.246:9999/smt.php?id=cctv2
+CCTV-03频特,http://96.44.160.246:9999/smt.php?id=cctv3
+CCTV-04频特,http://96.44.160.246:9999/smt.php?id=Cctv4
+CCTV-04频特,http://96.44.160.246:9999/smt.php?id=cctv4
+CCTV-05频特,http://96.44.160.246:9999/smt.php?id=cctv5
+CCTV-5+频特,http://96.44.160.246:9999/smt.php?id=cctv5plus
+CCTV-06频特,http://96.44.160.246:9999/smt.php?id=cctv6
+CCTV-07频特,http://96.44.160.246:9999/smt.php?id=cctv7
+CCTV-08频特,http://96.44.160.246:9999/smt.php?id=cctv8hd
+CCTV-09频特,http://96.44.160.246:9999/smt.php?id=cctv9hd
+CCTV-10频特,http://96.44.160.246:9999/smt.php?id=cctv10hd
+CCTV-11频特,http://96.44.160.246:9999/smt.php?id=cctv11
+CCTV-12频特,http://96.44.160.246:9999/smt.php?id=cctv12
+CCTV-13频特,http://96.44.160.246:9999/smt.php?id=cctv13
+CCTV-14频特,http://96.44.160.246:9999/smt.php?id=cctv14
+CCTV-15频特,http://96.44.160.246:9999/smt.php?id=cctv15
+CGTN_英频特,http://96.44.160.246:9999/smt.php?id=CGTN
+北京卫视频特,http://96.44.160.246:9999/smt.php?id=beijing
+深圳卫视频特,http://96.44.160.246:9999/smt.php?id=shenzhen
+广西卫视频特,http://96.44.160.246:9999/smt.php?id=guangxi
+湖北卫视频特,http://96.44.160.246:9999/smt.php?id=hubei
+东南卫视频特,http://96.44.160.246:9999/smt.php?id=fujian
+广东珠江频特,http://96.44.160.246:9999/smt.php?id=zhujiang
 特区频特,#genre#
-Plus综合频特,http://huanqiuzhibo.cn/smart.php?id=j2_twn
-凤凰中文频特,http://huanqiuzhibo.cn/smart.php?id=phoenixtv_hd
-凤凰资讯频特,http://huanqiuzhibo.cn/smart.php?id=phoenixinfo_hd
-凤凰香港频特,http://huanqiuzhibo.cn/smart.php?id=hkphoenix_twn
-中天新闻频特,http://huanqiuzhibo.cn/smart.php?id=ctinews
-有线新闻频特,http://huanqiuzhibo.cn/smart.php?id=hoycaijing_twn
-无线新闻频特,http://huanqiuzhibo.cn/smart.php?id=inews_twn
-无线翡翠频特,http://huanqiuzhibo.cn/smart.php?id=jade_twn
-无线翡翠频特,http://huanqiuzhibo.cn/smart.php?id=Jade_xue
-无线翡翠频特,http://huanqiuzhibo.cn/smart.php?id=Tvbjade
-无线华丽粤特,http://huanqiuzhibo.cn/smart.php?id=Wlt
-无线华丽国特,http://huanqiuzhibo.cn/smart.php?id=Tvbjade
-无线明珠频特,http://huanqiuzhibo.cn/smart.php?id=pearl_twn
-无线娱乐频特,http://huanqiuzhibo.cn/smart.php?id=Tvbentertainment
-千禧经典频特,http://huanqiuzhibo.cn/smart.php?id=Tvbclassic
-VIUTV'粤频特,http://huanqiuzhibo.cn/smart.php?id=viu1_twn
-VIUTV英频特,http://huanqiuzhibo.cn/smart.php?id=viusix_twn
-RTHK-31频特,http://huanqiuzhibo.cn/smart.php?id=rhk31_twn
-RTHK-32频特,http://huanqiuzhibo.cn/smart.php?id=rhk32_twn
-天映频道粤特,http://huanqiuzhibo.cn/smart.php?id=ctv18_twn
-天映频道国特,http://huanqiuzhibo.cn/smart.php?id=Celestial
-天映频道闽特,http://huanqiuzhibo.cn/smart.php?id=Celestialindo
-天映经典频特,http://huanqiuzhibo.cn/smart.php?id=Celestial2
-美亚电影频特,http://huanqiuzhibo.cn/smart.php?id=meiyamovie_twn
-龙祥电影频特,http://huanqiuzhibo.cn/smart.php?id=lungxiangtime_twn
-纬来电影频特,http://huanqiuzhibo.cn/smart.php?id=videolandmovie
-新加CHU频特,http://huanqiuzhibo.cn/smart.php?id=ChannelU
-新加CH5频特,http://huanqiuzhibo.cn/smart.php?id=Channel5HD
-新加CH8频特,http://huanqiuzhibo.cn/smart.php?id=Channel8HD
-Astr爱奇频特,http://huanqiuzhibo.cn/smart.php?id=Qiyi
-AstrQJ国频特,http://huanqiuzhibo.cn/smart.php?id=Quanjia
-astroaod频特,http://huanqiuzhibo.cn/smart.php?id=Aodhd
-Astroaec频特,http://huanqiuzhibo.cn/smart.php?id=AEC
-Astr欢喜频特,http://huanqiuzhibo.cn/smart.php?id=Huahee
+Plus综合频特,http://96.44.160.246:9999/smt.php?id=j2_twn
+凤凰中文频特,http://96.44.160.246:9999/smt.php?id=phoenixtv_hd
+凤凰资讯频特,http://96.44.160.246:9999/smt.php?id=phoenixinfo_hd
+凤凰香港频特,http://96.44.160.246:9999/smt.php?id=hkphoenix_twn
+中天新闻频特,http://96.44.160.246:9999/smt.php?id=ctinews
+有线新闻频特,http://96.44.160.246:9999/smt.php?id=hoycaijing_twn
+无线新闻频特,http://96.44.160.246:9999/smt.php?id=inews_twn
+无线翡翠频特,http://96.44.160.246:9999/smt.php?id=jade_twn
+无线翡翠频特,http://96.44.160.246:9999/smt.php?id=Jade_xue
+无线翡翠频特,http://96.44.160.246:9999/smt.php?id=Tvbjade
+无线华丽粤特,http://96.44.160.246:9999/smt.php?id=Wlt
+无线华丽国特,http://96.44.160.246:9999/smt.php?id=Tvbjade
+无线明珠频特,http://96.44.160.246:9999/smt.php?id=pearl_twn
+无线娱乐频特,http://96.44.160.246:9999/smt.php?id=Tvbentertainment
+千禧经典频特,http://96.44.160.246:9999/smt.php?id=Tvbclassic
+VIUTV'粤频特,http://96.44.160.246:9999/smt.php?id=viu1_twn
+VIUTV英频特,http://96.44.160.246:9999/smt.php?id=viusix_twn
+RTHK-31频特,http://96.44.160.246:9999/smt.php?id=rhk31_twn
+RTHK-32频特,http://96.44.160.246:9999/smt.php?id=rhk32_twn
+天映频道粤特,http://96.44.160.246:9999/smt.php?id=ctv18_twn
+天映频道国特,http://96.44.160.246:9999/smt.php?id=Celestial
+天映频道闽特,http://96.44.160.246:9999/smt.php?id=Celestialindo
+天映经典频特,http://96.44.160.246:9999/smt.php?id=Celestial2
+美亚电影频特,http://96.44.160.246:9999/smt.php?id=meiyamovie_twn
+龙祥电影频特,http://96.44.160.246:9999/smt.php?id=lungxiangtime_twn
+纬来电影频特,http://96.44.160.246:9999/smt.php?id=videolandmovie
+新加CHU频特,http://96.44.160.246:9999/smt.php?id=ChannelU
+新加CH5频特,http://96.44.160.246:9999/smt.php?id=Channel5HD
+新加CH8频特,http://96.44.160.246:9999/smt.php?id=Channel8HD
+Astr爱奇频特,http://96.44.160.246:9999/smt.php?id=Qiyi
+AstrQJ国频特,http://96.44.160.246:9999/smt.php?id=Quanjia
+astroaod频特,http://96.44.160.246:9999/smt.php?id=Aodhd
+Astroaec频特,http://96.44.160.246:9999/smt.php?id=AEC
+Astr欢喜频特,http://96.44.160.246:9999/smt.php?id=Huahee
 闽南频特,#genre#
-东森新闻频特,http://huanqiuzhibo.cn/smart.php?id=ettvnews
-寰宇新闻频特,http://huanqiuzhibo.cn/smart.php?id=huanyuxinwen_twn
-tvbs新闻频特,http://huanqiuzhibo.cn/smart.php?id=tvbs_n
-年代新闻频特,http://huanqiuzhibo.cn/smart.php?id=niandainews_twn
-民视新闻频特,http://huanqiuzhibo.cn/smart.php?id=ftvnew_taiwan
-中视新闻频特,http://huanqiuzhibo.cn/smart.php?id=zhongshinews_twn
-台视新闻频特,http://huanqiuzhibo.cn/smart.php?id=ttvnews_twn
-非凡新闻频特,http://huanqiuzhibo.cn/smart.php?id=feifannews_twn
-民视闽南频特,http://huanqiuzhibo.cn/smart.php?id=ftvhd_taiwan
-中视闽南频特,http://huanqiuzhibo.cn/smart.php?id=zhongshihd_twn
-华视闽南频特,http://huanqiuzhibo.cn/smart.php?id=ctshd_twn
-台视闽南频特,http://huanqiuzhibo.cn/smart.php?id=ttv_taiwan
-tvbs闽南频特,http://huanqiuzhibo.cn/smart.php?id=tvbs
-tvbs欢乐频特,http://huanqiuzhibo.cn/smart.php?id=tvbshuanle_twn
-民视第一频特,http://huanqiuzhibo.cn/smart.php?id=lunghuajingdian_twn
-民视台湾频特,http://huanqiuzhibo.cn/smart.php?id=ftvtaiwan_twn
-中视经典频特,http://huanqiuzhibo.cn/smart.php?id=zhongshi_twn
-公视台语频特,http://huanqiuzhibo.cn/smart.php?id=ctv2_twn
-台视综合频特,http://huanqiuzhibo.cn/smart.php?id=ttvzhonghe
-中天娱乐频特,http://huanqiuzhibo.cn/smart.php?id=ctient
-中天综合频特,http://huanqiuzhibo.cn/smart.php?id=ctizhonghe
-中天亚洲频特,http://huanqiuzhibo.cn/smart.php?id=ctiasia_twn
-八大第一频特,http://huanqiuzhibo.cn/smart.php?id=badafirst
-八大综合频特,http://huanqiuzhibo.cn/smart.php?id=badazhonghe
-八大戏剧频特,http://huanqiuzhibo.cn/smart.php?id=badadrama
-八大娱乐频特,http://huanqiuzhibo.cn/smart.php?id=badaentertain
-东森综合频特,http://huanqiuzhibo.cn/smart.php?id=ettvzhonghe
-东森戏剧频特,http://huanqiuzhibo.cn/smart.php?id=ettvdrama
-东森洋片频特,http://huanqiuzhibo.cn/smart.php?id=ettvwestern
-东森电影频特,http://huanqiuzhibo.cn/smart.php?id=ettvmovie
-东森幼幼频特,http://huanqiuzhibo.cn/smart.php?id=yoyo_twn
-东森超视频特,http://huanqiuzhibo.cn/smart.php?id=ettvsuper
-东森财经频特,http://huanqiuzhibo.cn/smart.php?id=ettvcaijing_twn
-寰宇财经频特,http://huanqiuzhibo.cn/smart.php?id=huanyutaiwan_twn
-华艺综合频特,http://huanqiuzhibo.cn/smart.php?id=weishichinese_twn
-阿里郎综频特,http://huanqiuzhibo.cn/smart.php?id=arirang_twn
-AXN电影频特,http://huanqiuzhibo.cn/smart.php?id=axn_twn
-CInemax频特,http://huanqiuzhibo.cn/smart.php?id=cinemax_twn
-HBo高清频特,http://huanqiuzhibo.cn/smart.php?id=hbohd_twn
-HBo家庭频特,http://huanqiuzhibo.cn/smart.php?id=fyi_twn
-好莱电影频特,http://huanqiuzhibo.cn/smart.php?id=hollywoodmovies_twn
-龙华经典频特,http://huanqiuzhibo.cn/smart.php?id=lunghuajingdian_twn
-龙华戏剧频特,http://huanqiuzhibo.cn/smart.php?id=lunghuaxiju_twn
-龙华电影频特,http://huanqiuzhibo.cn/smart.php?id=xingwei_movie
-龙华偶像频特,http://huanqiuzhibo.cn/smart.php?id=lunghuaidol_twn
-龙华洋片频特,http://huanqiuzhibo.cn/smart.php?id=lunghuawestern_twn
-纬来日本频特,http://huanqiuzhibo.cn/smart.php?id=videolandjapan
-纬来体育频特,http://huanqiuzhibo.cn/smart.php?id=videolandsport
-纬来综合频特,http://huanqiuzhibo.cn/smart.php?id=videolandzonghe
-纬来育乐频特,http://huanqiuzhibo.cn/smart.php?id=videolandyule
-纬来精彩频特,http://huanqiuzhibo.cn/smart.php?id=videolandspecial_twn
-靖天国际频特,http://huanqiuzhibo.cn/smart.php?id=jingtianintl_twn
-靖天卡通频特,http://huanqiuzhibo.cn/smart.php?id=jingtiancartoon_twn
-大爱壹台频特,http://huanqiuzhibo.cn/smart.php?id=daai_twn
-大爱贰台频特,http://huanqiuzhibo.cn/smart.php?id=daai2_twn
-好消息贰频特,http://huanqiuzhibo.cn/smart.php?id=good2_twn
-三立闽南频特,http://huanqiuzhibo.cn/smart.php?id=sanlitaiwan
-三立戏剧频特,http://huanqiuzhibo.cn/smart.php?id=sanlixiju_twn
-三立综合频特,http://huanqiuzhibo.cn/smart.php?id=sanlizhonghe
-三立都会频特,http://huanqiuzhibo.cn/smart.php?id=sanlidouhui
-ELta影剧频特,http://huanqiuzhibo.cn/smart.php?id=eltayingju_twn
-ELta综合频特,http://huanqiuzhibo.cn/smart.php?id=eltazonghe_twn
-ELTA体1频特,http://huanqiuzhibo.cn/smart.php?id=eltasport_twn
-ELTA体2频特,http://huanqiuzhibo.cn/smart.php?id=eltasport2_twn
-ELTA体3频特,http://huanqiuzhibo.cn/smart.php?id=eltasport3_twn
-Eleven一频特,http://huanqiuzhibo.cn/smart.php?id=golfchannel_twn
-博斯无限频特,http://huanqiuzhibo.cn/smart.php?id=bosiunlimited_twn
-博斯网球频特,http://huanqiuzhibo.cn/smart.php?id=bositennis_twn
-博斯运动壹特,http://huanqiuzhibo.cn/smart.php?id=bosisport1_twn
-博斯运动贰特,http://huanqiuzhibo.cn/smart.php?id=bosisport2_twn
-博斯高球壹特,http://huanqiuzhibo.cn/smart.php?id=bosigolf1_twn
-博斯高球贰特,http://huanqiuzhibo.cn/smart.php?id=bosigolf2_twn
-探索亚洲频特,http://huanqiuzhibo.cn/smart.php?id=discoverytwn_twn
-国家地理频特,http://huanqiuzhibo.cn/smart.php?id=natgeohd_twn
-野生动物频特,http://huanqiuzhibo.cn/smart.php?id=natgeowild_twn
-动物星球频特,http://huanqiuzhibo.cn/smart.php?id=animalplanet_twn
-美食星球频特,http://huanqiuzhibo.cn/smart.php?id=foodplanet_twn
-亚洲美食频特,http://huanqiuzhibo.cn/smart.php?id=afc_twn
-亚洲旅游频特,http://huanqiuzhibo.cn/smart.php?id=asiatravel_twn
-亚洲TLC频特,http://huanqiuzhibo.cn/smart.php?id=tlc_twn
-EYE-旅游频特,http://huanqiuzhibo.cn/smart.php?id=eyetvtravel_twn
-EYE-戏剧频特,http://huanqiuzhibo.cn/smart.php?id=eyetvxiju_twn
-MTv高清频特,http://huanqiuzhibo.cn/smart.php?id=mtvhd_twn
-Discover频特,http://huanqiuzhibo.cn/smart.php?id=discoverytwn_twn
+东森新闻频特,http://96.44.160.246:9999/smt.php?id=ettvnews
+寰宇新闻频特,http://96.44.160.246:9999/smt.php?id=huanyuxinwen_twn
+tvbs新闻频特,http://96.44.160.246:9999/smt.php?id=tvbs_n
+年代新闻频特,http://96.44.160.246:9999/smt.php?id=niandainews_twn
+民视新闻频特,http://96.44.160.246:9999/smt.php?id=ftvnew_taiwan
+中视新闻频特,http://96.44.160.246:9999/smt.php?id=zhongshinews_twn
+台视新闻频特,http://96.44.160.246:9999/smt.php?id=ttvnews_twn
+非凡新闻频特,http://96.44.160.246:9999/smt.php?id=feifannews_twn
+民视闽南频特,http://96.44.160.246:9999/smt.php?id=ftvhd_taiwan
+中视闽南频特,http://96.44.160.246:9999/smt.php?id=zhongshihd_twn
+华视闽南频特,http://96.44.160.246:9999/smt.php?id=ctshd_twn
+台视闽南频特,http://96.44.160.246:9999/smt.php?id=ttv_taiwan
+tvbs闽南频特,http://96.44.160.246:9999/smt.php?id=tvbs
+tvbs欢乐频特,http://96.44.160.246:9999/smt.php?id=tvbshuanle_twn
+民视第一频特,http://96.44.160.246:9999/smt.php?id=lunghuajingdian_twn
+民视台湾频特,http://96.44.160.246:9999/smt.php?id=ftvtaiwan_twn
+中视经典频特,http://96.44.160.246:9999/smt.php?id=zhongshi_twn
+公视台语频特,http://96.44.160.246:9999/smt.php?id=ctv2_twn
+台视综合频特,http://96.44.160.246:9999/smt.php?id=ttvzhonghe
+中天娱乐频特,http://96.44.160.246:9999/smt.php?id=ctient
+中天综合频特,http://96.44.160.246:9999/smt.php?id=ctizhonghe
+中天亚洲频特,http://96.44.160.246:9999/smt.php?id=ctiasia_twn
+八大第一频特,http://96.44.160.246:9999/smt.php?id=badafirst
+八大综合频特,http://96.44.160.246:9999/smt.php?id=badazhonghe
+八大戏剧频特,http://96.44.160.246:9999/smt.php?id=badadrama
+八大娱乐频特,http://96.44.160.246:9999/smt.php?id=badaentertain
+东森综合频特,http://96.44.160.246:9999/smt.php?id=ettvzhonghe
+东森戏剧频特,http://96.44.160.246:9999/smt.php?id=ettvdrama
+东森洋片频特,http://96.44.160.246:9999/smt.php?id=ettvwestern
+东森电影频特,http://96.44.160.246:9999/smt.php?id=ettvmovie
+东森幼幼频特,http://96.44.160.246:9999/smt.php?id=yoyo_twn
+东森超视频特,http://96.44.160.246:9999/smt.php?id=ettvsuper
+东森财经频特,http://96.44.160.246:9999/smt.php?id=ettvcaijing_twn
+寰宇财经频特,http://96.44.160.246:9999/smt.php?id=huanyutaiwan_twn
+华艺综合频特,http://96.44.160.246:9999/smt.php?id=weishichinese_twn
+阿里郎综频特,http://96.44.160.246:9999/smt.php?id=arirang_twn
+AXN电影频特,http://96.44.160.246:9999/smt.php?id=axn_twn
+CInemax频特,http://96.44.160.246:9999/smt.php?id=cinemax_twn
+HBo高清频特,http://96.44.160.246:9999/smt.php?id=hbohd_twn
+HBo家庭频特,http://96.44.160.246:9999/smt.php?id=fyi_twn
+好莱电影频特,http://96.44.160.246:9999/smt.php?id=hollywoodmovies_twn
+龙华经典频特,http://96.44.160.246:9999/smt.php?id=lunghuajingdian_twn
+龙华戏剧频特,http://96.44.160.246:9999/smt.php?id=lunghuaxiju_twn
+龙华电影频特,http://96.44.160.246:9999/smt.php?id=xingwei_movie
+龙华偶像频特,http://96.44.160.246:9999/smt.php?id=lunghuaidol_twn
+龙华洋片频特,http://96.44.160.246:9999/smt.php?id=lunghuawestern_twn
+纬来日本频特,http://96.44.160.246:9999/smt.php?id=videolandjapan
+纬来体育频特,http://96.44.160.246:9999/smt.php?id=videolandsport
+纬来综合频特,http://96.44.160.246:9999/smt.php?id=videolandzonghe
+纬来育乐频特,http://96.44.160.246:9999/smt.php?id=videolandyule
+纬来精彩频特,http://96.44.160.246:9999/smt.php?id=videolandspecial_twn
+靖天国际频特,http://96.44.160.246:9999/smt.php?id=jingtianintl_twn
+靖天卡通频特,http://96.44.160.246:9999/smt.php?id=jingtiancartoon_twn
+大爱壹台频特,http://96.44.160.246:9999/smt.php?id=daai_twn
+大爱贰台频特,http://96.44.160.246:9999/smt.php?id=daai2_twn
+好消息贰频特,http://96.44.160.246:9999/smt.php?id=good2_twn
+三立闽南频特,http://96.44.160.246:9999/smt.php?id=sanlitaiwan
+三立戏剧频特,http://96.44.160.246:9999/smt.php?id=sanlixiju_twn
+三立综合频特,http://96.44.160.246:9999/smt.php?id=sanlizhonghe
+三立都会频特,http://96.44.160.246:9999/smt.php?id=sanlidouhui
+ELta影剧频特,http://96.44.160.246:9999/smt.php?id=eltayingju_twn
+ELta综合频特,http://96.44.160.246:9999/smt.php?id=eltazonghe_twn
+ELTA体1频特,http://96.44.160.246:9999/smt.php?id=eltasport_twn
+ELTA体2频特,http://96.44.160.246:9999/smt.php?id=eltasport2_twn
+ELTA体3频特,http://96.44.160.246:9999/smt.php?id=eltasport3_twn
+Eleven一频特,http://96.44.160.246:9999/smt.php?id=golfchannel_twn
+博斯无限频特,http://96.44.160.246:9999/smt.php?id=bosiunlimited_twn
+博斯网球频特,http://96.44.160.246:9999/smt.php?id=bositennis_twn
+博斯运动壹特,http://96.44.160.246:9999/smt.php?id=bosisport1_twn
+博斯运动贰特,http://96.44.160.246:9999/smt.php?id=bosisport2_twn
+博斯高球壹特,http://96.44.160.246:9999/smt.php?id=bosigolf1_twn
+博斯高球贰特,http://96.44.160.246:9999/smt.php?id=bosigolf2_twn
+探索亚洲频特,http://96.44.160.246:9999/smt.php?id=discoverytwn_twn
+国家地理频特,http://96.44.160.246:9999/smt.php?id=natgeohd_twn
+野生动物频特,http://96.44.160.246:9999/smt.php?id=natgeowild_twn
+动物星球频特,http://96.44.160.246:9999/smt.php?id=animalplanet_twn
+美食星球频特,http://96.44.160.246:9999/smt.php?id=foodplanet_twn
+亚洲美食频特,http://96.44.160.246:9999/smt.php?id=afc_twn
+亚洲旅游频特,http://96.44.160.246:9999/smt.php?id=asiatravel_twn
+亚洲TLC频特,http://96.44.160.246:9999/smt.php?id=tlc_twn
+EYE-旅游频特,http://96.44.160.246:9999/smt.php?id=eyetvtravel_twn
+EYE-戏剧频特,http://96.44.160.246:9999/smt.php?id=eyetvxiju_twn
+MTv高清频特,http://96.44.160.246:9999/smt.php?id=mtvhd_twn
+Discover频特,http://96.44.160.246:9999/smt.php?id=discoverytwn_twn
 抖音网页,#genre#
 ⬇️赛事抖音网页直播⬇️,http://rihou.cc:555/tv/t
 绝嗲数码抖播,video://https://live.douyin.com/277034086130
@@ -4093,324 +4055,324 @@ CNA Japan,https://smt.go-iptv.ggff.net/smart.php?id=cna_japan&token=Goiptv
 BS-TBS,https://smt.go-iptv.ggff.net/smart.php?id=bstbs_japan&token=Goiptv
 NHK Oaska,https://smt.go-iptv.ggff.net/smart.php?id=nhkosaka_japan&token=Goiptv
 体育频特,#genre#
-Astro Premier League 1,http://huanqiuzhibo.cn/smart.php?id=go_assp1
-Astro EPL 1 backup,http://huanqiuzhibo.cn/smart.php?id=go_assp1x
-Astro Premier League 2,http://huanqiuzhibo.cn/smart.php?id=go_assp2
-Astro Grandstand,http://huanqiuzhibo.cn/smart.php?id=go_assp3
-Astro Football,http://huanqiuzhibo.cn/smart.php?id=go_assp4
-Astro Sports Plus,http://huanqiuzhibo.cn/smart.php?id=go_sportsplus
-Astro Badminton 1,http://huanqiuzhibo.cn/smart.php?id=go_badminton1
-Astro Badminton 2,http://huanqiuzhibo.cn/smart.php?id=go_badminton2
-Astro W-Sports,http://huanqiuzhibo.cn/smart.php?id=go_assp5
-Supersports 1,http://huanqiuzhibo.cn/smart.php?id=Assp1
-Supersports 2,http://huanqiuzhibo.cn/smart.php?id=Assp2
-Supersports 3,http://huanqiuzhibo.cn/smart.php?id=Assp3
-Supersports 4,http://huanqiuzhibo.cn/smart.php?id=Assp4
-WWE,http://huanqiuzhibo.cn/smart.php?id=Wwe
-Fight Sports,http://huanqiuzhibo.cn/smart.php?id=Fs
-NBA TV,http://huanqiuzhibo.cn/smart.php?id=Nba
-Astro Cricket,http://huanqiuzhibo.cn/smart.php?id=Acricket
-Astro Golf,http://huanqiuzhibo.cn/smart.php?id=Agolf
-Tnt Sports 1,http://huanqiuzhibo.cn/smart.php?id=6fac0aaead
-TNT Sports 2,http://huanqiuzhibo.cn/smart.php?id=d9a76a79cc
-TNT Sports 3,http://huanqiuzhibo.cn/smart.php?id=5fea4d73db
-TNT Sports 4,http://huanqiuzhibo.cn/smart.php?id=tntsport4
-Sony Ten 1,http://huanqiuzhibo.cn/smart.php?id=ten1_raj
-Sony Ten 2,http://huanqiuzhibo.cn/smart.php?id=ten2_raj
-Sony Ten 3,http://huanqiuzhibo.cn/smart.php?id=ten3_raj
-SPOTV 1 HD,http://huanqiuzhibo.cn/smart.php?id=go_spotv
-SPO TV 2,http://huanqiuzhibo.cn/smart.php?id=go_spotv2
-Skysports F1,http://huanqiuzhibo.cn/smart.php?id=tiankongf1
-Skysports Cricket,http://huanqiuzhibo.cn/smart.php?id=tiankongcricket
-Skysports EPL,http://huanqiuzhibo.cn/smart.php?id=tiankongepl
-Skysports Main Event,http://huanqiuzhibo.cn/smart.php?id=tiankongmain
-Skysports News,http://huanqiuzhibo.cn/smart.php?id=tiankongnews
-Skysports Mix,http://huanqiuzhibo.cn/smart.php?id=tiankongmix
-爱尔达体育2台,http://huanqiuzhibo.cn/smart.php?id=eltasport2_twn
-爱尔达体育3台,http://huanqiuzhibo.cn/smart.php?id=eltasport3_twn
-Rugby Pass TV,http://huanqiuzhibo.cn/smart.php?id=Rugbypasstv
-RTM Sports HD,http://huanqiuzhibo.cn/smart.php?id=Rtmsport
-Arena,http://huanqiuzhibo.cn/smart.php?id=Arena
-Arena 2,http://huanqiuzhibo.cn/smart.php?id=Arena2
-BolaArena 1,http://huanqiuzhibo.cn/smart.php?id=Bolaarena1
-BolaArena 2,http://huanqiuzhibo.cn/smart.php?id=Bolaarena2
-Astro Beinsports 1,http://huanqiuzhibo.cn/smart.php?id=Astrobein1
-Astro Beinsports 2,http://huanqiuzhibo.cn/smart.php?id=Astrobein2
-Astro Beinsports 3,http://huanqiuzhibo.cn/smart.php?id=Astrobein3
+Astro Premier League 1,http://96.44.160.246:9999/smt.php?id=go_assp1
+Astro EPL 1 backup,http://96.44.160.246:9999/smt.php?id=go_assp1x
+Astro Premier League 2,http://96.44.160.246:9999/smt.php?id=go_assp2
+Astro Grandstand,http://96.44.160.246:9999/smt.php?id=go_assp3
+Astro Football,http://96.44.160.246:9999/smt.php?id=go_assp4
+Astro Sports Plus,http://96.44.160.246:9999/smt.php?id=go_sportsplus
+Astro Badminton 1,http://96.44.160.246:9999/smt.php?id=go_badminton1
+Astro Badminton 2,http://96.44.160.246:9999/smt.php?id=go_badminton2
+Astro W-Sports,http://96.44.160.246:9999/smt.php?id=go_assp5
+Supersports 1,http://96.44.160.246:9999/smt.php?id=Assp1
+Supersports 2,http://96.44.160.246:9999/smt.php?id=Assp2
+Supersports 3,http://96.44.160.246:9999/smt.php?id=Assp3
+Supersports 4,http://96.44.160.246:9999/smt.php?id=Assp4
+WWE,http://96.44.160.246:9999/smt.php?id=Wwe
+Fight Sports,http://96.44.160.246:9999/smt.php?id=Fs
+NBA TV,http://96.44.160.246:9999/smt.php?id=Nba
+Astro Cricket,http://96.44.160.246:9999/smt.php?id=Acricket
+Astro Golf,http://96.44.160.246:9999/smt.php?id=Agolf
+Tnt Sports 1,http://96.44.160.246:9999/smt.php?id=6fac0aaead
+TNT Sports 2,http://96.44.160.246:9999/smt.php?id=d9a76a79cc
+TNT Sports 3,http://96.44.160.246:9999/smt.php?id=5fea4d73db
+TNT Sports 4,http://96.44.160.246:9999/smt.php?id=tntsport4
+Sony Ten 1,http://96.44.160.246:9999/smt.php?id=ten1_raj
+Sony Ten 2,http://96.44.160.246:9999/smt.php?id=ten2_raj
+Sony Ten 3,http://96.44.160.246:9999/smt.php?id=ten3_raj
+SPOTV 1 HD,http://96.44.160.246:9999/smt.php?id=go_spotv
+SPO TV 2,http://96.44.160.246:9999/smt.php?id=go_spotv2
+Skysports F1,http://96.44.160.246:9999/smt.php?id=tiankongf1
+Skysports Cricket,http://96.44.160.246:9999/smt.php?id=tiankongcricket
+Skysports EPL,http://96.44.160.246:9999/smt.php?id=tiankongepl
+Skysports Main Event,http://96.44.160.246:9999/smt.php?id=tiankongmain
+Skysports News,http://96.44.160.246:9999/smt.php?id=tiankongnews
+Skysports Mix,http://96.44.160.246:9999/smt.php?id=tiankongmix
+爱尔达体育2台,http://96.44.160.246:9999/smt.php?id=eltasport2_twn
+爱尔达体育3台,http://96.44.160.246:9999/smt.php?id=eltasport3_twn
+Rugby Pass TV,http://96.44.160.246:9999/smt.php?id=Rugbypasstv
+RTM Sports HD,http://96.44.160.246:9999/smt.php?id=Rtmsport
+Arena,http://96.44.160.246:9999/smt.php?id=Arena
+Arena 2,http://96.44.160.246:9999/smt.php?id=Arena2
+BolaArena 1,http://96.44.160.246:9999/smt.php?id=Bolaarena1
+BolaArena 2,http://96.44.160.246:9999/smt.php?id=Bolaarena2
+Astro Beinsports 1,http://96.44.160.246:9999/smt.php?id=Astrobein1
+Astro Beinsports 2,http://96.44.160.246:9999/smt.php?id=Astrobein2
+Astro Beinsports 3,http://96.44.160.246:9999/smt.php?id=Astrobein3
 电影频特,#genre#
-Cinemax,http://huanqiuzhibo.cn/smart.php?id=Cinemax
-Animax,http://huanqiuzhibo.cn/smart.php?id=Animax
-Movies Now HD,http://huanqiuzhibo.cn/smart.php?id=moviesnow_raj
-Star Movies HD,http://huanqiuzhibo.cn/smart.php?id=starmovies_raj
-HBO Family,http://huanqiuzhibo.cn/smart.php?id=Hbofamily
-Hits,http://huanqiuzhibo.cn/smart.php?id=Hits
-Warner TV,http://huanqiuzhibo.cn/smart.php?id=WarnerTV
-HBO HD,http://huanqiuzhibo.cn/smart.php?id=Hbo
-HBO Signature,http://huanqiuzhibo.cn/smart.php?id=Hbosignature
-HBO Hits,http://huanqiuzhibo.cn/smart.php?id=Hbohitshd
-SCM,http://huanqiuzhibo.cn/smart.php?id=Weishimovie
-Dreamworks,http://huanqiuzhibo.cn/smart.php?id=Dreamworks
-Thrill,http://huanqiuzhibo.cn/smart.php?id=Thrill
-Hits Movie,http://huanqiuzhibo.cn/smart.php?id=Hitsmovie
-One,http://huanqiuzhibo.cn/smart.php?id=One
-tvN Movie,http://huanqiuzhibo.cn/smart.php?id=Tvnmovie
-Celestial Classic,http://huanqiuzhibo.cn/smart.php?id=Celestial2
-Celestial Movies HD,http://huanqiuzhibo.cn/smart.php?id=Celestialindo
-Axn HD,http://huanqiuzhibo.cn/smart.php?id=Axn
-Paramount Network,http://huanqiuzhibo.cn/smart.php?id=Paramountnetwork
-Astrol Kplus,http://huanqiuzhibo.cn/smart.php?id=Kplus
-Rock Actions,http://huanqiuzhibo.cn/smart.php?id=Rockaction
-Rock Entertainment,http://huanqiuzhibo.cn/smart.php?id=Rockentertain
+Cinemax,http://96.44.160.246:9999/smt.php?id=Cinemax
+Animax,http://96.44.160.246:9999/smt.php?id=Animax
+Movies Now HD,http://96.44.160.246:9999/smt.php?id=moviesnow_raj
+Star Movies HD,http://96.44.160.246:9999/smt.php?id=starmovies_raj
+HBO Family,http://96.44.160.246:9999/smt.php?id=Hbofamily
+Hits,http://96.44.160.246:9999/smt.php?id=Hits
+Warner TV,http://96.44.160.246:9999/smt.php?id=WarnerTV
+HBO HD,http://96.44.160.246:9999/smt.php?id=Hbo
+HBO Signature,http://96.44.160.246:9999/smt.php?id=Hbosignature
+HBO Hits,http://96.44.160.246:9999/smt.php?id=Hbohitshd
+SCM,http://96.44.160.246:9999/smt.php?id=Weishimovie
+Dreamworks,http://96.44.160.246:9999/smt.php?id=Dreamworks
+Thrill,http://96.44.160.246:9999/smt.php?id=Thrill
+Hits Movie,http://96.44.160.246:9999/smt.php?id=Hitsmovie
+One,http://96.44.160.246:9999/smt.php?id=One
+tvN Movie,http://96.44.160.246:9999/smt.php?id=Tvnmovie
+Celestial Classic,http://96.44.160.246:9999/smt.php?id=Celestial2
+Celestial Movies HD,http://96.44.160.246:9999/smt.php?id=Celestialindo
+Axn HD,http://96.44.160.246:9999/smt.php?id=Axn
+Paramount Network,http://96.44.160.246:9999/smt.php?id=Paramountnetwork
+Astrol Kplus,http://96.44.160.246:9999/smt.php?id=Kplus
+Rock Actions,http://96.44.160.246:9999/smt.php?id=Rockaction
+Rock Entertainment,http://96.44.160.246:9999/smt.php?id=Rockentertain
 纪录频特,#genre#
-Natgeo_HD,http://huanqiuzhibo.cn/smart.php?id=natgeohd_twn
-NatGeo_Wild HD,http://huanqiuzhibo.cn/smart.php?id=natgeowild_twn
-Animal_Planet,http://huanqiuzhibo.cn/smart.php?id=animalplanet_twn
-Discovery Asia,http://huanqiuzhibo.cn/smart.php?id=discoverytwn_twn
-CI,http://huanqiuzhibo.cn/smart.php?id=ci_twn
-Discovery HD,http://huanqiuzhibo.cn/smart.php?id=discoveryhd_twn
-NatGeo HD,http://huanqiuzhibo.cn/smart.php?id=Natgeo
-Fashion TV,http://huanqiuzhibo.cn/smart.php?id=fashiontv_twn
-History,http://huanqiuzhibo.cn/smart.php?id=History
-BBC Earth HD,http://huanqiuzhibo.cn/smart.php?id=bbcearth_twn
-BBC Earth Lifestyle,http://huanqiuzhibo.cn/smart.php?id=bbclifestyle_twn
-NatGeo Wild HD,http://huanqiuzhibo.cn/smart.php?id=Natgeowild
-Animal Planet (Eng),http://huanqiuzhibo.cn/smart.php?id=AnimalPlanet
-TLC,http://huanqiuzhibo.cn/smart.php?id=Tlc
-Foodnetwork Hd,http://huanqiuzhibo.cn/smart.php?id=Foodnetwork
-HGTV,http://huanqiuzhibo.cn/smart.php?id=HGTV
+Natgeo_HD,http://96.44.160.246:9999/smt.php?id=natgeohd_twn
+NatGeo_Wild HD,http://96.44.160.246:9999/smt.php?id=natgeowild_twn
+Animal_Planet,http://96.44.160.246:9999/smt.php?id=animalplanet_twn
+Discovery Asia,http://96.44.160.246:9999/smt.php?id=discoverytwn_twn
+CI,http://96.44.160.246:9999/smt.php?id=ci_twn
+Discovery HD,http://96.44.160.246:9999/smt.php?id=discoveryhd_twn
+NatGeo HD,http://96.44.160.246:9999/smt.php?id=Natgeo
+Fashion TV,http://96.44.160.246:9999/smt.php?id=fashiontv_twn
+History,http://96.44.160.246:9999/smt.php?id=History
+BBC Earth HD,http://96.44.160.246:9999/smt.php?id=bbcearth_twn
+BBC Earth Lifestyle,http://96.44.160.246:9999/smt.php?id=bbclifestyle_twn
+NatGeo Wild HD,http://96.44.160.246:9999/smt.php?id=Natgeowild
+Animal Planet (Eng),http://96.44.160.246:9999/smt.php?id=AnimalPlanet
+TLC,http://96.44.160.246:9999/smt.php?id=Tlc
+Foodnetwork Hd,http://96.44.160.246:9999/smt.php?id=Foodnetwork
+HGTV,http://96.44.160.246:9999/smt.php?id=HGTV
 新闻频特,#genre#
-Skynews,http://huanqiuzhibo.cn/smart.php?id=skynews_twn
-ABC News,http://huanqiuzhibo.cn/smart.php?id=abcnews_glo
-CBS HD,http://huanqiuzhibo.cn/smart.php?id=cbshd_glo
-CBSN HD,http://huanqiuzhibo.cn/smart.php?id=cbsn_glo
-France 24,http://huanqiuzhibo.cn/smart.php?id=france24_twn
-DW (Deutsch),http://huanqiuzhibo.cn/smart.php?id=dw_twn
-NHK World,http://huanqiuzhibo.cn/smart.php?id=nhkworld_japan
-Fox News,http://huanqiuzhibo.cn/smart.php?id=foxnews_twn
-CNN International,http://huanqiuzhibo.cn/smart.php?id=Cnn
-CNN backup,http://huanqiuzhibo.cn/smart.php?id=cnn_twn
-CNBC,http://huanqiuzhibo.cn/smart.php?id=cnbc_twn
-CNA,http://huanqiuzhibo.cn/smart.php?id=cna
-BBC World News,http://huanqiuzhibo.cn/smart.php?id=bbcnews_twn
-BBC World News,http://huanqiuzhibo.cn/smart.php?id=Bbcnews
-Bloomberg News,http://huanqiuzhibo.cn/smart.php?id=bloomberg_twn
-Al-Jazeera,http://huanqiuzhibo.cn/smart.php?id=aljazeera_twn
+Skynews,http://96.44.160.246:9999/smt.php?id=skynews_twn
+ABC News,http://96.44.160.246:9999/smt.php?id=abcnews_glo
+CBS HD,http://96.44.160.246:9999/smt.php?id=cbshd_glo
+CBSN HD,http://96.44.160.246:9999/smt.php?id=cbsn_glo
+France 24,http://96.44.160.246:9999/smt.php?id=france24_twn
+DW (Deutsch),http://96.44.160.246:9999/smt.php?id=dw_twn
+NHK World,http://96.44.160.246:9999/smt.php?id=nhkworld_japan
+Fox News,http://96.44.160.246:9999/smt.php?id=foxnews_twn
+CNN International,http://96.44.160.246:9999/smt.php?id=Cnn
+CNN backup,http://96.44.160.246:9999/smt.php?id=cnn_twn
+CNBC,http://96.44.160.246:9999/smt.php?id=cnbc_twn
+CNA,http://96.44.160.246:9999/smt.php?id=cna
+BBC World News,http://96.44.160.246:9999/smt.php?id=bbcnews_twn
+BBC World News,http://96.44.160.246:9999/smt.php?id=Bbcnews
+Bloomberg News,http://96.44.160.246:9999/smt.php?id=bloomberg_twn
+Al-Jazeera,http://96.44.160.246:9999/smt.php?id=aljazeera_twn
 儿童频特,#genre#
-Baby TV Eng,http://huanqiuzhibo.cn/smart.php?id=Babytv
-CBeebies,http://huanqiuzhibo.cn/smart.php?id=Cbeebies
-Kids TV,http://huanqiuzhibo.cn/smart.php?id=KidsTV
-Momo TV,http://huanqiuzhibo.cn/smart.php?id=momo1_twn
-Baby TV,http://huanqiuzhibo.cn/smart.php?id=babytv_twn
-MiaoMi,http://huanqiuzhibo.cn/smart.php?id=MiaoMi
-Cartoon Network,http://huanqiuzhibo.cn/smart.php?id=Cn
-Nickelodeon,http://huanqiuzhibo.cn/smart.php?id=Nickelodeon
-Nick Jr,http://huanqiuzhibo.cn/smart.php?id=Nickjr
+Baby TV Eng,http://96.44.160.246:9999/smt.php?id=Babytv
+CBeebies,http://96.44.160.246:9999/smt.php?id=Cbeebies
+Kids TV,http://96.44.160.246:9999/smt.php?id=KidsTV
+Momo TV,http://96.44.160.246:9999/smt.php?id=momo1_twn
+Baby TV,http://96.44.160.246:9999/smt.php?id=babytv_twn
+MiaoMi,http://96.44.160.246:9999/smt.php?id=MiaoMi
+Cartoon Network,http://96.44.160.246:9999/smt.php?id=Cn
+Nickelodeon,http://96.44.160.246:9999/smt.php?id=Nickelodeon
+Nick Jr,http://96.44.160.246:9999/smt.php?id=Nickjr
 新加频特,#genre#
-Channel 5,http://huanqiuzhibo.cn/smart.php?id=Channel5HD
-Channel 8,http://huanqiuzhibo.cn/smart.php?id=Channel8HD
-Suria,http://huanqiuzhibo.cn/smart.php?id=Suria
-Channel U,http://huanqiuzhibo.cn/smart.php?id=ChannelU
-Vasantham,http://huanqiuzhibo.cn/smart.php?id=Vasantham
-CNA backup,http://huanqiuzhibo.cn/smart.php?id=cna_twn
-MeWatch Ch 5,http://huanqiuzhibo.cn/smart.php?id=Mewatch_ch5
-MeWatch Ch 8,http://huanqiuzhibo.cn/smart.php?id=Mewatch_ch8
-MeWatch Ch U,http://huanqiuzhibo.cn/smart.php?id=Mewatch_chU
-MeWatch Suria,http://huanqiuzhibo.cn/smart.php?id=Mewatch_Suria
-MeWatch Vasantham,http://huanqiuzhibo.cn/smart.php?id=Mewatch_Vasantham
-MeWatch CNA,http://huanqiuzhibo.cn/smart.php?id=Mewatch_cna
+Channel 5,http://96.44.160.246:9999/smt.php?id=Channel5HD
+Channel 8,http://96.44.160.246:9999/smt.php?id=Channel8HD
+Suria,http://96.44.160.246:9999/smt.php?id=Suria
+Channel U,http://96.44.160.246:9999/smt.php?id=ChannelU
+Vasantham,http://96.44.160.246:9999/smt.php?id=Vasantham
+CNA backup,http://96.44.160.246:9999/smt.php?id=cna_twn
+MeWatch Ch 5,http://96.44.160.246:9999/smt.php?id=Mewatch_ch5
+MeWatch Ch 8,http://96.44.160.246:9999/smt.php?id=Mewatch_ch8
+MeWatch Ch U,http://96.44.160.246:9999/smt.php?id=Mewatch_chU
+MeWatch Suria,http://96.44.160.246:9999/smt.php?id=Mewatch_Suria
+MeWatch Vasantham,http://96.44.160.246:9999/smt.php?id=Mewatch_Vasantham
+MeWatch CNA,http://96.44.160.246:9999/smt.php?id=Mewatch_cna
 马来频特,#genre#
-TV1,http://huanqiuzhibo.cn/smart.php?id=TV1
-TV1 backup,http://huanqiuzhibo.cn/smart.php?id=TV1_backup
-TV2,http://huanqiuzhibo.cn/smart.php?id=TV2
-TV3,http://huanqiuzhibo.cn/smart.php?id=TV3
-TV3 SD,http://huanqiuzhibo.cn/smart.php?id=TV3_mega
-NTV7,http://huanqiuzhibo.cn/smart.php?id=NTV7
-TV8,http://huanqiuzhibo.cn/smart.php?id=TV8
-TV9,http://huanqiuzhibo.cn/smart.php?id=TV9
-Ria,http://huanqiuzhibo.cn/smart.php?id=Ria-0
-Ria-3,http://huanqiuzhibo.cn/smart.php?id=Ria_backup
-Al-Hijrah,http://huanqiuzhibo.cn/smart.php?id=Alhijrah
-Al-Hijrah backup,http://huanqiuzhibo.cn/smart.php?id=Alhijrah_backup
-Awani,http://huanqiuzhibo.cn/smart.php?id=Awani
-Bernama,http://huanqiuzhibo.cn/smart.php?id=Bernama
-Prima,http://huanqiuzhibo.cn/smart.php?id=Prima-0
-Prima backup,http://huanqiuzhibo.cn/smart.php?id=AAprima1
-Prima backup 2,http://huanqiuzhibo.cn/smart.php?id=AAprima
-Ceria,http://huanqiuzhibo.cn/smart.php?id=Ceria
-Astro MTV,http://huanqiuzhibo.cn/smart.php?id=AstroMTV
-Mecca Live HD,http://huanqiuzhibo.cn/smart.php?id=quran_mido
-Madinah HD,http://huanqiuzhibo.cn/smart.php?id=sunnah_mido
-Oasis,http://huanqiuzhibo.cn/smart.php?id=Oasis
-Siar,http://huanqiuzhibo.cn/smart.php?id=Siar
-Citra,http://huanqiuzhibo.cn/smart.php?id=AAcitra
-Citra backup,http://huanqiuzhibo.cn/smart.php?id=AAcitra1
-Sensasi,http://huanqiuzhibo.cn/smart.php?id=Sensasi
-Aura,http://huanqiuzhibo.cn/smart.php?id=Aura
-Rania,http://huanqiuzhibo.cn/smart.php?id=Rania
-KBS World,http://huanqiuzhibo.cn/smart.php?id=KBS
-Boo,http://huanqiuzhibo.cn/smart.php?id=Boo
-Awesome TV,http://huanqiuzhibo.cn/smart.php?id=Dsangat
-Astro Sonypix,http://huanqiuzhibo.cn/smart.php?id=Asonypix
-Sony HD,http://huanqiuzhibo.cn/smart.php?id=SetOne
-TvN,http://huanqiuzhibo.cn/smart.php?id=TVN
-AEC,http://huanqiuzhibo.cn/smart.php?id=AEC
-华丽台 HD （Wah Lai Toi）,http://huanqiuzhibo.cn/smart.php?id=Wlt
-欢喜台 HD （Hua Hee Tai）,http://huanqiuzhibo.cn/smart.php?id=Huahee
-Astro QJ,http://huanqiuzhibo.cn/smart.php?id=Quanjia
-TVB Jade,http://huanqiuzhibo.cn/smart.php?id=Tvbjade
-TVB Asia,http://huanqiuzhibo.cn/smart.php?id=Tvbasia
-TVB Entertainment,http://huanqiuzhibo.cn/smart.php?id=Tvbentertainment
-TVB Classic,http://huanqiuzhibo.cn/smart.php?id=Tvbclassic
-AOD,http://huanqiuzhibo.cn/smart.php?id=Aodhd
-TVB 星河台 Xing He,http://huanqiuzhibo.cn/smart.php?id=Xinhe
-爱奇艺 iQiyi,http://huanqiuzhibo.cn/smart.php?id=Qiyi
-Goshop,http://huanqiuzhibo.cn/smart.php?id=Goshop
-Celestial Movies HD,http://huanqiuzhibo.cn/smart.php?id=Celestial
-Astro LOL,http://huanqiuzhibo.cn/smart.php?id=Astro_lol
-Astro Rusi,http://huanqiuzhibo.cn/smart.php?id=Rusi
-WION,http://huanqiuzhibo.cn/smart.php?id=Wion
-RTM Asean,http://huanqiuzhibo.cn/smart.php?id=Rtmasean
+TV1,http://96.44.160.246:9999/smt.php?id=TV1
+TV1 backup,http://96.44.160.246:9999/smt.php?id=TV1_backup
+TV2,http://96.44.160.246:9999/smt.php?id=TV2
+TV3,http://96.44.160.246:9999/smt.php?id=TV3
+TV3 SD,http://96.44.160.246:9999/smt.php?id=TV3_mega
+NTV7,http://96.44.160.246:9999/smt.php?id=NTV7
+TV8,http://96.44.160.246:9999/smt.php?id=TV8
+TV9,http://96.44.160.246:9999/smt.php?id=TV9
+Ria,http://96.44.160.246:9999/smt.php?id=Ria-0
+Ria-3,http://96.44.160.246:9999/smt.php?id=Ria_backup
+Al-Hijrah,http://96.44.160.246:9999/smt.php?id=Alhijrah
+Al-Hijrah backup,http://96.44.160.246:9999/smt.php?id=Alhijrah_backup
+Awani,http://96.44.160.246:9999/smt.php?id=Awani
+Bernama,http://96.44.160.246:9999/smt.php?id=Bernama
+Prima,http://96.44.160.246:9999/smt.php?id=Prima-0
+Prima backup,http://96.44.160.246:9999/smt.php?id=AAprima1
+Prima backup 2,http://96.44.160.246:9999/smt.php?id=AAprima
+Ceria,http://96.44.160.246:9999/smt.php?id=Ceria
+Astro MTV,http://96.44.160.246:9999/smt.php?id=AstroMTV
+Mecca Live HD,http://96.44.160.246:9999/smt.php?id=quran_mido
+Madinah HD,http://96.44.160.246:9999/smt.php?id=sunnah_mido
+Oasis,http://96.44.160.246:9999/smt.php?id=Oasis
+Siar,http://96.44.160.246:9999/smt.php?id=Siar
+Citra,http://96.44.160.246:9999/smt.php?id=AAcitra
+Citra backup,http://96.44.160.246:9999/smt.php?id=AAcitra1
+Sensasi,http://96.44.160.246:9999/smt.php?id=Sensasi
+Aura,http://96.44.160.246:9999/smt.php?id=Aura
+Rania,http://96.44.160.246:9999/smt.php?id=Rania
+KBS World,http://96.44.160.246:9999/smt.php?id=KBS
+Boo,http://96.44.160.246:9999/smt.php?id=Boo
+Awesome TV,http://96.44.160.246:9999/smt.php?id=Dsangat
+Astro Sonypix,http://96.44.160.246:9999/smt.php?id=Asonypix
+Sony HD,http://96.44.160.246:9999/smt.php?id=SetOne
+TvN,http://96.44.160.246:9999/smt.php?id=TVN
+AEC,http://96.44.160.246:9999/smt.php?id=AEC
+华丽台 HD （Wah Lai Toi）,http://96.44.160.246:9999/smt.php?id=Wlt
+欢喜台 HD （Hua Hee Tai）,http://96.44.160.246:9999/smt.php?id=Huahee
+Astro QJ,http://96.44.160.246:9999/smt.php?id=Quanjia
+TVB Jade,http://96.44.160.246:9999/smt.php?id=Tvbjade
+TVB Asia,http://96.44.160.246:9999/smt.php?id=Tvbasia
+TVB Entertainment,http://96.44.160.246:9999/smt.php?id=Tvbentertainment
+TVB Classic,http://96.44.160.246:9999/smt.php?id=Tvbclassic
+AOD,http://96.44.160.246:9999/smt.php?id=Aodhd
+TVB 星河台 Xing He,http://96.44.160.246:9999/smt.php?id=Xinhe
+爱奇艺 iQiyi,http://96.44.160.246:9999/smt.php?id=Qiyi
+Goshop,http://96.44.160.246:9999/smt.php?id=Goshop
+Celestial Movies HD,http://96.44.160.246:9999/smt.php?id=Celestial
+Astro LOL,http://96.44.160.246:9999/smt.php?id=Astro_lol
+Astro Rusi,http://96.44.160.246:9999/smt.php?id=Rusi
+WION,http://96.44.160.246:9999/smt.php?id=Wion
+RTM Asean,http://96.44.160.246:9999/smt.php?id=Rtmasean
 印尼频特,#genre#
-TVRI National,http://huanqiuzhibo.cn/smart.php?id=TVRI
-RCTI,http://huanqiuzhibo.cn/smart.php?id=Rcti
-Kompass TV,http://huanqiuzhibo.cn/smart.php?id=Kompass
-Berita Satu,http://huanqiuzhibo.cn/smart.php?id=BeritaSatu_eko
-Indosiar HD,http://huanqiuzhibo.cn/smart.php?id=Indosiar
-AnTV,http://huanqiuzhibo.cn/smart.php?id=Antv
-MNC TV,http://huanqiuzhibo.cn/smart.php?id=Mnctv
-Trans 7,http://huanqiuzhibo.cn/smart.php?id=Trans7_eko
-Transtv,http://huanqiuzhibo.cn/smart.php?id=Transtv
-JTV,http://huanqiuzhibo.cn/smart.php?id=JTV_eko
-Metro TV,http://huanqiuzhibo.cn/smart.php?id=metrotv_eko
-SCTV,http://huanqiuzhibo.cn/smart.php?id=SCTV
-Tvone,http://huanqiuzhibo.cn/smart.php?id=Tvone
-TVMU,http://huanqiuzhibo.cn/smart.php?id=TVMU_eko
-GTV,http://huanqiuzhibo.cn/smart.php?id=Gtv
-RTV,http://huanqiuzhibo.cn/smart.php?id=Rtv
-Jak TV,http://huanqiuzhibo.cn/smart.php?id=JakTV
-iNews TV,http://huanqiuzhibo.cn/smart.php?id=Inewstv
-Daai TV,http://huanqiuzhibo.cn/smart.php?id=DaaiTV
-Net TV,http://huanqiuzhibo.cn/smart.php?id=NetTV
-EWTN,http://huanqiuzhibo.cn/smart.php?id=Ewtn
-AlQuran AlKareem,http://huanqiuzhibo.cn/smart.php?id=AlQuran
-Tawaf TV,http://huanqiuzhibo.cn/smart.php?id=TawafTV
-Vision Prime,http://huanqiuzhibo.cn/smart.php?id=VisionPrime
-Muslim TV,http://huanqiuzhibo.cn/smart.php?id=MuslimTV
-Music TV,http://huanqiuzhibo.cn/smart.php?id=MusicTV
-Lifestyle&amp;Fashion,http://huanqiuzhibo.cn/smart.php?id=Lifestyle
-Entertain,http://huanqiuzhibo.cn/smart.php?id=Entertain
+TVRI National,http://96.44.160.246:9999/smt.php?id=TVRI
+RCTI,http://96.44.160.246:9999/smt.php?id=Rcti
+Kompass TV,http://96.44.160.246:9999/smt.php?id=Kompass
+Berita Satu,http://96.44.160.246:9999/smt.php?id=BeritaSatu_eko
+Indosiar HD,http://96.44.160.246:9999/smt.php?id=Indosiar
+AnTV,http://96.44.160.246:9999/smt.php?id=Antv
+MNC TV,http://96.44.160.246:9999/smt.php?id=Mnctv
+Trans 7,http://96.44.160.246:9999/smt.php?id=Trans7_eko
+Transtv,http://96.44.160.246:9999/smt.php?id=Transtv
+JTV,http://96.44.160.246:9999/smt.php?id=JTV_eko
+Metro TV,http://96.44.160.246:9999/smt.php?id=metrotv_eko
+SCTV,http://96.44.160.246:9999/smt.php?id=SCTV
+Tvone,http://96.44.160.246:9999/smt.php?id=Tvone
+TVMU,http://96.44.160.246:9999/smt.php?id=TVMU_eko
+GTV,http://96.44.160.246:9999/smt.php?id=Gtv
+RTV,http://96.44.160.246:9999/smt.php?id=Rtv
+Jak TV,http://96.44.160.246:9999/smt.php?id=JakTV
+iNews TV,http://96.44.160.246:9999/smt.php?id=Inewstv
+Daai TV,http://96.44.160.246:9999/smt.php?id=DaaiTV
+Net TV,http://96.44.160.246:9999/smt.php?id=NetTV
+EWTN,http://96.44.160.246:9999/smt.php?id=Ewtn
+AlQuran AlKareem,http://96.44.160.246:9999/smt.php?id=AlQuran
+Tawaf TV,http://96.44.160.246:9999/smt.php?id=TawafTV
+Vision Prime,http://96.44.160.246:9999/smt.php?id=VisionPrime
+Muslim TV,http://96.44.160.246:9999/smt.php?id=MuslimTV
+Music TV,http://96.44.160.246:9999/smt.php?id=MusicTV
+Lifestyle&amp;Fashion,http://96.44.160.246:9999/smt.php?id=Lifestyle
+Entertain,http://96.44.160.246:9999/smt.php?id=Entertain
 印度频特,#genre#
-Sun TV HD,http://huanqiuzhibo.cn/smart.php?id=Suntv
-Star Vijay,http://huanqiuzhibo.cn/smart.php?id=Starvijay
-Colors Tamil,http://huanqiuzhibo.cn/smart.php?id=Colorstam
-Sun Music,http://huanqiuzhibo.cn/smart.php?id=Sunmusic
-Astro Sunlife,http://huanqiuzhibo.cn/smart.php?id=Sunlife
-Astro Vaanavil,http://huanqiuzhibo.cn/smart.php?id=Vaanavil
-Zee Tamil,http://huanqiuzhibo.cn/smart.php?id=Zeetamil
-Zee Business,http://huanqiuzhibo.cn/smart.php?id=Zeebusiness
-News 18 Tamil,http://huanqiuzhibo.cn/smart.php?id=news18tamil_raj
-Adithya,http://huanqiuzhibo.cn/smart.php?id=Adithya
-Makkal TV,http://huanqiuzhibo.cn/smart.php?id=Makkaltv
-Zee Action,http://huanqiuzhibo.cn/smart.php?id=Zeeaction
-Astro KTV,http://huanqiuzhibo.cn/smart.php?id=Astroktv
-Zee TV HD,http://huanqiuzhibo.cn/smart.php?id=Zeetvhd
-Zee Cinema HD,http://huanqiuzhibo.cn/smart.php?id=Zeecinemahd
-Color HD,http://huanqiuzhibo.cn/smart.php?id=Colorhd
-Starplus HD,http://huanqiuzhibo.cn/smart.php?id=Starplushd
-Picture HD,http://huanqiuzhibo.cn/smart.php?id=Npicture
-Zee News,http://huanqiuzhibo.cn/smart.php?id=Zeenews
-Asianet,http://huanqiuzhibo.cn/smart.php?id=asianet_raj
-Asianet News,http://huanqiuzhibo.cn/smart.php?id=asianetnews_raj
-Discovery World Tamil,http://huanqiuzhibo.cn/smart.php?id=discoveryworldtam_raj
-History Tamil,http://huanqiuzhibo.cn/smart.php?id=historytam_raj
-NatGeo Tamil,http://huanqiuzhibo.cn/smart.php?id=natgeotamil_raj
-Natgeo Wild Tamil,http://huanqiuzhibo.cn/smart.php?id=natgeowildtamil_raj
-Discovery Kids Tamil,http://huanqiuzhibo.cn/smart.php?id=discoverykidtamil_raj
-Discovery Tamil,http://huanqiuzhibo.cn/smart.php?id=discoverytamil_raj
-Sony Yay Tamil,http://huanqiuzhibo.cn/smart.php?id=sonyyaytam_raj
-Sun TV India,http://huanqiuzhibo.cn/smart.php?id=suntv_raj
-Starmaa HD,http://huanqiuzhibo.cn/smart.php?id=starmaa_raj
-Starmaa Movies HD,http://huanqiuzhibo.cn/smart.php?id=starmaamovies_raj
-Bollyone,http://huanqiuzhibo.cn/smart.php?id=Bollyone
-Vijay Super,http://huanqiuzhibo.cn/smart.php?id=vijaysuper_raj
-Vellithirai,http://huanqiuzhibo.cn/smart.php?id=Vellithirai
+Sun TV HD,http://96.44.160.246:9999/smt.php?id=Suntv
+Star Vijay,http://96.44.160.246:9999/smt.php?id=Starvijay
+Colors Tamil,http://96.44.160.246:9999/smt.php?id=Colorstam
+Sun Music,http://96.44.160.246:9999/smt.php?id=Sunmusic
+Astro Sunlife,http://96.44.160.246:9999/smt.php?id=Sunlife
+Astro Vaanavil,http://96.44.160.246:9999/smt.php?id=Vaanavil
+Zee Tamil,http://96.44.160.246:9999/smt.php?id=Zeetamil
+Zee Business,http://96.44.160.246:9999/smt.php?id=Zeebusiness
+News 18 Tamil,http://96.44.160.246:9999/smt.php?id=news18tamil_raj
+Adithya,http://96.44.160.246:9999/smt.php?id=Adithya
+Makkal TV,http://96.44.160.246:9999/smt.php?id=Makkaltv
+Zee Action,http://96.44.160.246:9999/smt.php?id=Zeeaction
+Astro KTV,http://96.44.160.246:9999/smt.php?id=Astroktv
+Zee TV HD,http://96.44.160.246:9999/smt.php?id=Zeetvhd
+Zee Cinema HD,http://96.44.160.246:9999/smt.php?id=Zeecinemahd
+Color HD,http://96.44.160.246:9999/smt.php?id=Colorhd
+Starplus HD,http://96.44.160.246:9999/smt.php?id=Starplushd
+Picture HD,http://96.44.160.246:9999/smt.php?id=Npicture
+Zee News,http://96.44.160.246:9999/smt.php?id=Zeenews
+Asianet,http://96.44.160.246:9999/smt.php?id=asianet_raj
+Asianet News,http://96.44.160.246:9999/smt.php?id=asianetnews_raj
+Discovery World Tamil,http://96.44.160.246:9999/smt.php?id=discoveryworldtam_raj
+History Tamil,http://96.44.160.246:9999/smt.php?id=historytam_raj
+NatGeo Tamil,http://96.44.160.246:9999/smt.php?id=natgeotamil_raj
+Natgeo Wild Tamil,http://96.44.160.246:9999/smt.php?id=natgeowildtamil_raj
+Discovery Kids Tamil,http://96.44.160.246:9999/smt.php?id=discoverykidtamil_raj
+Discovery Tamil,http://96.44.160.246:9999/smt.php?id=discoverytamil_raj
+Sony Yay Tamil,http://96.44.160.246:9999/smt.php?id=sonyyaytam_raj
+Sun TV India,http://96.44.160.246:9999/smt.php?id=suntv_raj
+Starmaa HD,http://96.44.160.246:9999/smt.php?id=starmaa_raj
+Starmaa Movies HD,http://96.44.160.246:9999/smt.php?id=starmaamovies_raj
+Bollyone,http://96.44.160.246:9999/smt.php?id=Bollyone
+Vijay Super,http://96.44.160.246:9999/smt.php?id=vijaysuper_raj
+Vellithirai,http://96.44.160.246:9999/smt.php?id=Vellithirai
 泰国频特,#genre#
-Channel 3 Thailand,http://huanqiuzhibo.cn/smart.php?id=ch3_pat
-Channel 5 Thailand,http://huanqiuzhibo.cn/smart.php?id=ch5_pat
-Channel 7 Thailand,http://huanqiuzhibo.cn/smart.php?id=ch7_pat
-MCOT HD Thailand-1,http://huanqiuzhibo.cn/smart.php?id=mcot_pat
-PPTV Thailand1,http://huanqiuzhibo.cn/smart.php?id=pptv_pat
-Thai Thai,http://huanqiuzhibo.cn/smart.php?id=thaithai_pat
-Amarin,http://huanqiuzhibo.cn/smart.php?id=amarin_pat
-Ch 8,http://huanqiuzhibo.cn/smart.php?id=ch8_pat
-GmmOne,http://huanqiuzhibo.cn/smart.php?id=gmmone_pat
-Mono,http://huanqiuzhibo.cn/smart.php?id=mono_pat
-Thairath,http://huanqiuzhibo.cn/smart.php?id=thairath_pat
-tpbs,http://huanqiuzhibo.cn/smart.php?id=tpbs_pat
-Workpoint,http://huanqiuzhibo.cn/smart.php?id=workpoint_pat
-Gmm Channel,http://huanqiuzhibo.cn/smart.php?id=gmmchannel_pat
-Nation,http://huanqiuzhibo.cn/smart.php?id=nation_pat
-Tnn24,http://huanqiuzhibo.cn/smart.php?id=tnn24_pat
-Nbt,http://huanqiuzhibo.cn/smart.php?id=nbt_pat
-New,http://huanqiuzhibo.cn/smart.php?id=new_pat
-TPTV,http://huanqiuzhibo.cn/smart.php?id=tptv_pat
+Channel 3 Thailand,http://96.44.160.246:9999/smt.php?id=ch3_pat
+Channel 5 Thailand,http://96.44.160.246:9999/smt.php?id=ch5_pat
+Channel 7 Thailand,http://96.44.160.246:9999/smt.php?id=ch7_pat
+MCOT HD Thailand-1,http://96.44.160.246:9999/smt.php?id=mcot_pat
+PPTV Thailand1,http://96.44.160.246:9999/smt.php?id=pptv_pat
+Thai Thai,http://96.44.160.246:9999/smt.php?id=thaithai_pat
+Amarin,http://96.44.160.246:9999/smt.php?id=amarin_pat
+Ch 8,http://96.44.160.246:9999/smt.php?id=ch8_pat
+GmmOne,http://96.44.160.246:9999/smt.php?id=gmmone_pat
+Mono,http://96.44.160.246:9999/smt.php?id=mono_pat
+Thairath,http://96.44.160.246:9999/smt.php?id=thairath_pat
+tpbs,http://96.44.160.246:9999/smt.php?id=tpbs_pat
+Workpoint,http://96.44.160.246:9999/smt.php?id=workpoint_pat
+Gmm Channel,http://96.44.160.246:9999/smt.php?id=gmmchannel_pat
+Nation,http://96.44.160.246:9999/smt.php?id=nation_pat
+Tnn24,http://96.44.160.246:9999/smt.php?id=tnn24_pat
+Nbt,http://96.44.160.246:9999/smt.php?id=nbt_pat
+New,http://96.44.160.246:9999/smt.php?id=new_pat
+TPTV,http://96.44.160.246:9999/smt.php?id=tptv_pat
 英国频特,#genre#
-BBC 1,http://huanqiuzhibo.cn/smart.php?id=bbc1_antik
-BBC 2,http://huanqiuzhibo.cn/smart.php?id=bbc2_antik
-CBBC,http://huanqiuzhibo.cn/smart.php?id=cbbc_antik
-More4,http://huanqiuzhibo.cn/smart.php?id=more4_antik
-Freesports,http://huanqiuzhibo.cn/smart.php?id=freesports_antik
-Pick TV,http://huanqiuzhibo.cn/smart.php?id=picktv_antik
-itv 1,http://huanqiuzhibo.cn/smart.php?id=itv1_antik
-itv 2,http://huanqiuzhibo.cn/smart.php?id=itv2_antik
-Euronews,http://huanqiuzhibo.cn/smart.php?id=euronews_antik
-Channel 4,http://huanqiuzhibo.cn/smart.php?id=channel4_antik
-BBC World News,http://huanqiuzhibo.cn/smart.php?id=bbcworldnews_antik
+BBC 1,http://96.44.160.246:9999/smt.php?id=bbc1_antik
+BBC 2,http://96.44.160.246:9999/smt.php?id=bbc2_antik
+CBBC,http://96.44.160.246:9999/smt.php?id=cbbc_antik
+More4,http://96.44.160.246:9999/smt.php?id=more4_antik
+Freesports,http://96.44.160.246:9999/smt.php?id=freesports_antik
+Pick TV,http://96.44.160.246:9999/smt.php?id=picktv_antik
+itv 1,http://96.44.160.246:9999/smt.php?id=itv1_antik
+itv 2,http://96.44.160.246:9999/smt.php?id=itv2_antik
+Euronews,http://96.44.160.246:9999/smt.php?id=euronews_antik
+Channel 4,http://96.44.160.246:9999/smt.php?id=channel4_antik
+BBC World News,http://96.44.160.246:9999/smt.php?id=bbcworldnews_antik
 越南频特,#genre#
-ANTV,http://huanqiuzhibo.cn/smart.php?id=viet_antv
-VTV 1,http://huanqiuzhibo.cn/smart.php?id=viet_vtv1
-VTV 7,http://huanqiuzhibo.cn/smart.php?id=viet_vtv7
-HTV 7,http://huanqiuzhibo.cn/smart.php?id=viet_htv7
-HTV 9,http://huanqiuzhibo.cn/smart.php?id=viet_htv9
-BPTV 2,http://huanqiuzhibo.cn/smart.php?id=viet_bptv2
-BRT HD,http://huanqiuzhibo.cn/smart.php?id=viet_brt
-Ca Mau TV,http://huanqiuzhibo.cn/smart.php?id=viet_camautv
-Danang TV1 HD,http://huanqiuzhibo.cn/smart.php?id=viet_danangtv1
-Danang TV2 HD,http://huanqiuzhibo.cn/smart.php?id=viet_danangtv2
-HBTV HD,http://huanqiuzhibo.cn/smart.php?id=viet_hbtv
-PTTH 1,http://huanqiuzhibo.cn/smart.php?id=viet_ptth1
+ANTV,http://96.44.160.246:9999/smt.php?id=viet_antv
+VTV 1,http://96.44.160.246:9999/smt.php?id=viet_vtv1
+VTV 7,http://96.44.160.246:9999/smt.php?id=viet_vtv7
+HTV 7,http://96.44.160.246:9999/smt.php?id=viet_htv7
+HTV 9,http://96.44.160.246:9999/smt.php?id=viet_htv9
+BPTV 2,http://96.44.160.246:9999/smt.php?id=viet_bptv2
+BRT HD,http://96.44.160.246:9999/smt.php?id=viet_brt
+Ca Mau TV,http://96.44.160.246:9999/smt.php?id=viet_camautv
+Danang TV1 HD,http://96.44.160.246:9999/smt.php?id=viet_danangtv1
+Danang TV2 HD,http://96.44.160.246:9999/smt.php?id=viet_danangtv2
+HBTV HD,http://96.44.160.246:9999/smt.php?id=viet_hbtv
+PTTH 1,http://96.44.160.246:9999/smt.php?id=viet_ptth1
 韩国频特,#genre#
-Arirang HD,http://huanqiuzhibo.cn/smart.php?id=arirang_korea
-Yonhap News,http://huanqiuzhibo.cn/smart.php?id=yonhapnews_korea
-CBS,http://huanqiuzhibo.cn/smart.php?id=cbs_korea
-EBS 1,http://huanqiuzhibo.cn/smart.php?id=ebs1_korea
-EBS2,http://huanqiuzhibo.cn/smart.php?id=ebs2_korea
-EBS Plus2,http://huanqiuzhibo.cn/smart.php?id=ebsplus2_korea
-SBS Plus,http://huanqiuzhibo.cn/smart.php?id=sbsplus_korea
-YTN,http://huanqiuzhibo.cn/smart.php?id=ytn_korea
-KBS World 24,http://huanqiuzhibo.cn/smart.php?id=kbsworld24_korea
-YTN Science,http://huanqiuzhibo.cn/smart.php?id=ytnscience_korea
-YTN Korean,http://huanqiuzhibo.cn/smart.php?id=ytnkorean_korea
-YTN DMB,http://huanqiuzhibo.cn/smart.php?id=ytndmb_korea
-Apps TV,http://huanqiuzhibo.cn/smart.php?id=appongoogle_korea
-All the Kpop,http://huanqiuzhibo.cn/smart.php?id=allthekpop_korea
-J the Kpop,http://huanqiuzhibo.cn/smart.php?id=jthekpop_korea
-EBS Kids,http://huanqiuzhibo.cn/smart.php?id=ebskids_korea
-CGNTV,http://huanqiuzhibo.cn/smart.php?id=cgntv_korea
+Arirang HD,http://96.44.160.246:9999/smt.php?id=arirang_korea
+Yonhap News,http://96.44.160.246:9999/smt.php?id=yonhapnews_korea
+CBS,http://96.44.160.246:9999/smt.php?id=cbs_korea
+EBS 1,http://96.44.160.246:9999/smt.php?id=ebs1_korea
+EBS2,http://96.44.160.246:9999/smt.php?id=ebs2_korea
+EBS Plus2,http://96.44.160.246:9999/smt.php?id=ebsplus2_korea
+SBS Plus,http://96.44.160.246:9999/smt.php?id=sbsplus_korea
+YTN,http://96.44.160.246:9999/smt.php?id=ytn_korea
+KBS World 24,http://96.44.160.246:9999/smt.php?id=kbsworld24_korea
+YTN Science,http://96.44.160.246:9999/smt.php?id=ytnscience_korea
+YTN Korean,http://96.44.160.246:9999/smt.php?id=ytnkorean_korea
+YTN DMB,http://96.44.160.246:9999/smt.php?id=ytndmb_korea
+Apps TV,http://96.44.160.246:9999/smt.php?id=appongoogle_korea
+All the Kpop,http://96.44.160.246:9999/smt.php?id=allthekpop_korea
+J the Kpop,http://96.44.160.246:9999/smt.php?id=jthekpop_korea
+EBS Kids,http://96.44.160.246:9999/smt.php?id=ebskids_korea
+CGNTV,http://96.44.160.246:9999/smt.php?id=cgntv_korea
 日本频特,#genre#
-NHK-総合-2,http://huanqiuzhibo.cn/smart.php?id=nhkg_japan
-NHK-E,http://huanqiuzhibo.cn/smart.php?id=nhke_japan
-テレビ朝日 Asahi TV,http://huanqiuzhibo.cn/smart.php?id=asahitv_japan
-JET 綜合,http://huanqiuzhibo.cn/smart.php?id=jettv_japan
-テレビ東京 Tokyo TV,http://huanqiuzhibo.cn/smart.php?id=tokyotv_japan
-TOKYOMX,http://huanqiuzhibo.cn/smart.php?id=tokyomx_japan
-NHKBS1,http://huanqiuzhibo.cn/smart.php?id=nhkbs1_japan
-NHKBSプレミア Premium,http://huanqiuzhibo.cn/smart.php?id=nhkpremium_japan
-BSジャパン 181,http://huanqiuzhibo.cn/smart.php?id=bs181_japan
-BSフジ BS Fuji,http://huanqiuzhibo.cn/smart.php?id=bsfuji_japan
-CNA Japan,http://huanqiuzhibo.cn/smart.php?id=cna_japan
-BS-TBS,http://huanqiuzhibo.cn/smart.php?id=bstbs_japan
-NHK Oaska,http://huanqiuzhibo.cn/smart.php?id=nhkosaka_japan
+NHK-総合-2,http://96.44.160.246:9999/smt.php?id=nhkg_japan
+NHK-E,http://96.44.160.246:9999/smt.php?id=nhke_japan
+テレビ朝日 Asahi TV,http://96.44.160.246:9999/smt.php?id=asahitv_japan
+JET 綜合,http://96.44.160.246:9999/smt.php?id=jettv_japan
+テレビ東京 Tokyo TV,http://96.44.160.246:9999/smt.php?id=tokyotv_japan
+TOKYOMX,http://96.44.160.246:9999/smt.php?id=tokyomx_japan
+NHKBS1,http://96.44.160.246:9999/smt.php?id=nhkbs1_japan
+NHKBSプレミア Premium,http://96.44.160.246:9999/smt.php?id=nhkpremium_japan
+BSジャパン 181,http://96.44.160.246:9999/smt.php?id=bs181_japan
+BSフジ BS Fuji,http://96.44.160.246:9999/smt.php?id=bsfuji_japan
+CNA Japan,http://96.44.160.246:9999/smt.php?id=cna_japan
+BS-TBS,http://96.44.160.246:9999/smt.php?id=bstbs_japan
+NHK Oaska,http://96.44.160.246:9999/smt.php?id=nhkosaka_japan
 20250509 09:21:46,https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4
 (请)(地)每日一首,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240192067467.mp4
 (勿)(址)MovieMusic欣赏,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
