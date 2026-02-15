@@ -1,5 +1,5 @@
 注意事项,#genre#
-20260214041044仅供测试自用如有侵权请通知,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
+20260215042234仅供测试自用如有侵权请通知,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
 猫TV影视,#genre#
 ➡️抖舞陪看⬅️,http://rihou.cc:555/tv/[mv]抖舞陪看
 ➡️白嫖软件⬅️,http://rihou.cc:555/tv/[mv]白嫖软件
@@ -11,10 +11,6 @@
 ➡️爱扒随便⬅️,http://rihou.cc:555/tv/[mv]爱扒随便
 ➡️不必纠结⬅️,http://rihou.cc:555/tv/[mv]不必纠结
 NBA赛评,#genre#
-02-14⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-11:00NBA全明星新秀赛,http://rihou.cc:555/tv/v
-国🔊14咪述评,http://rihou.cc:555/tv/14NBA咪述评
-国🔊14腾述评,http://rihou.cc:555/tv/14NBA腾述评
 02-15⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 06:00全明星投篮之星三分扣篮大赛,http://rihou.cc:555/tv/v
 国🔊15咪评述,http://rihou.cc:555/tv/15NBA咪评述
@@ -25,15 +21,15 @@ NBA赛评,#genre#
 国🔊16腾评述,http://rihou.cc:555/tv/16NBA腾评述
 赛事精锦,#genre#
 ⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
-联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛14
-NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛14
-羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛14
-橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛14
-乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛14
-网球赛事回放,http://rihou.cc:555/tv/网球回放赛14
-排球赛事回放,http://rihou.cc:555/tv/排球回放赛14
-格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛14
-斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛14
+联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛15
+NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛15
+羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛15
+橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛15
+乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛15
+网球赛事回放,http://rihou.cc:555/tv/网球回放赛15
+排球赛事回放,http://rihou.cc:555/tv/排球回放赛15
+格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛15
+斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛15
 赛事咪咕,#genre#
 抖姐舞陪你看,http://rihou.cc:555/tv/t
 赛事睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=d1d10b5dd1d10b5dd1d10b5dd1d10b5d
@@ -422,6 +418,36 @@ astroaodUktv,http://rihou.cc:555/tv/[Uk]astroaod
 astroaecUktv,http://rihou.cc:555/tv/[Uk]astroaec
 astro-QJUktv,http://rihou.cc:555/tv/[Uk]astro-QJ
 KTSF_26Uktv,http://rihou.cc:555/tv/[Uk]KTSF26
+特新Pdtv,#genre#
+Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
+凤凰中文Pdtv,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰资讯Pdtv,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰香港Pdtv,http://rihou.cc:555/tv/[Pd]凤凰香港
+有线综合Pdtv,http://rihou.cc:555/tv/[Pd]有线综合
+有线亚剧Pdtv,http://rihou.cc:555/tv/[Pd]有线亚剧
+无线新闻Pdtv,http://rihou.cc:555/tv/[Pd]无线新闻
+无线翡翠Pdtv,http://rihou.cc:555/tv/[Pd]无线翡翠
+无线翡翠4Ktv,http://rihou.cc:555/tv/[Pd]无线翡4K
+无线华丽Pdtv,http://rihou.cc:555/tv/[Pd]无线华丽
+无线明珠Pdtv,http://rihou.cc:555/tv/[Pd]无线明珠
+无线星河Pdtv,http://rihou.cc:555/tv/[Pd]无线星河
+无线功夫Pdtv,http://rihou.cc:555/tv/[Pd]无线功夫
+澳视澳门Pdtv,http://rihou.cc:555/tv/[Pd]澳视澳门
+澳视卫星Pdtv,http://rihou.cc:555/tv/[Pd]澳视卫星
+澳门体育Pdtv,http://rihou.cc:555/tv/[Pd]澳门体育
+澳门综艺Pdtv,http://rihou.cc:555/tv/[Pd]澳门综艺
+澳门莲花Pdtv,http://rihou.cc:555/tv/[Pd]澳门莲花
+央视综合Pdtv,http://rihou.cc:555/tv/[Pd]央视综合
+重温经典Pdtv,http://rihou.cc:555/tv/[Pd]重温经典
+龙华电影Pdtv,http://rihou.cc:555/tv/[Pd]龙华电影
+龙华经典Pdtv,http://rihou.cc:555/tv/[Pd]龙华经典
+龙华偶像Pdtv,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华日韩Pdtv,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华戏剧Pdtv,http://rihou.cc:555/tv/[Pd]龙华戏剧
+CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
+CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
+CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
+八度空间Pdtv,http://rihou.cc:555/tv/[Pd]八度空间
 欣赏频道,#genre#
 粤语戏曲欣赏,http://tl.061833.xyz/tl/null-15
 粤语戏曲欣赏,http://rihou.cc:555/tv/[Uk]无线戏曲
@@ -736,7 +762,7 @@ WWE_格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 网页音乐,#genre#
 ⬇️全天直播⬇️,video://http://rihou.cc:555/tv/网页库播
 音乐库播抖播,video://http://rihou.cc:555/tv/网页库播
-音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖14
+音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖15
 翡翠音乐抖播,video://http://rihou.cc:555/tv/网页翡翠
 怀旧音乐抖播,video://http://rihou.cc:555/tv/网页怀音
 怀旧粤语抖播,video://http://rihou.cc:555/tv/网页怀粤
@@ -900,8 +926,8 @@ BEYOND'抖播,video://http://rihou.cc:555/tv/网页B安
 成何体统18集,http://cjx.999315.xyz/yzzy/20260212/14354_184264bf/index.m3u8
 成何体统19集,http://cjx.999315.xyz/yzzy/20260213/19920_628347fb/index.m3u8
 成何体统20集,http://cjx.999315.xyz/yzzy/20260213/19921_70b04185/index.m3u8
-成何体统21集
-成何体统22集
+成何体统21集,http://cjx.999315.xyz/yzzy/20260214/14518_1357bcf2/index.m3u8
+成何体统22集,http://cjx.999315.xyz/yzzy/20260214/14519_2d10de96/index.m3u8
 成何体统23集
 成何体统24集
 成何体统25集
@@ -933,8 +959,8 @@ BEYOND'抖播,video://http://rihou.cc:555/tv/网页B安
 唐宫奇案18集,http://cjx.999315.xyz/yzzy/20260212/7785_fa47a8af/index.m3u8
 唐宫奇案19集,http://cjx.999315.xyz/yzzy/20260213/19922_603a7cc0/index.m3u8
 唐宫奇案20集,http://cjx.999315.xyz/yzzy/20260213/14448_604541b9/index.m3u8
-唐宫奇案21集
-唐宫奇案22集
+唐宫奇案21集,http://cjx.999315.xyz/yzzy/20260214/20046_47248f61/index.m3u8
+唐宫奇案22集,http://cjx.999315.xyz/yzzy/20260214/14522_67efdede/index.m3u8
 唐宫奇案23集
 唐宫奇案24集
 唐宫奇案25集
@@ -1032,99 +1058,6 @@ VIUTV'贰Mttv,http://rihou.cc:555/tv/[Mt]VIUTV贰
 VIUTV'粤Mttv,http://rihou.cc:555/tv/[Mt]VIUTV粤
 VIUTV'英Mttv,http://rihou.cc:555/tv/[Mt]VIUTV英
 RTHK-31Mttv,http://rihou.cc:555/tv/[Mt]RTHK-31
-特区Bxtv,#genre#
-中天新闻Bxtv,http://rihou.cc:555/tv/[Bx]中天新闻
-无线新闻Bxtv,http://rihou.cc:555/tv/[Bx]无线新闻
-Plus综合Bxtv,http://rihou.cc:555/tv/[Bx]Plus综合
-pₒₚc电影Bxtv,http://rihou.cc:555/tv/[Bx]pₒₚc电影
-Now星影粤bx,http://rihou.cc:555/tv/[Bx]Now星影
-Now爆谷粤bx,http://rihou.cc:555/tv/[Bx]Now爆谷
-美亚电影粤bx,http://rihou.cc:555/tv/[Bx]美亚电影
-凤凰中文Bxtv,http://rihou.cc:555/tv/[Bx]凤凰中文
-凤凰资讯Bxtv,http://rihou.cc:555/tv/[Bx]凤凰资讯
-凤凰香港Bxtv,http://rihou.cc:555/tv/[Bx]凤凰香港
-无线翡翠Bxtv,http://rihou.cc:555/tv/[Bx]无线翡翠
-无线明珠Bxtv,http://rihou.cc:555/tv/[Bx]无线明珠
-无线千禧Bxtv,http://rihou.cc:555/tv/[Bx]无线千禧
-无线赛马Bxtv,http://rihou.cc:555/tv/[Bx]无线赛马
-特区PLtv,#genre#
-Plus综合PLtv,http://rihou.cc:555/tv/[PL]Plus综合
-Plus综合PLtv,http://rihou.cc:555/tv/[PL]Plus综贰
-凤凰中文PLtv,http://rihou.cc:555/tv/[PL]凤凰中文
-凤凰资讯PLtv,http://rihou.cc:555/tv/[PL]凤凰资讯
-凤凰香港PLtv,http://rihou.cc:555/tv/[PL]凤凰香港
-有线综合粤Pl,http://rihou.cc:555/tv/[PL]有线综合
-有线综合国Pl,http://rihou.cc:555/tv/[PL]有线综国
-无线新闻PLtv,http://rihou.cc:555/tv/[PL]无线新闻
-无线翡翠4kPl,http://rihou.cc:555/tv/[PL]无线翡4k
-无线翡翠高Pl,http://rihou.cc:555/tv/[PL]无线翡翠
-无线翡翠高Pl,http://rihou.cc:555/tv/[PL]无线翡高
-无线翡翠标Pl,http://rihou.cc:555/tv/[PL]无线翡标
-无线华丽国Pl,http://rihou.cc:555/tv/[PL]无线华丽
-无线明珠粤Pl,http://rihou.cc:555/tv/[PL]无线明珠
-无线明珠标Pl,http://rihou.cc:555/tv/[PL]无线明标
-无线北美PLtv,http://rihou.cc:555/tv/[PL]无线北美
-无线北美PLtv,http://rihou.cc:555/tv/[PL]无线北贰
-无线娱乐PLtv,http://rihou.cc:555/tv/[PL]无线娱乐
-无线星河PLtv,http://rihou.cc:555/tv/[PL]无线星河
-无线星河PLtv,http://rihou.cc:555/tv/[PL]无线星贰
-无线功夫PLtv,http://rihou.cc:555/tv/[PL]无线功夫
-无线千禧PLtv,http://rihou.cc:555/tv/[PL]无线千禧
-美亚电影PLtv,http://rihou.cc:555/tv/[PL]美亚电影
-VIUTV'粤PLtv,http://rihou.cc:555/tv/[PL]VIUTV粤
-RTHK-31PLtv,http://rihou.cc:555/tv/[PL]RTHK-31
-RTHK-32PLtv,http://rihou.cc:555/tv/[PL]RTHK-32
-AstroaodPLtv,http://rihou.cc:555/tv/[PL]Astroaod
-澳门MaCPLtv,http://rihou.cc:555/tv/[PL]澳门MaC
-澳视澳门PLtv,http://rihou.cc:555/tv/[PL]澳视澳门
-特区DBtv,#genre#
-Plus综合DBtv,http://rihou.cc:555/tv/[DB]Plus综合
-凤凰香港DBtv,http://rihou.cc:555/tv/[DB]凤凰香港
-有线新闻DBtv,http://rihou.cc:555/tv/[DB]有线新闻
-无线新闻DBtv,http://rihou.cc:555/tv/[DB]无线新闻
-无线翡翠DBtv,http://rihou.cc:555/tv/[DB]无线翡翠
-无线明珠DBtv,http://rihou.cc:555/tv/[DB]无线明珠
-有线综合DBtv,http://rihou.cc:555/tv/[DB]有线综合
-有线赛讯DBtv,http://rihou.cc:555/tv/[DB]有线赛讯
-VIUTV'粤DBtv,http://rihou.cc:555/tv/[DB]VIUTV粤
-VIUTV'英DBtv,http://rihou.cc:555/tv/[DB]VIUTV英
-RTHK-31DBtv,http://rihou.cc:555/tv/[DB]RTHK-31
-RTHK-32DBtv,http://rihou.cc:555/tv/[DB]RTHK-32
-RTHK-33DBtv,http://rihou.cc:555/tv/[DB]RTHK-33
-RTHK-34DBtv,http://rihou.cc:555/tv/[DB]RTHK-34
-RTHK-35DBtv,http://rihou.cc:555/tv/[DB]RTHK-35
-特新Pdtv,#genre#
-Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
-凤凰中文Pdtv,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰资讯Pdtv,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港Pdtv,http://rihou.cc:555/tv/[Pd]凤凰香港
-有线综合Pdtv,http://rihou.cc:555/tv/[Pd]有线综合
-有线亚剧Pdtv,http://rihou.cc:555/tv/[Pd]有线亚剧
-无线新闻Pdtv,http://rihou.cc:555/tv/[Pd]无线新闻
-无线翡翠Pdtv,http://rihou.cc:555/tv/[Pd]无线翡翠
-无线翡翠4Ktv,http://rihou.cc:555/tv/[Pd]无线翡4K
-无线华丽Pdtv,http://rihou.cc:555/tv/[Pd]无线华丽
-无线明珠Pdtv,http://rihou.cc:555/tv/[Pd]无线明珠
-无线星河Pdtv,http://rihou.cc:555/tv/[Pd]无线星河
-无线功夫Pdtv,http://rihou.cc:555/tv/[Pd]无线功夫
-澳视澳门Pdtv,http://rihou.cc:555/tv/[Pd]澳视澳门
-澳视卫星Pdtv,http://rihou.cc:555/tv/[Pd]澳视卫星
-澳门体育Pdtv,http://rihou.cc:555/tv/[Pd]澳门体育
-澳门综艺Pdtv,http://rihou.cc:555/tv/[Pd]澳门综艺
-澳门莲花Pdtv,http://rihou.cc:555/tv/[Pd]澳门莲花
-央视综合Pdtv,http://rihou.cc:555/tv/[Pd]央视综合
-重温经典Pdtv,http://rihou.cc:555/tv/[Pd]重温经典
-龙华电影Pdtv,http://rihou.cc:555/tv/[Pd]龙华电影
-龙华洋片Pdtv,http://rihou.cc:555/tv/[Pd]龙华洋片
-龙华经典Pdtv,http://rihou.cc:555/tv/[Pd]龙华经典
-龙华卡通Pdtv,http://rihou.cc:555/tv/[Pd]龙华卡通
-龙华偶像Pdtv,http://rihou.cc:555/tv/[Pd]龙华偶像
-龙华日韩Pdtv,http://rihou.cc:555/tv/[Pd]龙华日韩
-龙华戏剧Pdtv,http://rihou.cc:555/tv/[Pd]龙华戏剧
-CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
-CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
-CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
-八度空间Pdtv,http://rihou.cc:555/tv/[Pd]八度空间
 特马SXtv,#genre#
 Plus综合SXtv,http://rihou.cc:555/tv/[SX]Plus综合
 凤凰中文SXtv,http://rihou.cc:555/tv/[SX]凤凰中文
@@ -1547,150 +1480,150 @@ SMARt知识晴,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
 中视菁采频晴,P2p://147.135.39.171:9906/6867a07b0000813094960c2053bb31ec.ts
 八大优频道晴,P2p://147.135.39.171:9906/686141c600004a257bb419081c1d2844.ts
 央卫频特,#genre#
-CCTV-01频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cctv1
-CCTV-02频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cctv2
-CCTV-03频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cctv3
-CCTV-04频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Cctv4
-CCTV-04频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cctv4
-CCTV-05频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cctv5
-CCTV-5+频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cctv5plus
-CCTV-06频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cctv6
-CCTV-07频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cctv7
-CCTV-08频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cctv8hd
-CCTV-09频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cctv9hd
-CCTV-10频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cctv10hd
-CCTV-11频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cctv11
-CCTV-12频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cctv12
-CCTV-13频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cctv13
-CCTV-14频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cctv14
-CCTV-15频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cctv15
-CGTN_英频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=CGTN
-北京卫视频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=beijing
-深圳卫视频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=shenzhen
-广西卫视频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=guangxi
-湖北卫视频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=hubei
-东南卫视频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=fujian
-广东珠江频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=zhujiang
+CCTV-01频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cctv1
+CCTV-02频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cctv2
+CCTV-03频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cctv3
+CCTV-04频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Cctv4
+CCTV-04频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cctv4
+CCTV-05频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cctv5
+CCTV-5+频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cctv5plus
+CCTV-06频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cctv6
+CCTV-07频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cctv7
+CCTV-08频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cctv8hd
+CCTV-09频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cctv9hd
+CCTV-10频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cctv10hd
+CCTV-11频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cctv11
+CCTV-12频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cctv12
+CCTV-13频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cctv13
+CCTV-14频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cctv14
+CCTV-15频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cctv15
+CGTN_英频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=CGTN
+北京卫视频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=beijing
+深圳卫视频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=shenzhen
+广西卫视频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=guangxi
+湖北卫视频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=hubei
+东南卫视频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=fujian
+广东珠江频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=zhujiang
 特区频特,#genre#
-Plus综合频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=j2_twn
-凤凰中文频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=phoenixtv_hd
-凤凰资讯频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=phoenixinfo_hd
-凤凰香港频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=hkphoenix_twn
-中天新闻频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ctinews
-有线新闻频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=hoycaijing_twn
-无线新闻频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=inews_twn
-无线翡翠频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=jade_twn
-无线翡翠频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Jade_xue
-无线翡翠频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Tvbjade
-无线华丽粤特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Wlt
-无线华丽国特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Tvbjade
-无线明珠频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=pearl_twn
-无线娱乐频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Tvbentertainment
-千禧经典频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Tvbclassic
-VIUTV'粤频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=viu1_twn
-VIUTV英频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=viusix_twn
-RTHK-31频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=rhk31_twn
-RTHK-32频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=rhk32_twn
-天映频道粤特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ctv18_twn
-天映频道国特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Celestial
-天映频道闽特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Celestialindo
-天映经典频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Celestial2
-美亚电影频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=meiyamovie_twn
-龙祥电影频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=lungxiangtime_twn
-纬来电影频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=videolandmovie
-新加CHU频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ChannelU
-新加CH5频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Channel5HD
-新加CH8频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Channel8HD
-Astr爱奇频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Qiyi
-AstrQJ国频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Quanjia
-astroaod频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Aodhd
-Astroaec频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=AEC
-Astr欢喜频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Huahee
+Plus综合频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=j2_twn
+凤凰中文频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=phoenixtv_hd
+凤凰资讯频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=phoenixinfo_hd
+凤凰香港频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=hkphoenix_twn
+中天新闻频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ctinews
+有线新闻频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=hoycaijing_twn
+无线新闻频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=inews_twn
+无线翡翠频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=jade_twn
+无线翡翠频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Jade_xue
+无线翡翠频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Tvbjade
+无线华丽粤特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Wlt
+无线华丽国特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Tvbjade
+无线明珠频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=pearl_twn
+无线娱乐频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Tvbentertainment
+千禧经典频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Tvbclassic
+VIUTV'粤频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=viu1_twn
+VIUTV英频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=viusix_twn
+RTHK-31频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=rhk31_twn
+RTHK-32频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=rhk32_twn
+天映频道粤特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ctv18_twn
+天映频道国特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Celestial
+天映频道闽特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Celestialindo
+天映经典频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Celestial2
+美亚电影频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=meiyamovie_twn
+龙祥电影频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=lungxiangtime_twn
+纬来电影频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=videolandmovie
+新加CHU频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ChannelU
+新加CH5频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Channel5HD
+新加CH8频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Channel8HD
+Astr爱奇频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Qiyi
+AstrQJ国频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Quanjia
+astroaod频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Aodhd
+Astroaec频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=AEC
+Astr欢喜频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Huahee
 闽南频特,#genre#
-东森新闻频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ettvnews
-寰宇新闻频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=huanyuxinwen_twn
-tvbs新闻频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=tvbs_n
-年代新闻频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=niandainews_twn
-民视新闻频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ftvnew_taiwan
-中视新闻频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=zhongshinews_twn
-台视新闻频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ttvnews_twn
-非凡新闻频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=feifannews_twn
-民视闽南频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ftvhd_taiwan
-中视闽南频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=zhongshihd_twn
-华视闽南频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ctshd_twn
-台视闽南频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ttv_taiwan
-tvbs闽南频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=tvbs
-tvbs欢乐频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=tvbshuanle_twn
-民视第一频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=lunghuajingdian_twn
-民视台湾频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ftvtaiwan_twn
-中视经典频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=zhongshi_twn
-公视台语频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ctv2_twn
-台视综合频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ttvzhonghe
-中天娱乐频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ctient
-中天综合频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ctizhonghe
-中天亚洲频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ctiasia_twn
-八大第一频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=badafirst
-八大综合频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=badazhonghe
-八大戏剧频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=badadrama
-八大娱乐频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=badaentertain
-东森综合频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ettvzhonghe
-东森戏剧频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ettvdrama
-东森洋片频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ettvwestern
-东森电影频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ettvmovie
-东森幼幼频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=yoyo_twn
-东森超视频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ettvsuper
-东森财经频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ettvcaijing_twn
-寰宇财经频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=huanyutaiwan_twn
-华艺综合频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=weishichinese_twn
-阿里郎综频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=arirang_twn
-AXN电影频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=axn_twn
-CInemax频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cinemax_twn
-HBo高清频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=hbohd_twn
-HBo家庭频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=fyi_twn
-好莱电影频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=hollywoodmovies_twn
-龙华经典频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=lunghuajingdian_twn
-龙华戏剧频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=lunghuaxiju_twn
-龙华电影频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=xingwei_movie
-龙华偶像频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=lunghuaidol_twn
-龙华洋片频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=lunghuawestern_twn
-纬来日本频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=videolandjapan
-纬来体育频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=videolandsport
-纬来综合频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=videolandzonghe
-纬来育乐频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=videolandyule
-纬来精彩频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=videolandspecial_twn
-靖天国际频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=jingtianintl_twn
-靖天卡通频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=jingtiancartoon_twn
-大爱壹台频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=daai_twn
-大爱贰台频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=daai2_twn
-好消息贰频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=good2_twn
-三立闽南频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=sanlitaiwan
-三立戏剧频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=sanlixiju_twn
-三立综合频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=sanlizhonghe
-三立都会频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=sanlidouhui
-ELta影剧频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=eltayingju_twn
-ELta综合频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=eltazonghe_twn
-ELTA体1频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=eltasport_twn
-ELTA体2频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=eltasport2_twn
-ELTA体3频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=eltasport3_twn
-Eleven一频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=golfchannel_twn
-博斯无限频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=bosiunlimited_twn
-博斯网球频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=bositennis_twn
-博斯运动壹特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=bosisport1_twn
-博斯运动贰特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=bosisport2_twn
-博斯高球壹特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=bosigolf1_twn
-博斯高球贰特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=bosigolf2_twn
-探索亚洲频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=discoverytwn_twn
-国家地理频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=natgeohd_twn
-野生动物频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=natgeowild_twn
-动物星球频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=animalplanet_twn
-美食星球频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=foodplanet_twn
-亚洲美食频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=afc_twn
-亚洲旅游频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=asiatravel_twn
-亚洲TLC频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=tlc_twn
-EYE-旅游频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=eyetvtravel_twn
-EYE-戏剧频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=eyetvxiju_twn
-MTv高清频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=mtvhd_twn
-Discover频特,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=discoverytwn_twn
+东森新闻频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ettvnews
+寰宇新闻频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=huanyuxinwen_twn
+tvbs新闻频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tvbs_n
+年代新闻频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=niandainews_twn
+民视新闻频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ftvnew_taiwan
+中视新闻频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=zhongshinews_twn
+台视新闻频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ttvnews_twn
+非凡新闻频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=feifannews_twn
+民视闽南频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ftvhd_taiwan
+中视闽南频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=zhongshihd_twn
+华视闽南频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ctshd_twn
+台视闽南频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ttv_taiwan
+tvbs闽南频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tvbs
+tvbs欢乐频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tvbshuanle_twn
+民视第一频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=lunghuajingdian_twn
+民视台湾频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ftvtaiwan_twn
+中视经典频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=zhongshi_twn
+公视台语频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ctv2_twn
+台视综合频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ttvzhonghe
+中天娱乐频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ctient
+中天综合频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ctizhonghe
+中天亚洲频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ctiasia_twn
+八大第一频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=badafirst
+八大综合频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=badazhonghe
+八大戏剧频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=badadrama
+八大娱乐频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=badaentertain
+东森综合频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ettvzhonghe
+东森戏剧频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ettvdrama
+东森洋片频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ettvwestern
+东森电影频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ettvmovie
+东森幼幼频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=yoyo_twn
+东森超视频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ettvsuper
+东森财经频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ettvcaijing_twn
+寰宇财经频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=huanyutaiwan_twn
+华艺综合频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=weishichinese_twn
+阿里郎综频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=arirang_twn
+AXN电影频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=axn_twn
+CInemax频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cinemax_twn
+HBo高清频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=hbohd_twn
+HBo家庭频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=fyi_twn
+好莱电影频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=hollywoodmovies_twn
+龙华经典频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=lunghuajingdian_twn
+龙华戏剧频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=lunghuaxiju_twn
+龙华电影频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=xingwei_movie
+龙华偶像频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=lunghuaidol_twn
+龙华洋片频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=lunghuawestern_twn
+纬来日本频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=videolandjapan
+纬来体育频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=videolandsport
+纬来综合频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=videolandzonghe
+纬来育乐频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=videolandyule
+纬来精彩频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=videolandspecial_twn
+靖天国际频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=jingtianintl_twn
+靖天卡通频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=jingtiancartoon_twn
+大爱壹台频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=daai_twn
+大爱贰台频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=daai2_twn
+好消息贰频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=good2_twn
+三立闽南频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=sanlitaiwan
+三立戏剧频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=sanlixiju_twn
+三立综合频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=sanlizhonghe
+三立都会频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=sanlidouhui
+ELta影剧频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=eltayingju_twn
+ELta综合频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=eltazonghe_twn
+ELTA体1频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=eltasport_twn
+ELTA体2频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=eltasport2_twn
+ELTA体3频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=eltasport3_twn
+Eleven一频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=golfchannel_twn
+博斯无限频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=bosiunlimited_twn
+博斯网球频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=bositennis_twn
+博斯运动壹特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=bosisport1_twn
+博斯运动贰特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=bosisport2_twn
+博斯高球壹特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=bosigolf1_twn
+博斯高球贰特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=bosigolf2_twn
+探索亚洲频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=discoverytwn_twn
+国家地理频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=natgeohd_twn
+野生动物频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=natgeowild_twn
+动物星球频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=animalplanet_twn
+美食星球频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=foodplanet_twn
+亚洲美食频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=afc_twn
+亚洲旅游频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=asiatravel_twn
+亚洲TLC频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tlc_twn
+EYE-旅游频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=eyetvtravel_twn
+EYE-戏剧频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=eyetvxiju_twn
+MTv高清频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=mtvhd_twn
+Discover频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=discoverytwn_twn
 央卫高码,#genre#
 CCTV-01高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 CCTV-02高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
@@ -2889,324 +2822,324 @@ Q版-三国粤39,https://vip.dytt-cine.com/20250715/39351_b8e8d48c/index.m3u8
 X战警黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
 Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiqgzsnfeyv74y6.mp4
 体育频特,#genre#
-Astro Premier League 1,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=go_assp1
-Astro EPL 1 backup,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=go_assp1x
-Astro Premier League 2,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=go_assp2
-Astro Grandstand,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=go_assp3
-Astro Football,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=go_assp4
-Astro Sports Plus,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=go_sportsplus
-Astro Badminton 1,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=go_badminton1
-Astro Badminton 2,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=go_badminton2
-Astro W-Sports,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=go_assp5
-Supersports 1,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Assp1
-Supersports 2,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Assp2
-Supersports 3,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Assp3
-Supersports 4,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Assp4
-WWE,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Wwe
-Fight Sports,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Fs
-NBA TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Nba
-Astro Cricket,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Acricket
-Astro Golf,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Agolf
-Tnt Sports 1,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=6fac0aaead
-TNT Sports 2,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=d9a76a79cc
-TNT Sports 3,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=5fea4d73db
-TNT Sports 4,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=tntsport4
-Sony Ten 1,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ten1_raj
-Sony Ten 2,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ten2_raj
-Sony Ten 3,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ten3_raj
-SPOTV 1 HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=go_spotv
-SPO TV 2,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=go_spotv2
-Skysports F1,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=tiankongf1
-Skysports Cricket,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=tiankongcricket
-Skysports EPL,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=tiankongepl
-Skysports Main Event,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=tiankongmain
-Skysports News,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=tiankongnews
-Skysports Mix,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=tiankongmix
-爱尔达体育2台,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=eltasport2_twn
-爱尔达体育3台,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=eltasport3_twn
-Rugby Pass TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Rugbypasstv
-RTM Sports HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Rtmsport
-Arena,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Arena
-Arena 2,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Arena2
-BolaArena 1,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Bolaarena1
-BolaArena 2,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Bolaarena2
-Astro Beinsports 1,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Astrobein1
-Astro Beinsports 2,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Astrobein2
-Astro Beinsports 3,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Astrobein3
+Astro Premier League 1,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=go_assp1
+Astro EPL 1 backup,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=go_assp1x
+Astro Premier League 2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=go_assp2
+Astro Grandstand,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=go_assp3
+Astro Football,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=go_assp4
+Astro Sports Plus,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=go_sportsplus
+Astro Badminton 1,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=go_badminton1
+Astro Badminton 2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=go_badminton2
+Astro W-Sports,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=go_assp5
+Supersports 1,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Assp1
+Supersports 2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Assp2
+Supersports 3,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Assp3
+Supersports 4,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Assp4
+WWE,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Wwe
+Fight Sports,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Fs
+NBA TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Nba
+Astro Cricket,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Acricket
+Astro Golf,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Agolf
+Tnt Sports 1,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=6fac0aaead
+TNT Sports 2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=d9a76a79cc
+TNT Sports 3,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=5fea4d73db
+TNT Sports 4,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tntsport4
+Sony Ten 1,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ten1_raj
+Sony Ten 2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ten2_raj
+Sony Ten 3,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ten3_raj
+SPOTV 1 HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=go_spotv
+SPO TV 2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=go_spotv2
+Skysports F1,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tiankongf1
+Skysports Cricket,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tiankongcricket
+Skysports EPL,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tiankongepl
+Skysports Main Event,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tiankongmain
+Skysports News,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tiankongnews
+Skysports Mix,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tiankongmix
+爱尔达体育2台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=eltasport2_twn
+爱尔达体育3台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=eltasport3_twn
+Rugby Pass TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Rugbypasstv
+RTM Sports HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Rtmsport
+Arena,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Arena
+Arena 2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Arena2
+BolaArena 1,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Bolaarena1
+BolaArena 2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Bolaarena2
+Astro Beinsports 1,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Astrobein1
+Astro Beinsports 2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Astrobein2
+Astro Beinsports 3,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Astrobein3
 电影频特,#genre#
-Cinemax,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Cinemax
-Animax,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Animax
-Movies Now HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=moviesnow_raj
-Star Movies HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=starmovies_raj
-HBO Family,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Hbofamily
-Hits,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Hits
-Warner TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=WarnerTV
-HBO HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Hbo
-HBO Signature,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Hbosignature
-HBO Hits,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Hbohitshd
-SCM,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Weishimovie
-Dreamworks,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Dreamworks
-Thrill,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Thrill
-Hits Movie,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Hitsmovie
-One,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=One
-tvN Movie,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Tvnmovie
-Celestial Classic,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Celestial2
-Celestial Movies HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Celestialindo
-Axn HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Axn
-Paramount Network,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Paramountnetwork
-Astrol Kplus,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Kplus
-Rock Actions,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Rockaction
-Rock Entertainment,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Rockentertain
+Cinemax,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Cinemax
+Animax,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Animax
+Movies Now HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=moviesnow_raj
+Star Movies HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=starmovies_raj
+HBO Family,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Hbofamily
+Hits,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Hits
+Warner TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=WarnerTV
+HBO HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Hbo
+HBO Signature,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Hbosignature
+HBO Hits,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Hbohitshd
+SCM,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Weishimovie
+Dreamworks,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Dreamworks
+Thrill,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Thrill
+Hits Movie,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Hitsmovie
+One,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=One
+tvN Movie,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Tvnmovie
+Celestial Classic,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Celestial2
+Celestial Movies HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Celestialindo
+Axn HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Axn
+Paramount Network,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Paramountnetwork
+Astrol Kplus,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Kplus
+Rock Actions,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Rockaction
+Rock Entertainment,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Rockentertain
 纪录频特,#genre#
-Natgeo_HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=natgeohd_twn
-NatGeo_Wild HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=natgeowild_twn
-Animal_Planet,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=animalplanet_twn
-Discovery Asia,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=discoverytwn_twn
-CI,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ci_twn
-Discovery HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=discoveryhd_twn
-NatGeo HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Natgeo
-Fashion TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=fashiontv_twn
-History,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=History
-BBC Earth HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=bbcearth_twn
-BBC Earth Lifestyle,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=bbclifestyle_twn
-NatGeo Wild HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Natgeowild
-Animal Planet (Eng),http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=AnimalPlanet
-TLC,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Tlc
-Foodnetwork Hd,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Foodnetwork
-HGTV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=HGTV
+Natgeo_HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=natgeohd_twn
+NatGeo_Wild HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=natgeowild_twn
+Animal_Planet,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=animalplanet_twn
+Discovery Asia,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=discoverytwn_twn
+CI,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ci_twn
+Discovery HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=discoveryhd_twn
+NatGeo HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Natgeo
+Fashion TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=fashiontv_twn
+History,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=History
+BBC Earth HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=bbcearth_twn
+BBC Earth Lifestyle,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=bbclifestyle_twn
+NatGeo Wild HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Natgeowild
+Animal Planet (Eng),https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=AnimalPlanet
+TLC,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Tlc
+Foodnetwork Hd,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Foodnetwork
+HGTV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=HGTV
 新闻频特,#genre#
-Skynews,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=skynews_twn
-ABC News,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=abcnews_glo
-CBS HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cbshd_glo
-CBSN HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cbsn_glo
-France 24,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=france24_twn
-DW (Deutsch),http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=dw_twn
-NHK World,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=nhkworld_japan
-Fox News,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=foxnews_twn
-CNN International,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Cnn
-CNN backup,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cnn_twn
-CNBC,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cnbc_twn
-CNA,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cna
-BBC World News,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=bbcnews_twn
-BBC World News,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Bbcnews
-Bloomberg News,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=bloomberg_twn
-Al-Jazeera,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=aljazeera_twn
+Skynews,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=skynews_twn
+ABC News,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=abcnews_glo
+CBS HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cbshd_glo
+CBSN HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cbsn_glo
+France 24,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=france24_twn
+DW (Deutsch),https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=dw_twn
+NHK World,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=nhkworld_japan
+Fox News,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=foxnews_twn
+CNN International,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Cnn
+CNN backup,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cnn_twn
+CNBC,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cnbc_twn
+CNA,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cna
+BBC World News,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=bbcnews_twn
+BBC World News,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Bbcnews
+Bloomberg News,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=bloomberg_twn
+Al-Jazeera,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=aljazeera_twn
 儿童频特,#genre#
-Baby TV Eng,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Babytv
-CBeebies,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Cbeebies
-Kids TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=KidsTV
-Momo TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=momo1_twn
-Baby TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=babytv_twn
-MiaoMi,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=MiaoMi
-Cartoon Network,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Cn
-Nickelodeon,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Nickelodeon
-Nick Jr,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Nickjr
+Baby TV Eng,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Babytv
+CBeebies,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Cbeebies
+Kids TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=KidsTV
+Momo TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=momo1_twn
+Baby TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=babytv_twn
+MiaoMi,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=MiaoMi
+Cartoon Network,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Cn
+Nickelodeon,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Nickelodeon
+Nick Jr,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Nickjr
 新加频特,#genre#
-Channel 5,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Channel5HD
-Channel 8,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Channel8HD
-Suria,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Suria
-Channel U,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ChannelU
-Vasantham,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Vasantham
-CNA backup,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cna_twn
-MeWatch Ch 5,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Mewatch_ch5
-MeWatch Ch 8,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Mewatch_ch8
-MeWatch Ch U,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Mewatch_chU
-MeWatch Suria,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Mewatch_Suria
-MeWatch Vasantham,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Mewatch_Vasantham
-MeWatch CNA,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Mewatch_cna
+Channel 5,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Channel5HD
+Channel 8,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Channel8HD
+Suria,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Suria
+Channel U,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ChannelU
+Vasantham,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Vasantham
+CNA backup,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cna_twn
+MeWatch Ch 5,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Mewatch_ch5
+MeWatch Ch 8,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Mewatch_ch8
+MeWatch Ch U,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Mewatch_chU
+MeWatch Suria,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Mewatch_Suria
+MeWatch Vasantham,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Mewatch_Vasantham
+MeWatch CNA,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Mewatch_cna
 马来频特,#genre#
-TV1,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=TV1
-TV1 backup,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=TV1_backup
-TV2,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=TV2
-TV3,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=TV3
-TV3 SD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=TV3_mega
-NTV7,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=NTV7
-TV8,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=TV8
-TV9,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=TV9
-Ria,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Ria-0
-Ria-3,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Ria_backup
-Al-Hijrah,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Alhijrah
-Al-Hijrah backup,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Alhijrah_backup
-Awani,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Awani
-Bernama,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Bernama
-Prima,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Prima-0
-Prima backup,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=AAprima1
-Prima backup 2,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=AAprima
-Ceria,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Ceria
-Astro MTV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=AstroMTV
-Mecca Live HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=quran_mido
-Madinah HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=sunnah_mido
-Oasis,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Oasis
-Siar,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Siar
-Citra,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=AAcitra
-Citra backup,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=AAcitra1
-Sensasi,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Sensasi
-Aura,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Aura
-Rania,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Rania
-KBS World,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=KBS
-Boo,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Boo
-Awesome TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Dsangat
-Astro Sonypix,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Asonypix
-Sony HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=SetOne
-TvN,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=TVN
-AEC,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=AEC
-华丽台 HD （Wah Lai Toi）,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Wlt
-欢喜台 HD （Hua Hee Tai）,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Huahee
-Astro QJ,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Quanjia
-TVB Jade,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Tvbjade
-TVB Asia,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Tvbasia
-TVB Entertainment,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Tvbentertainment
-TVB Classic,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Tvbclassic
-AOD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Aodhd
-TVB 星河台 Xing He,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Xinhe
-爱奇艺 iQiyi,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Qiyi
-Goshop,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Goshop
-Celestial Movies HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Celestial
-Astro LOL,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Astro_lol
-Astro Rusi,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Rusi
-WION,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Wion
-RTM Asean,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Rtmasean
+TV1,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=TV1
+TV1 backup,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=TV1_backup
+TV2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=TV2
+TV3,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=TV3
+TV3 SD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=TV3_mega
+NTV7,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=NTV7
+TV8,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=TV8
+TV9,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=TV9
+Ria,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Ria-0
+Ria-3,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Ria_backup
+Al-Hijrah,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Alhijrah
+Al-Hijrah backup,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Alhijrah_backup
+Awani,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Awani
+Bernama,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Bernama
+Prima,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Prima-0
+Prima backup,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=AAprima1
+Prima backup 2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=AAprima
+Ceria,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Ceria
+Astro MTV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=AstroMTV
+Mecca Live HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=quran_mido
+Madinah HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=sunnah_mido
+Oasis,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Oasis
+Siar,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Siar
+Citra,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=AAcitra
+Citra backup,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=AAcitra1
+Sensasi,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Sensasi
+Aura,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Aura
+Rania,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Rania
+KBS World,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=KBS
+Boo,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Boo
+Awesome TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Dsangat
+Astro Sonypix,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Asonypix
+Sony HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=SetOne
+TvN,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=TVN
+AEC,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=AEC
+华丽台 HD （Wah Lai Toi）,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Wlt
+欢喜台 HD （Hua Hee Tai）,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Huahee
+Astro QJ,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Quanjia
+TVB Jade,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Tvbjade
+TVB Asia,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Tvbasia
+TVB Entertainment,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Tvbentertainment
+TVB Classic,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Tvbclassic
+AOD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Aodhd
+TVB 星河台 Xing He,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Xinhe
+爱奇艺 iQiyi,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Qiyi
+Goshop,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Goshop
+Celestial Movies HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Celestial
+Astro LOL,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Astro_lol
+Astro Rusi,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Rusi
+WION,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Wion
+RTM Asean,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Rtmasean
 印尼频特,#genre#
-TVRI National,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=TVRI
-RCTI,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Rcti
-Kompass TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Kompass
-Berita Satu,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=BeritaSatu_eko
-Indosiar HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Indosiar
-AnTV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Antv
-MNC TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Mnctv
-Trans 7,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Trans7_eko
-Transtv,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Transtv
-JTV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=JTV_eko
-Metro TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=metrotv_eko
-SCTV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=SCTV
-Tvone,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Tvone
-TVMU,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=TVMU_eko
-GTV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Gtv
-RTV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Rtv
-Jak TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=JakTV
-iNews TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Inewstv
-Daai TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=DaaiTV
-Net TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=NetTV
-EWTN,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Ewtn
-AlQuran AlKareem,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=AlQuran
-Tawaf TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=TawafTV
-Vision Prime,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=VisionPrime
-Muslim TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=MuslimTV
-Music TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=MusicTV
-Lifestyle&amp;Fashion,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Lifestyle
-Entertain,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Entertain
+TVRI National,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=TVRI
+RCTI,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Rcti
+Kompass TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Kompass
+Berita Satu,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=BeritaSatu_eko
+Indosiar HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Indosiar
+AnTV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Antv
+MNC TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Mnctv
+Trans 7,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Trans7_eko
+Transtv,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Transtv
+JTV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=JTV_eko
+Metro TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=metrotv_eko
+SCTV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=SCTV
+Tvone,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Tvone
+TVMU,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=TVMU_eko
+GTV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Gtv
+RTV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Rtv
+Jak TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=JakTV
+iNews TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Inewstv
+Daai TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=DaaiTV
+Net TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=NetTV
+EWTN,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Ewtn
+AlQuran AlKareem,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=AlQuran
+Tawaf TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=TawafTV
+Vision Prime,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=VisionPrime
+Muslim TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=MuslimTV
+Music TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=MusicTV
+Lifestyle&amp;Fashion,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Lifestyle
+Entertain,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Entertain
 印度频特,#genre#
-Sun TV HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Suntv
-Star Vijay,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Starvijay
-Colors Tamil,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Colorstam
-Sun Music,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Sunmusic
-Astro Sunlife,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Sunlife
-Astro Vaanavil,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Vaanavil
-Zee Tamil,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Zeetamil
-Zee Business,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Zeebusiness
-News 18 Tamil,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=news18tamil_raj
-Adithya,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Adithya
-Makkal TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Makkaltv
-Zee Action,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Zeeaction
-Astro KTV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Astroktv
-Zee TV HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Zeetvhd
-Zee Cinema HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Zeecinemahd
-Color HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Colorhd
-Starplus HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Starplushd
-Picture HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Npicture
-Zee News,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Zeenews
-Asianet,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=asianet_raj
-Asianet News,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=asianetnews_raj
-Discovery World Tamil,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=discoveryworldtam_raj
-History Tamil,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=historytam_raj
-NatGeo Tamil,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=natgeotamil_raj
-Natgeo Wild Tamil,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=natgeowildtamil_raj
-Discovery Kids Tamil,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=discoverykidtamil_raj
-Discovery Tamil,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=discoverytamil_raj
-Sony Yay Tamil,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=sonyyaytam_raj
-Sun TV India,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=suntv_raj
-Starmaa HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=starmaa_raj
-Starmaa Movies HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=starmaamovies_raj
-Bollyone,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Bollyone
-Vijay Super,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=vijaysuper_raj
-Vellithirai,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=Vellithirai
+Sun TV HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Suntv
+Star Vijay,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Starvijay
+Colors Tamil,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Colorstam
+Sun Music,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Sunmusic
+Astro Sunlife,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Sunlife
+Astro Vaanavil,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Vaanavil
+Zee Tamil,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Zeetamil
+Zee Business,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Zeebusiness
+News 18 Tamil,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=news18tamil_raj
+Adithya,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Adithya
+Makkal TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Makkaltv
+Zee Action,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Zeeaction
+Astro KTV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Astroktv
+Zee TV HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Zeetvhd
+Zee Cinema HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Zeecinemahd
+Color HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Colorhd
+Starplus HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Starplushd
+Picture HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Npicture
+Zee News,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Zeenews
+Asianet,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=asianet_raj
+Asianet News,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=asianetnews_raj
+Discovery World Tamil,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=discoveryworldtam_raj
+History Tamil,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=historytam_raj
+NatGeo Tamil,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=natgeotamil_raj
+Natgeo Wild Tamil,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=natgeowildtamil_raj
+Discovery Kids Tamil,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=discoverykidtamil_raj
+Discovery Tamil,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=discoverytamil_raj
+Sony Yay Tamil,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=sonyyaytam_raj
+Sun TV India,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=suntv_raj
+Starmaa HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=starmaa_raj
+Starmaa Movies HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=starmaamovies_raj
+Bollyone,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Bollyone
+Vijay Super,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=vijaysuper_raj
+Vellithirai,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Vellithirai
 泰国频特,#genre#
-Channel 3 Thailand,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ch3_pat
-Channel 5 Thailand,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ch5_pat
-Channel 7 Thailand,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ch7_pat
-MCOT HD Thailand-1,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=mcot_pat
-PPTV Thailand1,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=pptv_pat
-Thai Thai,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=thaithai_pat
-Amarin,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=amarin_pat
-Ch 8,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ch8_pat
-GmmOne,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=gmmone_pat
-Mono,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=mono_pat
-Thairath,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=thairath_pat
-tpbs,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=tpbs_pat
-Workpoint,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=workpoint_pat
-Gmm Channel,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=gmmchannel_pat
-Nation,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=nation_pat
-Tnn24,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=tnn24_pat
-Nbt,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=nbt_pat
-New,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=new_pat
-TPTV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=tptv_pat
+Channel 3 Thailand,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ch3_pat
+Channel 5 Thailand,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ch5_pat
+Channel 7 Thailand,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ch7_pat
+MCOT HD Thailand-1,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=mcot_pat
+PPTV Thailand1,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=pptv_pat
+Thai Thai,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=thaithai_pat
+Amarin,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=amarin_pat
+Ch 8,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ch8_pat
+GmmOne,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=gmmone_pat
+Mono,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=mono_pat
+Thairath,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=thairath_pat
+tpbs,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tpbs_pat
+Workpoint,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=workpoint_pat
+Gmm Channel,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=gmmchannel_pat
+Nation,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=nation_pat
+Tnn24,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tnn24_pat
+Nbt,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=nbt_pat
+New,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=new_pat
+TPTV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tptv_pat
 英国频特,#genre#
-BBC 1,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=bbc1_antik
-BBC 2,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=bbc2_antik
-CBBC,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cbbc_antik
-More4,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=more4_antik
-Freesports,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=freesports_antik
-Pick TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=picktv_antik
-itv 1,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=itv1_antik
-itv 2,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=itv2_antik
-Euronews,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=euronews_antik
-Channel 4,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=channel4_antik
-BBC World News,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=bbcworldnews_antik
+BBC 1,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=bbc1_antik
+BBC 2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=bbc2_antik
+CBBC,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cbbc_antik
+More4,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=more4_antik
+Freesports,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=freesports_antik
+Pick TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=picktv_antik
+itv 1,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=itv1_antik
+itv 2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=itv2_antik
+Euronews,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=euronews_antik
+Channel 4,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=channel4_antik
+BBC World News,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=bbcworldnews_antik
 越南频特,#genre#
-ANTV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=viet_antv
-VTV 1,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=viet_vtv1
-VTV 7,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=viet_vtv7
-HTV 7,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=viet_htv7
-HTV 9,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=viet_htv9
-BPTV 2,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=viet_bptv2
-BRT HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=viet_brt
-Ca Mau TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=viet_camautv
-Danang TV1 HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=viet_danangtv1
-Danang TV2 HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=viet_danangtv2
-HBTV HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=viet_hbtv
-PTTH 1,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=viet_ptth1
+ANTV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=viet_antv
+VTV 1,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=viet_vtv1
+VTV 7,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=viet_vtv7
+HTV 7,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=viet_htv7
+HTV 9,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=viet_htv9
+BPTV 2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=viet_bptv2
+BRT HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=viet_brt
+Ca Mau TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=viet_camautv
+Danang TV1 HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=viet_danangtv1
+Danang TV2 HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=viet_danangtv2
+HBTV HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=viet_hbtv
+PTTH 1,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=viet_ptth1
 韩国频特,#genre#
-Arirang HD,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=arirang_korea
-Yonhap News,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=yonhapnews_korea
-CBS,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cbs_korea
-EBS 1,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ebs1_korea
-EBS2,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ebs2_korea
-EBS Plus2,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ebsplus2_korea
-SBS Plus,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=sbsplus_korea
-YTN,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ytn_korea
-KBS World 24,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=kbsworld24_korea
-YTN Science,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ytnscience_korea
-YTN Korean,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ytnkorean_korea
-YTN DMB,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ytndmb_korea
-Apps TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=appongoogle_korea
-All the Kpop,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=allthekpop_korea
-J the Kpop,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=jthekpop_korea
-EBS Kids,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=ebskids_korea
-CGNTV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cgntv_korea
+Arirang HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=arirang_korea
+Yonhap News,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=yonhapnews_korea
+CBS,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cbs_korea
+EBS 1,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ebs1_korea
+EBS2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ebs2_korea
+EBS Plus2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ebsplus2_korea
+SBS Plus,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=sbsplus_korea
+YTN,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ytn_korea
+KBS World 24,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=kbsworld24_korea
+YTN Science,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ytnscience_korea
+YTN Korean,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ytnkorean_korea
+YTN DMB,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ytndmb_korea
+Apps TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=appongoogle_korea
+All the Kpop,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=allthekpop_korea
+J the Kpop,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=jthekpop_korea
+EBS Kids,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ebskids_korea
+CGNTV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cgntv_korea
 日本频特,#genre#
-NHK-総合-2,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=nhkg_japan
-NHK-E,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=nhke_japan
-テレビ朝日 Asahi TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=asahitv_japan
-JET 綜合,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=jettv_japan
-テレビ東京 Tokyo TV,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=tokyotv_japan
-TOKYOMX,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=tokyomx_japan
-NHKBS1,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=nhkbs1_japan
-NHKBSプレミア Premium,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=nhkpremium_japan
-BSジャパン 181,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=bs181_japan
-BSフジ BS Fuji,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=bsfuji_japan
-CNA Japan,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=cna_japan
-BS-TBS,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=bstbs_japan
-NHK Oaska,http://pitv.jun1.xyz:6699/live.php?token=c7127ede2501caa1433d26cf4258f9f22768766b786d35cdadb5ac79a1435484&id=nhkosaka_japan
+NHK-総合-2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=nhkg_japan
+NHK-E,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=nhke_japan
+テレビ朝日 Asahi TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=asahitv_japan
+JET 綜合,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=jettv_japan
+テレビ東京 Tokyo TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tokyotv_japan
+TOKYOMX,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tokyomx_japan
+NHKBS1,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=nhkbs1_japan
+NHKBSプレミア Premium,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=nhkpremium_japan
+BSジャパン 181,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=bs181_japan
+BSフジ BS Fuji,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=bsfuji_japan
+CNA Japan,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=cna_japan
+BS-TBS,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=bstbs_japan
+NHK Oaska,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=nhkosaka_japan
 20250509 09:21:46,https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4
 (请)(地)每日一首,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240192067467.mp4
 (勿)(址)MovieMusic欣赏,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
