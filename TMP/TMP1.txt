@@ -131,8 +131,6 @@ Windows, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226397/index.
 南昌新闻综合, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226382/01.m3u8?fmt=ts2hls
 南昌都市, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226385/01.m3u8?fmt=ts2hls
 南昌资讯, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226374/01.m3u8?fmt=ts2hls
-抚州综合, http://tv.live.fgtxnews.com/fztv/zonghe.m3u8
-抚州公共, http://tv.live.fgtxnews.com/fztv/gonggong.m3u8
 赣州新闻综合, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226408/01.m3u8?fmt=ts2hls
 赣州公共, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226412/01.m3u8?fmt=ts2hls
 赣州教育, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226411/01.m3u8?fmt=ts2hls
