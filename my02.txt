@@ -1,5 +1,5 @@
 注意事项,#genre#
-20260523061108仅供测试自用如有侵权请通知,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
+20260524063613仅供测试自用如有侵权请通知,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
 小川阿佐美,#genre#
 SHKD415夫の目の前で犯されてターゲット小川あさ美（ブルーレイディスク）第01集, https://vip3.lbbf9.com/20220903/fbz77sV7/index.m3u8
 migd00236 ドリームウーマン DREAM WOMAN VOL71 小川あさ美, https://video.jcwbf.com/20220618/Y2VmNTQ5Y2/205458/1280/hls/encrypt/index.m3u8
@@ -9027,7 +9027,7 @@ mytv,#genre#
 翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 RTHK33,https://cdn6.163189.xyz/163189/cctv1
-CCTV13,https://cdn3.163189.xyz/163189/cctv13
+CCTV13,https://cdn10.163189.xyz/163189/f2c81af1-6d81-42f9-a95e-f87861bf64db/
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 HOY77,https://cdn6.163189.xyz/163189/hoy
 HOY77,https://cdn.163189.xyz/163189/hoy
@@ -9070,7 +9070,7 @@ TVB亚洲武侠,https://cdn6.163189.xyz/163189/yzwx
 娛樂新聞台,https://cdn6.163189.xyz/163189/ylxw
 无线新闻,https://cdn6.163189.xyz/163189/wxxwt
 TVB星河,https://cdn6.163189.xyz/163189/tvbxh
-海峡卫视,https://cdn3.163189.xyz/163189/hxws
+海峡卫视,https://cdn10.163189.xyz/163189/37578799-59eb-4cfb-842c-38642e593009/
 TVB星河,https://cdn10.163189.xyz/163189/182d1bd5-0a1a-4db9-bc5b-8a8a74f3869a/
 天映新加坡,https://cdn10.163189.xyz/163189/63f586c0-faad-4d2c-b6db-e10fb7f065aa/
 天映经典,https://cdn10.163189.xyz/163189/280254ed-0f00-4b01-b665-83e5d4dbf908/
@@ -9105,8 +9105,6 @@ CCTV15,https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
 CCTV16,https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
 CCTV17,https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
 重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
-CHC家庭影院,https://cdn13.178.indevs.in/163189/adafdc2e9ef83fe0
-CHC动作电影,https://cdn13.178.indevs.in/163189/32a810b251717bd0
 广州综合,https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
 广州新闻,https://cdn13.178.indevs.in/163189/609602b1e1048784
 南国都市4K,https://cdn15.163189.xyz/163189/90871926591ebcbc
@@ -9127,10 +9125,10 @@ My Cinema Europe,https://cdn12.178.indevs.in/163189/5bda99f1c049edef
 DreamWorks,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
 精選動漫台,https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
 金光布袋戲,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
-翡翠台,https://hls.163189.xyz/163189/0205c25f6b2ce920
-明珠台,https://hls.163189.xyz/163189/d6a00a3009bf239e
-TVB Plus,https://hls.163189.xyz/163189/a2beac471af96802
-黃金華劇台,https://hls.163189.xyz/163189/71fb62ece10887e8
+翡翠台,https://cdn10.163189.xyz/163189/75ace425-1c8f-4cf2-88a1-96726edb9710/
+明珠台,https://cdn10.163189.xyz/163189/1f2b21c8-6ff6-423e-ac52-5593ade00a8e/
+TVB Plus,https://cdn10.163189.xyz/163189/1cd50dbc-10ab-458b-8f3e-91368bcc934b/
+黃金華劇台,https://cdn10.163189.xyz/163189/fdc65fb4-6222-4480-85f0-08dc76f180a9/
 TVB Plus,https://smt.1678520.xyz/163189/de659ed6e3ab1e55
 纬来电影台,https://smt.1678520.xyz/163189/602e9465658d4f8c
 纬来戏剧台,https://smt.1678520.xyz/163189/ab657380c65c1fd1
@@ -9139,31 +9137,6 @@ TVB Plus,https://smt.1678520.xyz/163189/de659ed6e3ab1e55
 东森电影,https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
 东森戏剧,https://smt.1678520.xyz/163189/f60cd3f14b06dabc
 东森洋片,https://smt.1678520.xyz/163189/cd69d6ff4e8217c7
-翡翠台,https://smt2.1678520.xyz/smt3.2.1.php?id=jadetwn
-TVB Jade HD,https://smt2.1678520.xyz/smt3.2.1.php?id=Tvbjade
-明珠台,https://smt2.1678520.xyz/smt3.2.1.php?id=pearltwn
-无线新闻,https://smt2.1678520.xyz/smt3.2.1.php?id=inewstwn
-TVB Plus,https://smt2.1678520.xyz/smt3.2.1.php?id=j2twn
-TVB星河,https://smt2.1678520.xyz/smt3.2.1.php?id=Xinhe
-千禧經典台,https://smt2.1678520.xyz/smt3.2.1.php?id=Tvbclassic
-娛樂新聞台,https://smt2.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
-ViuTV,https://smt2.1678520.xyz/smt3.2.1.php?id=viu1twn
-ViuTVsix,https://smt2.1678520.xyz/smt3.2.1.php?id=viusixtwn
-HOY78,https://smt2.1678520.xyz/smt3.2.1.php?id=hoycaijingtwn
-凤凰中文,https://smt2.1678520.xyz/smt3.2.1.php?id=phoenixtvhd
-凤凰资讯,https://smt2.1678520.xyz/smt3.2.1.php?id=phoenixinfohd
-凤凰香港,https://smt2.1678520.xyz/smt3.2.1.php?id=hkphoenixtwn
-美亞電影台,https://smt2.1678520.xyz/smt3.2.1.php?id=meiyamovietwn
-天映马来西亚,https://smt2.1678520.xyz/smt3.2.1.php?id=Celestial
-天映经典,https://smt2.1678520.xyz/smt3.2.1.php?id=Celestial2
-AOD,https://smt2.1678520.xyz/smt3.2.1.php?id=Aodhd
-AEC,https://smt2.1678520.xyz/smt3.2.1.php?id=AEC
-iQIYI,https://smt2.1678520.xyz/smt3.2.1.php?id=Qiyi
-QJ,https://smt2.1678520.xyz/smt3.2.1.php?id=Quanjia
-HUA HEE DAI,https://smt2.1678520.xyz/smt3.2.1.php?id=Huahee
-八度空间,https://smt2.1678520.xyz/smt3.2.1.php?id=TV8
-纬来电影台,https://smt2.1678520.xyz/smt3.2.1.php?id=videolandmovie
-纬来体育台,https://smt2.1678520.xyz/smt3.2.1.php?id=videolandsport
 =我的收藏=,#genre#
 CAWD-350 跟男上司出差 夏巳百合香,https://video.bttbo.com/20220820/ODNiNGE0Nj/155509/1280/hls/encrypt/index.m3u8
 CAWD-355 臀部完全走光后入中出 天音由衣,https://video.bttbo.com/20220701/YjU2Mjc4Nj/175144/1280/hls/encrypt/index.m3u8
